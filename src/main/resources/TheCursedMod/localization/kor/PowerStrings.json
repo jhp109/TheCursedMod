@@ -1,0 +1,94 @@
+{
+  "TheCursedMod:BleedPower": {
+    "NAME": "출혈",
+    "DESCRIPTIONS": [
+      "#y공격 할 때마다, #b",
+      " 의 피해를 받습니다. 턴 종료 시 #y출혈 이 #b1 감소합니다."
+    ]
+  },
+  "TheCursedMod:CollectTributePower": {
+    "NAME": "공물 수집",
+    "DESCRIPTIONS": [
+      "턴 시작 시 [E] 를 얻고 무작위 #r저주 카드를 #b1 장 얻습니다.",
+      "턴 시작 시 에너지를 #b",
+      " 얻고 무작위 #r저주 카드를 #b",
+      " 장 얻습니다."
+    ]
+  },
+  "TheCursedMod:DemonicPactPower": {
+    "NAME": "악마와의 계약",
+    "DESCRIPTIONS": [
+      "#y의식 카드를 사용할 때 마다 카드를 #b1 장 뽑습니다.",
+      "#y의식 카드를 사용할 때 마다 카드를 #b",
+      " 장 뽑습니다."
+    ]
+  },
+  "TheCursedMod:EmpowerCirclesPower": {
+    "NAME": "마법진 강화",
+    "DESCRIPTIONS": [
+      "#y마법진 카드를 뽑올 때마다 [E] 를 얻고 카드를 #b1 장 뽑습니다.",
+      "#y마법진 카드를 뽑올 때마다 에너지를 #b",
+      " 얻고 카드를 #b",
+      " 장 뽑습니다."
+    ]
+  },
+  "TheCursedMod:HellfireBreathingPower": {
+    "NAME": "지옥불 뿜기",
+    "DESCRIPTIONS": [
+      "#r저주 카드를 뽑을 때마다 적 전체에게 피해를 #b",
+      " 줍니다."
+    ]
+  },
+  "TheCursedMod:HellsGateOpenPower": {
+    "NAME": "지옥문 개방",
+    "DESCRIPTIONS": [
+      "턴 시작 시 무작위 #y저주받은 카드를 #b1 장 얻습니다.",
+      "턴 시작 시 무작위 #y저주받은 카드를 #b",
+      " 장 얻습니다."
+    ]
+  },
+  "TheCursedMod:HemoplaguePower": {
+    "NAME": "혈사병",
+    "DESCRIPTIONS": [
+      "매 턴 시작 시 적 전체에게 #b",
+      " 의 #y출혈 을 부여합니다."
+    ]
+  },
+  "TheCursedMod:LuckyCharmPower": {
+    "NAME": "액땜 부적",
+    "DESCRIPTIONS": [
+      "#r저주 카드를 뽑거나 #r저주 카드가 #y소멸 될 때마다 #y방어도 를 #b",
+      " 얻습니다."
+    ]
+  },
+  "TheCursedMod:ManaCirculationPower": {
+    "NAME": "마나 순환",
+    "DESCRIPTIONS": [
+      "#r저주 카드가 #y소멸 될 때마다 [E] 를 얻습니다.",
+      "#r저주 카드가 #y소멸 될 때마다 에너지를 #b",
+      " 얻습니다."
+    ]
+  },
+  "TheCursedMod:OutForBloodPower": {
+    "NAME": "복수의 칼날",
+    "DESCRIPTIONS": [
+      "방어되지 않은 #y공격 피해를 입힐 때마다 #b",
+      " 의 #y출혈 을 부여합니다."
+    ]
+  },
+  "TheCursedMod:SpitefulPlanPower": {
+    "NAME": "원한 맺힌 계략",
+    "DESCRIPTIONS": [
+      "#r저주 카드를 뽑올 때마다 카드를 #b1 장 뽑습니다.",
+      "#r저주 카드를 뽑을 때마다 카드를 #b",
+      " 장 뽑습니다."
+    ]
+  },
+  "TheCursedMod:VoidFormPower": {
+    "NAME": "공허의 형상",
+    "DESCRIPTIONS": [
+      "#r저주 카드를 뽑을 때마다 #y힘 을 #b",
+      " 얻습니다."
+    ]
+  }
+}

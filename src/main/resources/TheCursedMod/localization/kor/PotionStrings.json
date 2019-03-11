@@ -1,0 +1,15 @@
+{
+  "TheCursedMod:DregsPotion": {
+    "NAME": "찌꺼기 포션",
+    "DESCRIPTIONS": [
+      "#r찌꺼기 카드를 #b",
+      " 장 얻습니다."
+    ]
+  },
+  "TheCursedMod:DregsPotionKeyword": {
+    "NAME": "찌꺼기",
+    "DESCRIPTIONS": [
+      "사용 불가인 #r저주 카드입니다."
+    ]
+  }
+}

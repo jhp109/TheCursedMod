@@ -1,0 +1,45 @@
+{
+  "TheCursedMod:BleedKeyword": {
+    "PROPER_NAME": "Bleed",
+    "NAMES": [
+      "bleed",
+      "bleeding"
+    ],
+    "DESCRIPTION": "Bleeding creature loses HP whenever it Attacks. Each turn, Bleed is reduced by #b1."
+  },
+  "TheCursedMod:CircleKeyword": {
+    "PROPER_NAME": "Circle",
+    "NAMES": [
+      "circle"
+    ],
+    "DESCRIPTION": "An #yUnplayable card that can be activated by using other cards while in hand."
+  },
+  "TheCursedMod:CursedKeyword": {
+    "PROPER_NAME": "Cursed",
+    "NAMES": [
+      "cursed"
+    ],
+    "DESCRIPTION": "Any card with the word \"Cursed\" in its name. Using it will make Dregs or random Curse cards."
+  },
+  "TheCursedMod:DregsKeyword": {
+    "PROPER_NAME": "Dregs",
+    "NAMES": [
+      "dregs"
+    ],
+    "DESCRIPTION": "Dregs are unplayable Curse cards."
+  },
+  "TheCursedMod:RitualKeyword": {
+    "PROPER_NAME": "Ritual",
+    "NAMES": [
+      "ritual"
+    ],
+    "DESCRIPTION": "When using, choose 1 card to #yExhaust. Selecting a Curse card will activate the Ritual's effect."
+  },
+  "TheCursedMod:StunKeyword": {
+    "PROPER_NAME": "Stun",
+    "NAMES": [
+      "stun"
+    ],
+    "DESCRIPTION": "Cannot do anything."
+  }
+}

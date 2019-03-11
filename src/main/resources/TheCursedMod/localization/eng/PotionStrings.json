@@ -1,0 +1,15 @@
+{
+  "TheCursedMod:DregsPotion": {
+    "NAME": "Dregs Potion",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #rDregs card into your hand."
+    ]
+  },
+  "TheCursedMod:DregsPotionKeyword": {
+    "NAME": "Dregs",
+    "DESCRIPTIONS": [
+      "Dregs are unplayable #rCurse cards."
+    ]
+  }
+}

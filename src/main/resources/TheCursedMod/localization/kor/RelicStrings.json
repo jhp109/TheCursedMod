@@ -1,0 +1,90 @@
+{
+  "TheCursedMod:BlackMagic101": {
+    "NAME": "흑마법 입문서",
+    "FLAVOR": "흑마법, 지금 시작하십시오!!!  {개정 4판}",
+    "DESCRIPTIONS": [
+      "턴 시작시 뽑을 카드 더미에 #r저주 카드가 있다면, 카드를 #b1 장 더 뽑습니다."
+    ]
+  },
+  "TheCursedMod:BlackMagicAdvanced": {
+    "NAME": "흑마법 전공서",
+    "FLAVOR": "[저주와 마법진이 인체에 끼치는 영향 및 부작용]",
+    "DESCRIPTIONS": [
+      "#g흑마법 #g입문서 와 교체됩니다. 턴 시작시 뽑을 카드 더미에 #r저주 카드가 있다면, 카드를 #b2 장 더 뽑습니다."
+    ]
+  },
+  "TheCursedMod:BloodyHarpoon": {
+    "NAME": "피 묻은 작살",
+    "FLAVOR": "작살 박으면 꼼짝못해!",
+    "DESCRIPTIONS": [
+      "#y출혈 을 부여할 때마다 출혈을 #b",
+      " 추가로 부여합니다."
+    ]
+  },
+  "TheCursedMod:CrystalBall": {
+    "NAME": "수정 구슬",
+    "FLAVOR": "색깔이 프리즘 같다구요? 너무 말이 심하시네.",
+    "DESCRIPTIONS": [
+      "#r저주 카드가 #y소멸 될 때마다 무작위 적에게 피해를 #b",
+      " 줍니다."
+    ]
+  },
+  "TheCursedMod:DemonicMark": {
+    "NAME": "악마의 표식",
+    "FLAVOR": "어디서 봤던 표식 같다면 기분 탓입니다. (단호)",
+    "DESCRIPTIONS": [
+      "한 턴에 #y마법진 의 효과가 #b",
+      " 번 발동될 때마다 #y힘 을 #b",
+      " 얻습니다."
+    ]
+  },
+  "TheCursedMod:FourLeafCloverCharm": {
+    "NAME": "네잎클로버 부적",
+    "FLAVOR": "행운과 행복은 감사로부터 옵니다.",
+    "DESCRIPTIONS": [
+      "전투 중에 카드나 유물의 효과로 무작위 #r저주 가 생성될 때마다, 그 대신 #r찌꺼기 가 생성됩니다."
+    ]
+  },
+  "TheCursedMod:MagicCandle": {
+    "NAME": "마법 양초",
+    "FLAVOR": "의식을 치를 때 마다 주변의 마나를 모으는 역할을 합니다.",
+    "DESCRIPTIONS": [
+      "#y마법진 의 효과가 #b",
+      " 번 발동될 때마다 [E] 를 얻습니다."
+    ]
+  },
+  "TheCursedMod:OminousMark": {
+    "NAME": "불길한 표식",
+    "FLAVOR": "자세히 보면 표식이 일렁이는 것 같습니다...",
+    "DESCRIPTIONS": [
+      "매 턴 시작 시 [E] 를 얻습니다. 전투를 시작할 때 무작위 #r저주 카드 #b",
+      " 장을 뽑을 카드 더미에 넣고 섞습니다."
+    ]
+  },
+  "TheCursedMod:PinkPellets": {
+    "NAME": "분홍색 알약",
+    "FLAVOR": "오렌지 알약의 자매품입니다!",
+    "DESCRIPTIONS": [
+      "한 턴에 #y마법진 의 효과가 #b",
+      " 번 발동될 때마다 현재 지닌 모든 해로운 효과를 제거합니다."
+    ]
+  },
+  "TheCursedMod:SoulVessel": {
+    "NAME": "영혼 그릇",
+    "FLAVOR": "영혼의 향연이 시작 되리라~~",
+    "DESCRIPTIONS": [
+      "전투가 끝날 때 이번 전투에서 #y소멸 된 #r저주 카드의 개수만큼 체력을 회복합니다.",
+      " (이번 전투에서 #b1 장의 #r저주 카드가 #y소멸 되었습니다.)",
+      " (이번 전투에서 #b",
+      " 장의 #r저주 카드가 #y소멸 되었습니다.)"
+    ]
+  },
+  "TheCursedMod:Tack": {
+    "NAME": "압정",
+    "FLAVOR": "밟으면 아파요.",
+    "DESCRIPTIONS": [
+      "전투 시작시 모든 적에게 #y출혈 을 #b",
+      " 부여합니다."
+    ]
+  }
+}

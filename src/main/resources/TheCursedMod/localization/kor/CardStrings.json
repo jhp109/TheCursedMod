@@ -1,0 +1,361 @@
+{
+  "TheCursedMod:AbyssShockwave": {
+    "NAME": "심연의 파동",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 손에 저주 카드가 있다면, 같은 피해를 한번 더 줍니다."
+  },
+  "TheCursedMod:AntiAging": {
+    "NAME": "회춘",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 의식 : 최대 체력이 !M! 증가합니다. NL 소멸"
+  },
+  "TheCursedMod:AshesToAshes": {
+    "NAME": "재에서 재로",
+    "DESCRIPTION": "의식 : 카드를 !M! 장 뽑습니다."
+  },
+  "TheCursedMod:BlessingInDisguise": {
+    "NAME": "전화위복",
+    "DESCRIPTION": "손에 있는 저주 카드를 전부 소멸 시킵니다. NL 그 수만큼 방어도 를 !B! 얻습니다."
+  },
+  "TheCursedMod:BloodBarrier": {
+    "NAME": "피의 결계",
+    "DESCRIPTION": "의식 : 잃은 체력만큼 방어도 를 얻습니다. NL 소멸",
+    "EXTENDED_DESCRIPTION": [
+      " NL (방어도 를 !B! 얻습니다.)"
+    ]
+  },
+  "TheCursedMod:CircleOfAbyss": {
+    "NAME": "심연의 마법진",
+    "DESCRIPTION": "마법진 NL 카드를 사용할 때 마다 방어도 를 !M! 얻습니다. NL 이 카드가 소멸되면 [E] 를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "마법진 NL 카드를 사용할 때 마다 방어도 를 !M! 얻습니다. NL 이 카드가 소멸되면 [E] [E] 를 얻습니다.",
+    "EXTENDED_DESCRIPTION": [
+      "이 카드는 사용할 수 없다."
+    ]
+  },
+  "TheCursedMod:CircleOfAmplification": {
+    "NAME": "증폭의 마법진",
+    "DESCRIPTION": "마법진 NL 파워 카드를 사용할 때 마다 [E] 를 얻고 카드를 1장 뽑습니다. NL 휘발성",
+    "UPGRADE_DESCRIPTION": "마법진 NL 파워 카드를 사용할 때 마다 [E] 를 얻고 카드를 1장 뽑습니다.",
+    "EXTENDED_DESCRIPTION": [
+      "이 카드는 사용할 수 없다."
+    ]
+  },
+  "TheCursedMod:CircleOfBlood": {
+    "NAME": "피의 마법진",
+    "DESCRIPTION": "마법진 NL 공격 카드를 사용할 때 마다 체력을 !M! 회복합니다. NL 휘발성",
+    "EXTENDED_DESCRIPTION": [
+      "이 카드는 사용할 수 없다."
+    ]
+  },
+  "TheCursedMod:CircleOfCorruption": {
+    "NAME": "부패의 마법진",
+    "DESCRIPTION": "마법진 NL 스킬 카드를 사용할 때 마다 무작위 적에게 피해를 !M! 줍니다.",
+    "EXTENDED_DESCRIPTION": [
+      "이 카드는 사용할 수 없다."
+    ]
+  },
+  "TheCursedMod:CircleOfFlame": {
+    "NAME": "불 뿜는 마법진",
+    "DESCRIPTION": "마법진 NL 공격 카드를 사용할 때 마다 적 전체에게 피해를 !M! 줍니다.",
+    "EXTENDED_DESCRIPTION": [
+      "이 카드는 사용할 수 없다."
+    ]
+  },
+  "TheCursedMod:CircleOfFocus": {
+    "NAME": "집중의 마법진",
+    "DESCRIPTION": "마법진 NL 비용이 !M! 이상인 카드를 사용할 때마다 [E] 를 얻습니다.",
+    "EXTENDED_DESCRIPTION": [
+      "이 카드는 사용할 수 없다."
+    ]
+  },
+  "TheCursedMod:CircleOfWindfury": {
+    "NAME": "질풍의 마법진",
+    "DESCRIPTION": "마법진 NL 비용이 0 인 카드를 사용할 때마다 카드를 1장 뽑습니다. NL 휘발성",
+    "UPGRADE_DESCRIPTION": "마법진 NL 비용이 0 인 카드를 사용할 때마다 카드를 1장 뽑습니다.",
+    "EXTENDED_DESCRIPTION": [
+      "이 카드는 사용할 수 없다."
+    ]
+  },
+  "TheCursedMod:CleanUpWorkshop": {
+    "NAME": "공방 청소",
+    "DESCRIPTION": "의식 : 방어도 를 !B! 얻고 카드를 !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "의식 : 방어도 를 !B! 얻고 카드를 !M! 장 뽑습니다."
+  },
+  "TheCursedMod:CollectTribute": {
+    "NAME": "공물 수집",
+    "DESCRIPTION": "매 턴 시작 시 [E] 를 얻고 무작위 저주 카드를 1장 얻습니다.",
+    "UPGRADE_DESCRIPTION": "선천성 NL 매 턴 시작 시 [E] 를 얻고 무작위 저주 카드를 1장 얻습니다."
+  },
+  "TheCursedMod:CursedAmulet": {
+    "NAME": "저주받은 목걸이",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 카드를 1장 뽑습니다. NL 무작위 저주 카드를 뽑을 카드 더미에 섞습니다."
+  },
+  "TheCursedMod:CursedArmor": {
+    "NAME": "저주받은 갑옷",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 무작위 저주 카드 2장을 뽑을 카드 더미에 섞습니다."
+  },
+  "TheCursedMod:CursedBlade": {
+    "NAME": "저주받은 칼날",
+    "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. NL 찌꺼기 를 얻습니다."
+  },
+  "TheCursedMod:CursedBoomerang": {
+    "NAME": "저주받은 부메랑",
+    "DESCRIPTION": "무작위 적들에게 피해를 !D! 만큼 !M! 번 줍니다. NL 찌꺼기 를 얻습니다."
+  },
+  "TheCursedMod:CursedMace": {
+    "NAME": "저주받은 철퇴",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 취약 을 !M! 부여합니다. NL 찌꺼기 를 얻습니다."
+  },
+  "TheCursedMod:CursedRelics": {
+    "NAME": "저주받은 유물들",
+    "DESCRIPTION": "유물 수의 !M! 배만큼 피해를 줍니다. NL 찌꺼기 를 얻습니다.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (피해를 !D! 줍니다.)"
+    ]
+  },
+  "TheCursedMod:CursedShiv": {
+    "NAME": "저주받은 단검",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 찌꺼기 를 얻습니다."
+  },
+  "TheCursedMod:CursedSpellbook": {
+    "NAME": "저주받은 주문서",
+    "DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 무작위 저주 카드를 뽑을 카드 더미에 섞습니다."
+  },
+  "TheCursedMod:CursedStaff": {
+    "NAME": "저주받은 지팡이",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 찌꺼기 2장을 얻습니다."
+  },
+  "TheCursedMod:CursedWand": {
+    "NAME": "저주받은 마법봉",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 피해를 !D! 줍니다. NL 찌꺼기 를 얻습니다."
+  },
+  "TheCursedMod:DarkBarrier": {
+    "NAME": "어둠의 결계",
+    "DESCRIPTION": "의식 : 불가침 을 !M! 얻습니다. NL 소멸"
+  },
+  "TheCursedMod:Defend_TheCursed": {
+    "NAME": "수비",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+  "TheCursedMod:DemonSword": {
+    "NAME": "마검",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 손에 있는 저주 카드를 전부 소멸 시키고 그 수만큼 힘 을 !M! 얻습니다."
+  },
+  "TheCursedMod:DemonicPact": {
+    "NAME": "악마와의 계약",
+    "DESCRIPTION": "의식 카드를 사용할 때 마다 카드를 1장 뽑습니다."
+  },
+  "TheCursedMod:DoubleShield": {
+    "NAME": "이중 방벽",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 의식 : 다음 턴에 방어도 를 !B! 얻습니다."
+  },
+  "TheCursedMod:Dregs": {
+    "NAME": "찌꺼기",
+    "DESCRIPTION": "사용불가"
+  },
+  "TheCursedMod:ManaBullet": {
+    "NAME": "마력탄",
+    "DESCRIPTION": "손에 있는 저주 카드 1장당 피해를 !D! 줍니다.",
+    "UPGRADE_DESCRIPTION": "손에 있는 사용불가 카드 1장당 피해를 !D! 줍니다.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (현재 ",
+      " 장의 저주 카드가 있습니다.)",
+      " 장의 저주 카드가 있습니다.)",
+      " NL (현재 ",
+      " 장의 사용불가 카드가 있습니다.)",
+      " 장의 사용불가 카드가 있습니다.)"
+    ]
+  },
+  "TheCursedMod:EmpowerCircles": {
+    "NAME": "마법진 강화",
+    "DESCRIPTION": "마법진 카드를 뽑으면 [E] 를 얻고 카드를 1장 뽑습니다."
+  },
+  "TheCursedMod:Evocation": {
+    "NAME": "환기",
+    "DESCRIPTION": "의식 : 현재 지닌 모든 해로운 효과를 제거합니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "의식 : 현재 지닌 모든 해로운 효과를 제거하고 인공물 을 1 얻습니다. NL 소멸"
+  },
+  "TheCursedMod:FleshFromBone": {
+    "NAME": "뼈에서 살을",
+    "DESCRIPTION": "의식 : 판금 갑옷을 !M! 얻습니다."
+  },
+  "TheCursedMod:ForbiddenAlchemy": {
+    "NAME": "금단의 연금술",
+    "DESCRIPTION": "의식 : 엔트로피의 영액 포션을 하나 얻습니다. NL 소멸"
+  },
+  "TheCursedMod:FuryStrike": {
+    "NAME": "분노의 타격",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 손에 있는 모든 타격 카드의 비용을 이번 턴 동안 0으로 만듭니다."
+  },
+  "TheCursedMod:Grudge": {
+    "NAME": "악의",
+    "DESCRIPTION": "무작위 의식 카드 1장을 얻습니다. NL 이번 턴 동안 그 카드의 비용이 0이 됩니다. NL 소멸"
+  },
+  "TheCursedMod:HellfireBreathing": {
+    "NAME": "지옥불 뿜기",
+    "DESCRIPTION": "저주 카드를 뽑을 때마다 적 전체에게 피해를 !M! 줍니다."
+  },
+  "TheCursedMod:HellsGateOpen": {
+    "NAME": "지옥문 개방",
+    "DESCRIPTION": "턴 시작 시 무작위 저주받은 카드를 1장 얻습니다.",
+    "UPGRADE_DESCRIPTION": "선천성 NL 턴 시작 시 무작위 저주받은 카드를 1장 얻습니다."
+  },
+  "TheCursedMod:Hemoplague": {
+    "NAME": "혈사병",
+    "DESCRIPTION": "매 턴 시작 시 적 전체에게 출혈 을 !M! 부여합니다."
+  },
+  "TheCursedMod:LuckyCharm": {
+    "NAME": "액땜 부적",
+    "DESCRIPTION": "저주 카드를 뽑거나 저주 카드가 소멸 될 때마다 방어도 를 !M! 얻습니다."
+  },
+  "TheCursedMod:ManaCirculation": {
+    "NAME": "마나 순환",
+    "DESCRIPTION": "저주 카드가 소멸 될 때마다 [E] 를 얻습니다. NL 휘발성",
+    "UPGRADE_DESCRIPTION": "저주 카드가 소멸 될 때마다 [E] 를 얻습니다."
+  },
+  "TheCursedMod:Mangle": {
+    "NAME": "짓이기기",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 적이 출혈 상태라면 NL [E] 를 얻고 NL 카드를 1장 뽑습니다."
+  },
+  "TheCursedMod:Neurasthenia": {
+    "NAME": "신경쇠약",
+    "DESCRIPTION": "손에 있는 저주 카드를 전부 소멸 시킵니다. NL 그 수에 !M! 을 더한 만큼 적의 힘 을 감소시킵니다. NL 소멸"
+  },
+  "TheCursedMod:NeowsMight": {
+    "NAME": "니오우의 권능",
+    "DESCRIPTION": "카드를 2장 뽑습니다. NL 손에 있는 모든 카드의 비용을 이번 턴 동안 1 줄입니다. NL 소멸"
+  },
+  "TheCursedMod:Obscuration": {
+    "NAME": "엄폐",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 의식 : 한번 더 방어도 를 !B! 얻습니다."
+  },
+  "TheCursedMod:OutForBlood": {
+    "NAME": "복수의 칼날",
+    "DESCRIPTION": "공격으로 적의 체력을 감소시킬 때마다 출혈 을 1 씩 부여합니다."
+  },
+  "TheCursedMod:ParallelWorld": {
+    "NAME": "평행세계",
+    "DESCRIPTION": "손에 있는 모든 카드를 복사하여 뽑을 카드 더미에 섞습니다. NL 소멸"
+  },
+  "TheCursedMod:PrepareRitual": {
+    "NAME": "의식 준비",
+    "DESCRIPTION": "저주 가 아닌 카드를 원하는 만큼 선택해 소멸 시킵니다. NL 그 수 만큼 찌꺼기 를 얻습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "저주 가 아닌 카드를 원하는 만큼 선택해 소멸 시킵니다. NL 그 수 만큼 찌꺼기 를 얻습니다."
+  },
+  "TheCursedMod:RapidMovement": {
+    "NAME": "재빠른 몸놀림",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 의식 : 카드를 !M! 장 뽑습니다."
+  },
+  "TheCursedMod:RavingStaff": {
+    "NAME": "날뛰는 지팡이",
+    "DESCRIPTION": "무작위 적에게 피해를 !D! 만큼 X 번 줍니다."
+  },
+  "TheCursedMod:ReleasedKnowledge": {
+    "NAME": "풀려난 지식",
+    "DESCRIPTION": "의식 : 무작위 마법진 카드를 얻습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "의식 : 무작위 마법진 카드를 얻습니다."
+  },
+  "TheCursedMod:ReleasedStrength": {
+    "NAME": "풀려난 힘",
+    "DESCRIPTION": "의식 : 힘 을 !M! 얻습니다. NL 휘발성"
+  },
+  "TheCursedMod:SaltUponWound": {
+    "NAME": "상처에 소금을",
+    "DESCRIPTION": "선택한 적은 출혈 로 인한 피해를 즉시 2번 받습니다. NL 출혈 을 !M! 부여합니다."
+  },
+  "TheCursedMod:ShockAndAwe": {
+    "NAME": "충격과 공포",
+    "DESCRIPTION": "피해를 !D! 씩 3번 줍니다. NL 무작위 저주 카드 2장을 뽑을 카드 더미에 섞습니다."
+  },
+  "TheCursedMod:SmokeScreen": {
+    "NAME": "연막",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 의식 : 모든 적에게 약화 를 !M! 부여합니다."
+  },
+  "TheCursedMod:SoulCrush": {
+    "NAME": "영혼 강타",
+    "DESCRIPTION": "손에 있는 저주 카드를 전부 소멸 시킵니다. NL 피해를 !D! 줍니다."
+  },
+  "TheCursedMod:SoulReap": {
+    "NAME": "영혼 수확",
+    "DESCRIPTION": "피해를 !D! 줍니다. 이 피해로 적이 죽으면 체력을 !M! 회복합니다. NL 소멸"
+  },
+  "TheCursedMod:SpitefulPlan": {
+    "NAME": "원한 맺힌 계략",
+    "DESCRIPTION": "저주 카드를 뽑으면 카드를 !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "저주 카드를 뽑으면 카드를 !M! 장 뽑습니다."
+  },
+  "TheCursedMod:SpitefulPray": {
+    "NAME": "원한 맺힌 기도",
+    "DESCRIPTION": "[E] 를 얻습니다. NL 손에 저주 카드가 있다면 추가로 [E] 를 얻습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "[E] [E] 를 얻습니다. NL 손에 저주 카드가 있다면 추가로 [E] 를 얻습니다. NL 소멸"
+  },
+  "TheCursedMod:SpitefulStrike": {
+    "NAME": "원한 맺힌 타격",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 손에 저주 카드가 있다면 [E] [E] 를 얻습니다."
+  },
+  "TheCursedMod:SpreadPlague": {
+    "NAME": "역병 퍼뜨리기",
+    "DESCRIPTION": "적 전체에게 출혈 을 !M! 부여하고 취약 을 3 부여합니다. NL 소멸"
+  },
+  "TheCursedMod:Stigma": {
+    "NAME": "낙인",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 출혈 을 !M! 부여합니다."
+  },
+  "TheCursedMod:StingEye": {
+    "NAME": "눈 찌르기",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 약화 를 NL !M! 부여합니다. NL 출혈 을 NL !M! 부여합니다."
+  },
+  "TheCursedMod:Stretching": {
+    "NAME": "스트레칭",
+    "DESCRIPTION": "민첩 을 !M! 얻습니다. NL 턴이 끝날 때 민첩 을 !M! 잃습니다."
+  },
+  "TheCursedMod:Strike_TheCursed": {
+    "NAME": "타격",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+  "TheCursedMod:StunningStrike": {
+    "NAME": "명치 타격",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 선택한 적이 공격할 의도가 있다면 기절 을 !M! 부여합니다. NL 소멸"
+  },
+  "TheCursedMod:SurpriseAttack": {
+    "NAME": "급습",
+    "DESCRIPTION": "선천성 NL 피해를 !D! 줍니다. NL 카드를 1장 뽑습니다. NL 소멸"
+  },
+  "TheCursedMod:TacticalStrike": {
+    "NAME": "전략적인 타격",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 다음 턴에 카드를 !M! 장 더 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 다음 턴에 카드를 !M! 장 더 뽑습니다."
+  },
+  "TheCursedMod:Torture": {
+    "NAME": "고문",
+    "DESCRIPTION": "출혈 을 !M! 부여합니다."
+  },
+  "TheCursedMod:TroublousMinions": {
+    "NAME": "골칫덩이 사역마",
+    "DESCRIPTION": "이 카드를 뽑으면 동일한 카드를 추가로 1장 얻습니다. NL 방어도 를 !B! 얻고 찌꺼기 를 얻습니다. NL 소멸"
+  },
+  "TheCursedMod:UltimatePain": {
+    "NAME": "궁극의 고통",
+    "DESCRIPTION": "선택한 적은 출혈 로 인한 피해를 즉시 X 번 받습니다.",
+    "UPGRADE_DESCRIPTION": "선택한 적은 출혈 로 인한 피해를 즉시 X+1 번 받습니다."
+  },
+  "TheCursedMod:VitalStrike": {
+    "NAME": "급소 타격",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 대상이 출혈 상태라면 두 배의 피해를 입힙니다."
+  },
+  "TheCursedMod:VoidForm": {
+    "NAME": "공허의 형상",
+    "DESCRIPTION": "무작위 저주 카드 2장을 뽑을 카드 더미에 섞습니다. NL 저주 카드를 뽑을 때마다 힘 을 !M! 얻습니다."
+  },
+  "TheCursedMod:WearCloak": {
+    "NAME": "망토 두르기",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 손에 저주 카드가 있다면 [E] 를 얻습니다."
+  },
+  "TheCursedMod:Wield": {
+    "NAME": "휘두르기",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 손에 있는 사용불가 카드의 수만큼 카드를 뽑습니다.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (현재 ",
+      " 장의 사용불가 카드가 있습니다.)",
+      " 장의 사용불가 카드가 있습니다.)"
+    ]
+  }
+}

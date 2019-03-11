@@ -1,0 +1,13 @@
+{
+  "TheCursedMod:ExhaustCurseThenActivateAction": {
+    "TEXT": [
+      "소멸. 저주 선택 시 의식 효과 발동. (",
+      ")"
+    ]
+  },
+  "TheCursedMod:PrepareRitualAction": {
+    "TEXT": [
+      "소멸 후 찌꺼기로 대체."
+    ]
+  }
+}

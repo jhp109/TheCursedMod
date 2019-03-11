@@ -1,0 +1,94 @@
+{
+  "TheCursedMod:BleedPower": {
+    "NAME": "Bleed",
+    "DESCRIPTIONS": [
+      "Whenever this creature attacks, it loses #b",
+      " HP. At the end of its turn, reduce #b1 #yBleed."
+    ]
+  },
+  "TheCursedMod:CollectTributePower": {
+    "NAME": "Collect Tribute",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain [E] and add #b1 random #rCurse card into your hand.",
+      "At the start of your turn, gain #b",
+      " Energy and add #b",
+      " random #rCurse cards into your hand."
+    ]
+  },
+  "TheCursedMod:DemonicPactPower": {
+    "NAME": "Demonic Pact",
+    "DESCRIPTIONS": [
+      "Whenever you use a #yRitual card, draw #b1 card.",
+      "Whenever you use a #yRitual card, draw #b",
+      " cards."
+    ]
+  },
+  "TheCursedMod:EmpowerCirclesPower": {
+    "NAME": "Empower Circles",
+    "DESCRIPTIONS": [
+      "Whenever you draw a #yCircle card, gain [E] and draw #b1 card.",
+      "Whenever you drwa a #yCircle card, gain #b",
+      " Energy and draw #b",
+      " cards."
+    ]
+  },
+  "TheCursedMod:HellfireBreathingPower": {
+    "NAME": "Hellfire Breathing",
+    "DESCRIPTIONS": [
+      "Whenever you draw a #rCurse card, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "TheCursedMod:HellsGateOpenPower": {
+    "NAME": "Hell's Gate Open",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b1 random #yCursed card into your hand.",
+      "At the start of your turn, add #b",
+      " random #yCursed cards into your hand."
+    ]
+  },
+  "TheCursedMod:HemoplaguePower": {
+    "NAME": "Hemoplague",
+    "DESCRIPTIONS": [
+      "At the start of your turn, Apply #b",
+      " #yBleed to ALL enemies."
+    ]
+  },
+  "TheCursedMod:LuckyCharmPower": {
+    "NAME": "Lucky Charm",
+    "DESCRIPTIONS": [
+      "Whenever a #rCurse card is drawn or #yExhausted, gain #b",
+      " #yBlock."
+    ]
+  },
+  "TheCursedMod:ManaCirculationPower": {
+    "NAME": "Mana Circulation",
+    "DESCRIPTIONS": [
+      "Whenever a #rCurse card is #yExhausted, gain [E].",
+      "Whenever a #rCurse card is #yExhausted, gain #b",
+      " Energy."
+    ]
+  },
+  "TheCursedMod:OutForBloodPower": {
+    "NAME": "Out for Blood",
+    "DESCRIPTIONS": [
+      "Whenever you deal unblocked attack damage, apply #b",
+      " #yBleed."
+    ]
+  },
+  "TheCursedMod:SpitefulPlanPower": {
+    "NAME": "Spiteful Plan",
+    "DESCRIPTIONS": [
+      "Whenever you draw a #rCurse card, draw #b1 card.",
+      "Whenever you draw a #rCurse card, draw #b",
+      " cards."
+    ]
+  },
+  "TheCursedMod:VoidFormPower": {
+    "NAME": "Void Form",
+    "DESCRIPTIONS": [
+      "Whenever you draw a #rCurse card, gain #b",
+      " #yStrength."
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "TheCursedMod:BleedKeyword": {
+    "PROPER_NAME": "출혈",
+    "NAMES": [
+      "출혈",
+      "출혈중인"
+    ],
+    "DESCRIPTION": "출혈에 걸린 대상이 공격할 때마다 대상의 체력이 감소합니다. 출혈은 매 턴 #b1 씩 감소합니다."
+  },
+  "TheCursedMod:CircleKeyword": {
+    "PROPER_NAME": "마법진",
+    "NAMES": [
+      "마법진"
+    ],
+    "DESCRIPTION": "손에 있는 동안 다른 카드를 사용할 때 효과를 발휘하는 #y사용불가 카드입니다."
+  },
+  "TheCursedMod:CursedKeyword": {
+    "PROPER_NAME": "저주받은",
+    "NAMES": [
+      "저주받은"
+    ],
+    "DESCRIPTION": "\"저주받은\"이 이름에 포함되어 있는 카드입니다. 사용 시 찌꺼기 혹은 무작위 저주 카드를 얻습니다."
+  },
+  "TheCursedMod:DregsKeyword": {
+    "PROPER_NAME": "찌꺼기",
+    "NAMES": [
+      "찌꺼기"
+    ],
+    "DESCRIPTION": "사용 불가인 저주 카드입니다."
+  },
+  "TheCursedMod:RitualKeyword": {
+    "PROPER_NAME": "의식",
+    "NAMES": [
+      "의식"
+    ],
+    "DESCRIPTION": "사용 시, 카드 1장을 선택해 #y소멸 시킵니다. 저주 카드가 소멸되면 해당 의식의 효과가 발동됩니다."
+  },
+  "TheCursedMod:StunKeyword": {
+    "PROPER_NAME": "기절",
+    "NAMES": [
+      "기절"
+    ],
+    "DESCRIPTION": "아무런 행동을 할 수 없습니다."
+  }
+}

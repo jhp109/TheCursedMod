@@ -1,0 +1,90 @@
+{
+  "TheCursedMod:BlackMagic101": {
+    "NAME": "Black Magic 101",
+    "FLAVOR": "Learn about black magic now!!!  {4th Edition}",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b1 additional card if your draw pile has any #rCurse card."
+    ]
+  },
+  "TheCursedMod:BlackMagicAdvanced": {
+    "NAME": "Black Magic Advanced",
+    "FLAVOR": "[The effects of curses and magic circles on human's body and side effects]",
+    "DESCRIPTIONS": [
+      "Replaces #gBlack #gMagic #g101. At the start of your turn, draw #b2 additional cards if your draw pile has any #rCurse card."
+    ]
+  },
+  "TheCursedMod:BloodyHarpoon": {
+    "NAME": "Bloody Harpoon",
+    "FLAVOR": "Piercing with it, cannot move!",
+    "DESCRIPTIONS": [
+      "Whenever you apply #yBleed, apply an additional #b",
+      " #yBleed."
+    ]
+  },
+  "TheCursedMod:CrystalBall": {
+    "NAME": "Crystal Ball",
+    "FLAVOR": "Did you say the color looks like Prismatic Shard? You've gone too far.",
+    "DESCRIPTIONS": [
+      "Whenever a #rCurse card is #yExhausted, deal #b",
+      " damage to a random enemy."
+    ]
+  },
+  "TheCursedMod:DemonicMark": {
+    "NAME": "Demonic Mark",
+    "FLAVOR": "If you've seen this mark somewhere, you're just wrong. (Firmly)",
+    "DESCRIPTIONS": [
+      "Every time you activate an effect of #yCircle #b",
+      " times in a single turn, gain #b",
+      " #yStrength."
+    ]
+  },
+  "TheCursedMod:FourLeafCloverCharm": {
+    "NAME": "Four-Leaf Clover Charm",
+    "FLAVOR": "Good luck and happiness come from gratitude.",
+    "DESCRIPTIONS": [
+      "Every time a card or a relic generates a random #rCurse card during combat, replace it with #rDregs."
+    ]
+  },
+  "TheCursedMod:MagicCandle": {
+    "NAME": "Magic Candle",
+    "FLAVOR": "It collects nearby mana during ritual.",
+    "DESCRIPTIONS": [
+      "Every time you activate an effect of #yCircle #b",
+      " times, gain [E] ."
+    ]
+  },
+  "TheCursedMod:OminousMark": {
+    "NAME": "Ominous Mark",
+    "FLAVOR": "Take a closer look, the mark looks shaking...",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. At the start of combat, shuffle #b",
+      " random #rCurse cards into your draw pile."
+    ]
+  },
+  "TheCursedMod:PinkPellets": {
+    "NAME": "Pink Pellets",
+    "FLAVOR": "Selling with Orange Pellets!",
+    "DESCRIPTIONS": [
+      "Every time you activate an effect of #yCircle #b",
+      " times in a single turn, remove all of your debuffs."
+    ]
+  },
+  "TheCursedMod:SoulVessel": {
+    "NAME": "Soul Vessel",
+    "FLAVOR": "The feast of souls begins now!",
+    "DESCRIPTIONS": [
+      "At the end of combat, heal HP equal to the number of #yExhausted #rCurse cards in this combat.",
+      " (#b1 #rCurse is #yExhausted in this combat.)",
+      " (#b",
+      " #rCurses are #yExhausted in this combat.)"
+    ]
+  },
+  "TheCursedMod:Tack": {
+    "NAME": "Tack",
+    "FLAVOR": "It hurts when stepping on.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b",
+      " #yBleed to ALL enemies."
+    ]
+  }
+}
