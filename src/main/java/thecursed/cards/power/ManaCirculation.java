@@ -30,13 +30,13 @@ public class ManaCirculation extends CustomCard {
 
     public ManaCirculation() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
+        this.isEthereal = true;
     }
 
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
         AbstractDungeon.actionManager.addToBottom(
                 new ApplyPowerAction(p, p, new ManaCirculationPower(p, ENERGY_GAIN), ENERGY_GAIN));
-        this.isEthereal = true;
     }
 
     @Override
