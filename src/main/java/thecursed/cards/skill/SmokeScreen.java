@@ -33,7 +33,7 @@ public class SmokeScreen extends CustomCard {
     private static final CardTarget TARGET = CardTarget.ALL_ENEMY;
 
     private static final int COST = 1;
-    private static final int BLOCK = 3;
+    private static final int BLOCK = 5;
     private static final int BLOCK_UPGRADE_BONUS = 2;
     private static final int WEAK_DURATION = 2;
     private static final int WEAK_DURATION_UPGRADE_BONUS = 1;

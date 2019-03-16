@@ -25,8 +25,7 @@ public class Torture extends CustomCard {
 
     private static final int COST = 1;
     private static final int UPGRADED_COST = 0;
-    private static final int BLEED = 4;
-    private static final int BLEED_UPGRADE_BONUS = 1;
+    private static final int BLEED = 5;
 
     public Torture() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
@@ -48,7 +47,6 @@ public class Torture extends CustomCard {
         if (!this.upgraded) {
             this.upgradeName();
             this.upgradeBaseCost(UPGRADED_COST);
-            this.upgradeMagicNumber(BLEED_UPGRADE_BONUS);
         }
     }
 

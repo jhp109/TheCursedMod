@@ -29,7 +29,7 @@ public class CursedShiv extends CustomCard {
     private static final CardTarget TARGET = CardTarget.ENEMY;
 
     private static final int COST = 0;
-    private static final int DAMAGE = 5;
+    private static final int DAMAGE = 6;
     private static final int UPGRADE_BONUS = 2;
 
     public CursedShiv() {

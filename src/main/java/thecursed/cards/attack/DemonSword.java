@@ -27,11 +27,10 @@ public class DemonSword extends CustomCard {
     private static final CardTarget TARGET = CardTarget.ENEMY;
 
     private static final int COST = 1;
-    private static final int DAMAGE = 10;
-    private static final int UPGRADE_DAMAGE_AMOUNT = 3;
+    private static final int DAMAGE = 11;
+    private static final int UPGRADE_DAMAGE_AMOUNT = 4;
 
-    private static final int STRENGTH_BONUS = 2;
-    private static final int UPGRADE_STRENGTH_BONUS_AMOUNT = 1;
+    private static final int STRENGTH_BONUS = 1;
 
     public DemonSword() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
@@ -54,7 +53,6 @@ public class DemonSword extends CustomCard {
         if (!this.upgraded) {
             this.upgradeName();
             this.upgradeDamage(UPGRADE_DAMAGE_AMOUNT);
-            this.upgradeMagicNumber(UPGRADE_STRENGTH_BONUS_AMOUNT);
         }
     }
 

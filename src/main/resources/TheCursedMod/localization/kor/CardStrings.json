@@ -32,8 +32,8 @@
   },
   "TheCursedMod:CircleOfAmplification": {
     "NAME": "증폭의 마법진",
-    "DESCRIPTION": "마법진 NL 파워 카드를 사용할 때 마다 [E] 를 얻고 카드를 1장 뽑습니다. NL 휘발성",
-    "UPGRADE_DESCRIPTION": "마법진 NL 파워 카드를 사용할 때 마다 [E] 를 얻고 카드를 1장 뽑습니다.",
+    "DESCRIPTION": "마법진 NL 파워 카드를 사용할 때 마다 카드를 1장 뽑습니다. NL 휘발성",
+    "UPGRADE_DESCRIPTION": "마법진 NL 파워 카드를 사용할 때 마다 [E] 를 얻고 카드를 1장 뽑습니다. NL 휘발성",
     "EXTENDED_DESCRIPTION": [
       "이 카드는 사용할 수 없다."
     ]
@@ -151,19 +151,6 @@
     "NAME": "찌꺼기",
     "DESCRIPTION": "사용불가"
   },
-  "TheCursedMod:ManaBullet": {
-    "NAME": "마력탄",
-    "DESCRIPTION": "손에 있는 저주 카드 1장당 피해를 !D! 줍니다.",
-    "UPGRADE_DESCRIPTION": "손에 있는 사용불가 카드 1장당 피해를 !D! 줍니다.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (현재 ",
-      " 장의 저주 카드가 있습니다.)",
-      " 장의 저주 카드가 있습니다.)",
-      " NL (현재 ",
-      " 장의 사용불가 카드가 있습니다.)",
-      " 장의 사용불가 카드가 있습니다.)"
-    ]
-  },
   "TheCursedMod:EmpowerCircles": {
     "NAME": "마법진 강화",
     "DESCRIPTION": "마법진 카드를 뽑으면 [E] 를 얻고 카드를 1장 뽑습니다."
@@ -171,7 +158,7 @@
   "TheCursedMod:Evocation": {
     "NAME": "환기",
     "DESCRIPTION": "의식 : 현재 지닌 모든 해로운 효과를 제거합니다. NL 소멸",
-    "UPGRADE_DESCRIPTION": "의식 : 현재 지닌 모든 해로운 효과를 제거하고 인공물 을 1 얻습니다. NL 소멸"
+    "UPGRADE_DESCRIPTION": "의식 : 현재 지닌 모든 해로운 효과를 제거합니다. 해로운 효과가 없다면, 인공물 을 1 얻습니다. NL 소멸"
   },
   "TheCursedMod:FleshFromBone": {
     "NAME": "뼈에서 살을",
@@ -205,6 +192,19 @@
   "TheCursedMod:LuckyCharm": {
     "NAME": "액땜 부적",
     "DESCRIPTION": "저주 카드를 뽑거나 저주 카드가 소멸 될 때마다 방어도 를 !M! 얻습니다."
+  },
+  "TheCursedMod:ManaBullet": {
+    "NAME": "마력탄",
+    "DESCRIPTION": "손에 있는 저주 카드 1장당 피해를 !D! 줍니다.",
+    "UPGRADE_DESCRIPTION": "손에 있는 사용불가 카드 1장당 피해를 !D! 줍니다.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (현재 ",
+      " 장의 저주 카드가 있습니다.)",
+      " 장의 저주 카드가 있습니다.)",
+      " NL (현재 ",
+      " 장의 사용불가 카드가 있습니다.)",
+      " 장의 사용불가 카드가 있습니다.)"
+    ]
   },
   "TheCursedMod:ManaCirculation": {
     "NAME": "마나 순환",

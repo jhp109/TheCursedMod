@@ -39,17 +39,18 @@ public class CircleOfAmplification extends AbstractCircle {
     public void upgrade() {
         if (!this.upgraded) {
             this.upgradeName();
-            this.isEthereal = false;
             this.rawDescription = UPGRADE_DESCRIPTION;
             this.initializeDescription();
         }
     }
 
     @Override
-    public void triggerOnOtherCardPlayed(AbstractCard c) {
-        if (c.type == CardType.POWER) {
+    public void triggerOnOtherCardPlayed(AbstractCard cardPlayed) {
+        if (cardPlayed.type == CardType.POWER) {
             AbstractPlayer p = AbstractDungeon.player;
-            AbstractDungeon.actionManager.addToBottom(new GainEnergyAction(ENERGY));
+            if (this.upgraded) {
+                AbstractDungeon.actionManager.addToBottom(new GainEnergyAction(ENERGY));
+            }
             AbstractDungeon.actionManager.addToBottom(new DrawCardAction(p, DRAW));
             this.onActivateCircle(this.name);
         }

@@ -26,8 +26,8 @@ public class CursedArmor extends CustomCard {
     private static final CardTarget TARGET = CardTarget.SELF;
 
     private static final int COST = 2;
-    private static final int BLOCK = 22;
-    private static final int UPGRADE_BLOCK_AMOUNT = 4;
+    private static final int BLOCK = 20;
+    private static final int UPGRADE_BLOCK_AMOUNT = 5;
 
     public CursedArmor() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);

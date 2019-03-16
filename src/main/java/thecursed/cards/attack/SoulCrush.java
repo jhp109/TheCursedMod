@@ -29,7 +29,7 @@ public class SoulCrush extends CustomCard {
     private static final CardTarget TARGET = CardTarget.ENEMY;
 
     private static final int COST = 2;
-    private static final int DAMAGE = 16;
+    private static final int DAMAGE = 18;
     private static final int UPGRADE_BONUS = 4;
 
     public SoulCrush() {

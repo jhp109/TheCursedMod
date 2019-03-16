@@ -25,7 +25,7 @@ public class ManaCirculation extends CustomCard {
     private static final CardRarity RARITY = CardRarity.RARE;
     private static final CardTarget TARGET = CardTarget.SELF;
 
-    private static final int COST = 3;
+    private static final int COST = 5;
     private static final int ENERGY_GAIN = 1;
 
     public ManaCirculation() {

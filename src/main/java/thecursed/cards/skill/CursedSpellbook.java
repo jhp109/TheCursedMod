@@ -22,7 +22,7 @@ public class CursedSpellbook extends CustomCard {
     private static final CardStrings cardStrings;
 
     private static final CardType TYPE = CardType.SKILL;
-    private static final CardRarity RARITY = CardRarity.COMMON;
+    private static final CardRarity RARITY = CardRarity.UNCOMMON;
     private static final CardTarget TARGET = CardTarget.SELF;
 
     private static final int COST = 0;

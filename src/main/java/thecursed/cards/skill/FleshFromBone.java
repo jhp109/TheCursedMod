@@ -28,8 +28,8 @@ public class FleshFromBone extends CustomCard {
     private static final CardTarget TARGET = CardTarget.SELF;
 
     private static final int COST = 1;
-    private static final int PLATE_ARMOR = 4;
-    private static final int PLATE_ARMOR_AMOUNT = 2;
+    private static final int PLATE_ARMOR = 3;
+    private static final int PLATE_ARMOR_AMOUNT = 1;
 
     public FleshFromBone() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);

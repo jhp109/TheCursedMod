@@ -27,7 +27,7 @@ public class CursedAmulet extends CustomCard {
     private static final CardTarget TARGET = CardTarget.SELF;
 
     private static final int COST = 1;
-    private static final int BLOCK = 12;
+    private static final int BLOCK = 11;
     private static final int UPGRADE_BLOCK_AMOUNT = 3;
     private static final int DRAW_AMOUNT = 1;
 

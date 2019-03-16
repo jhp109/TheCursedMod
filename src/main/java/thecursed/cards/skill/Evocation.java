@@ -10,6 +10,7 @@ import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.localization.CardStrings;
 import com.megacrit.cardcrawl.monsters.AbstractMonster;
+import com.megacrit.cardcrawl.powers.AbstractPower;
 import com.megacrit.cardcrawl.powers.ArtifactPower;
 import thecursed.TheCursedMod;
 import thecursed.actions.ExhaustCurseThenActivateAction;
@@ -39,13 +40,15 @@ public class Evocation extends CustomCard {
 
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
-        AbstractGameAction targetAction = new RemoveDebuffsAction(p);
+        AbstractGameAction targetAction =
+                (this.upgraded && !this.hasDebuff(p))
+                        ? new ApplyPowerAction(p, p, new ArtifactPower(p, 1), 1)
+                        : new RemoveDebuffsAction(p);
         AbstractDungeon.actionManager.addToBottom(new ExhaustCurseThenActivateAction(targetAction, NAME));
+    }
 
-        if (this.upgraded) {
-            AbstractDungeon.actionManager.addToBottom(
-                    new ApplyPowerAction(p, p, new ArtifactPower(p, 1), 1));
-        }
+    private boolean hasDebuff(AbstractPlayer p) {
+        return p.powers.stream().filter(power -> power.type == AbstractPower.PowerType.DEBUFF).count() > 0;
     }
 
     @Override

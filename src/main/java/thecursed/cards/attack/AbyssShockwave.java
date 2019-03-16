@@ -31,8 +31,8 @@ public class AbyssShockwave extends CustomCard {
     private static final CardTarget TARGET = CardTarget.ALL_ENEMY;
 
     private static final int COST = 2;
-    private static final int DAMAGE = 8;
-    private static final int UPGRADE_DAMAGE_AMOUNT = 2;
+    private static final int DAMAGE = 10;
+    private static final int UPGRADE_DAMAGE_AMOUNT = 3;
 
     public AbyssShockwave() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);

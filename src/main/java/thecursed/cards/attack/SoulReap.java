@@ -28,10 +28,10 @@ public class SoulReap extends CustomCard {
     private static final CardRarity RARITY = CardRarity.UNCOMMON;
     private static final CardTarget TARGET = CardTarget.ENEMY;
 
-    private static final int COST = 2;
+    private static final int COST = 1;
     private static final int DAMAGE = 10;
-    private static final int UPGRADE_BONUS = 4;
-    private static final int HEAL_AMOUNT = 6;
+    private static final int UPGRADE_BONUS = 2;
+    private static final int HEAL_AMOUNT = 4;
     private static final int HEAL_AMOUNT_UPGRADE_BONUS = 2;
 
     public SoulReap() {

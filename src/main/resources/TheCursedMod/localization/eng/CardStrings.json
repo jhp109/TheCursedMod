@@ -24,52 +24,52 @@
   },
   "TheCursedMod:CircleOfAbyss": {
     "NAME": "Circle of Abyss",
-    "DESCRIPTION": "Circle NL Whenever you play a card, gain !M! Block. NL If this card is Exhausted, gain [E].",
-    "UPGRADE_DESCRIPTION": "Circle NL Whenever you play a card, gain !M! Block. NL If this card is Exhausted, NL gain [E] [E].",
+    "DESCRIPTION": "Circle. NL Whenever you play a card, gain !M! Block. NL If this card is Exhausted, gain [E].",
+    "UPGRADE_DESCRIPTION": "Circle. NL Whenever you play a card, gain !M! Block. NL If this card is Exhausted, NL gain [E] [E].",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
   },
   "TheCursedMod:CircleOfAmplification": {
     "NAME": "Circle of Amplification",
-    "DESCRIPTION": "Circle NL Whenever you play a Power card, gain [E] and draw 1 card. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Circle NL Whenever you play a Power card, gain [E] and draw 1 card.",
+    "DESCRIPTION": "Circle. NL Whenever you play a Power card, draw 1 card. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Circle. NL Whenever you play a Power card, gain [E] and draw 1 card. NL Ethereal.",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
   },
   "TheCursedMod:CircleOfBlood": {
     "NAME": "Circle of Blood",
-    "DESCRIPTION": "Circle NL Whenever you play an Attack card, heal !M! HP. NL Ethereal.",
+    "DESCRIPTION": "Circle. NL Whenever you play an Attack card, heal !M! HP. NL Ethereal.",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
   },
   "TheCursedMod:CircleOfCorruption": {
     "NAME": "Circle of Corruption",
-    "DESCRIPTION": "Circle NL Whenever you play a Skill card, deal !M! damage to a random enemy.",
+    "DESCRIPTION": "Circle. NL Whenever you play a Skill card, deal !M! damage to a random enemy.",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
   },
   "TheCursedMod:CircleOfFlame": {
     "NAME": "Circle of Flame",
-    "DESCRIPTION": "Circle NL Whenever you play an Attack card, deal !M! damage to ALL enemies.",
+    "DESCRIPTION": "Circle. NL Whenever you play an Attack card, deal !M! damage to ALL enemies.",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
   },
   "TheCursedMod:CircleOfFocus": {
     "NAME": "Circle of Focus",
-    "DESCRIPTION": "Circle NL Whenever you play a card that costs !M! or more, gain [E].",
+    "DESCRIPTION": "Circle. NL Whenever you play a card that costs !M! or more, gain [E].",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
   },
   "TheCursedMod:CircleOfWindfury": {
     "NAME": "Circle of Windfury",
-    "DESCRIPTION": "Circle NL Whenever you play a cost 0 card, draw 1 card. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Circle NL Whenever you play a cost 0 card, draw 1 card.",
+    "DESCRIPTION": "Circle. NL Whenever you play a cost 0 card, draw 1 card. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Circle. NL Whenever you play a cost 0 card, draw 1 card.",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
@@ -151,19 +151,6 @@
     "NAME": "Dregs",
     "DESCRIPTION": "Unplayable."
   },
-  "TheCursedMod:ManaBullet": {
-    "NAME": "Mana Bullet",
-    "DESCRIPTION": "Deal !D! damage for each Curse card in your hand.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage for each Unplayable card in your hand.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (You have ",
-      " Curse card.)",
-      " Curse cards.)",
-      " NL (You have ",
-      " Unplayable card.)",
-      " Unplayable cards.)"
-    ]
-  },
   "TheCursedMod:EmpowerCircles": {
     "NAME": "Empower Circles",
     "DESCRIPTION": "Whenever you draw a Circle card, gain [E] and draw 1 card."
@@ -171,7 +158,7 @@
   "TheCursedMod:Evocation": {
     "NAME": "Evocation",
     "DESCRIPTION": "Ritual : Remove all of your debuffs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Ritual : Remove all of your debuffs and gain 1 Artifact. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Ritual : Remove all of your debuffs. If there is no debuff, gain 1 Artifact. NL Exhaust."
   },
   "TheCursedMod:FleshFromBone": {
     "NAME": "Flesh from Bone",
@@ -205,6 +192,19 @@
   "TheCursedMod:LuckyCharm": {
     "NAME": "Lucky Charm",
     "DESCRIPTION": "Whenever a Curse card is drawn or Exhausted, gain !M! Block."
+  },
+  "TheCursedMod:ManaBullet": {
+    "NAME": "Mana Bullet",
+    "DESCRIPTION": "Deal !D! damage for each Curse card in your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage for each Unplayable card in your hand.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (You have ",
+      " Curse card.)",
+      " Curse cards.)",
+      " NL (You have ",
+      " Unplayable card.)",
+      " Unplayable cards.)"
+    ]
   },
   "TheCursedMod:ManaCirculation": {
     "NAME": "Mana Circulation",
