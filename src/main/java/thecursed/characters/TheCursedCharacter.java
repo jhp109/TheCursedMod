@@ -23,7 +23,7 @@ import thecursed.cards.skill.CleanUpWorkshop;
 import thecursed.cards.skill.Defend_TheCursed;
 import thecursed.enums.AbstractCardEnum;
 import thecursed.enums.TheCursedCharEnum;
-import thecursed.relics.*;
+import thecursed.relics.BlackMagic101;
 
 import java.util.ArrayList;
 import java.util.List;

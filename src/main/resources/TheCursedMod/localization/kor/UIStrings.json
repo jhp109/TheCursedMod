@@ -9,5 +9,61 @@
     "TEXT": [
       "소멸 후 찌꺼기로 대체."
     ]
+  },
+  "TheCursedMod:ThemeDescription": {
+    "TEXT": [
+      "[완성된 테마덱] 다양한 컨셉으로 커스드 모드를 더 재밌게 즐겨보세요!",
+      "(주의 - 제일 위에 체크한 항목만이 적용됩니다.)"
+    ]
+  },
+  "TheCursedMod:EndlessStrikeTheme": {
+    "TEXT": [
+      "[끝없는 타격] \"타격\" 카드를 무한히 사용해 보세요. (시작 유물: 네잎클로버 부적)"
+    ]
+  },
+  "TheCursedMod:HeavyMachineGunTheme": {
+    "TEXT": [
+      "[헤비 머신 건] 마력탄을 무한히 발사해 보세요. (시작 유물: 마법 양초)"
+    ]
+  },
+  "TheCursedMod:HellfireTheme": {
+    "TEXT": [
+      "[지옥불!] 덱을 순환시키면서 지옥불을 뿜어 보세요. (시작 유물: 흑마법 전공서)"
+    ]
+  },
+  "TheCursedMod:LetsStretchingTheme": {
+    "TEXT": [
+      "[스트레칭을 합시다] 영구적으로 민첩을 계속 올려보세요. (시작 유물: 분홍색 알약)"
+    ]
+  },
+  "TheCursedMod:ManglingTheme": {
+    "TEXT": [
+      "[짓이기기!] 짓이기기를 무한히 사용해 보세요. (시작 유물: 압정)"
+    ]
+  },
+  "TheCursedMod:MoonCrystalPowerTheme": {
+    "TEXT": [
+      "[문 크리스탈 파워] 수정 구슬의 힘을 느껴보세요. (시작 유물: 수정 구슬)"
+    ]
+  },
+  "TheCursedMod:PainfulBoomerangTheme": {
+    "TEXT": [
+      "[고통스런 부메랑] 적에게 궁극의 고통을 선사해주세요. (시작 유물: 피 묻은 작살)"
+    ]
+  },
+  "TheCursedMod:SoulReaperTheme": {
+    "TEXT": [
+      "[영혼 수확기] 체력을 항상 최대치로 유지해 보세요. (시작 유물: 영혼 그릇)"
+    ]
+  },
+  "TheCursedMod:StrengthMachineTheme": {
+    "TEXT": [
+      "[힘 제조 기계] 힘을 1씩 열심히 올려보세요. (시작 유물: 악마의 표식)"
+    ]
+  },
+  "TheCursedMod:VoidLordTheme": {
+    "TEXT": [
+      "[공허 군주] 공허의 형상의 힘을 느껴보세요. (시작 유물: 불길한 표식)"
+    ]
   }
 }

@@ -1,16 +1,24 @@
 package thecursed;
 
 import basemod.BaseMod;
+import basemod.ModLabel;
+import basemod.ModLabeledToggleButton;
+import basemod.ModPanel;
 import basemod.interfaces.*;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Texture;
 import com.evacipated.cardcrawl.mod.stslib.Keyword;
+import com.evacipated.cardcrawl.modthespire.lib.SpireConfig;
 import com.evacipated.cardcrawl.modthespire.lib.SpireInitializer;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import com.megacrit.cardcrawl.cards.CardGroup;
+import com.megacrit.cardcrawl.characters.AbstractPlayer;
+import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.core.Settings;
 import com.megacrit.cardcrawl.helpers.CardHelper;
+import com.megacrit.cardcrawl.helpers.FontHelper;
 import com.megacrit.cardcrawl.localization.*;
 import thecursed.cards.attack.*;
 import thecursed.cards.curse.Dregs;
@@ -24,12 +32,13 @@ import thecursed.relics.*;
 
 import java.lang.reflect.Type;
 import java.nio.charset.StandardCharsets;
-import java.util.Map;
+import java.util.*;
 
 
 @SpireInitializer
 public class TheCursedMod implements EditCardsSubscriber, EditCharactersSubscriber, EditRelicsSubscriber,
-        EditStringsSubscriber, EditKeywordsSubscriber, PostInitializeSubscriber {
+        EditStringsSubscriber, EditKeywordsSubscriber, PostInitializeSubscriber, PostCreateStartingDeckSubscriber,
+        PostCreateStartingRelicsSubscriber {
     private static final Color CUSTOM_COLOR = CardHelper.getColor(94.0F, 55.0F, 220.0F);
 
     private static final String ATTACK_CARD = "512/attack_thecursed.png";
@@ -43,9 +52,40 @@ public class TheCursedMod implements EditCardsSubscriber, EditCharactersSubscrib
     private static final String POWER_CARD_PORTRAIT = "1024/power_thecursed.png";
     private static final String ENERGY_ORB_PORTRAIT = "1024/card_small_orb.png";
 
-    public static TheCursedCharacter theCursedCharacter;
+    private static final String MOD_NAME = "TheCursedMod";
+    private static final String CONFIG_NAME = "TheCursedConfig";
+
+    private static TheCursedCharacter theCursedCharacter;
+    private static Properties theCursedProperties = new Properties();
 
     private Map<String, Keyword> keywords;
+    private ThemeState currentTheme;
+
+    private class ThemeState {
+        private HashMap<TheCursedCharEnum.Theme, Boolean> currentThemeMap;
+
+        public ThemeState() {
+            currentThemeMap = new HashMap();
+        }
+
+        public Optional<TheCursedCharEnum.Theme> getCurrentTheme() {
+            return currentThemeMap.entrySet()
+                    .stream()
+                    .filter(Map.Entry::getValue)
+                    .sorted(Comparator.comparing(e -> e.getKey().ordinal()))
+                    .findFirst()
+                    .map(e -> e.getKey());
+        }
+
+        public void update(TheCursedCharEnum.Theme theme, boolean state) {
+            currentThemeMap.put(theme, state);
+        }
+
+        public boolean isCurrentTheme(TheCursedCharEnum.Theme theme) {
+            return this.getCurrentTheme().map(cur -> cur.equals(theme)).orElse(false);
+        }
+    }
+
 
     public TheCursedMod() {
         BaseMod.subscribe(this);
@@ -55,7 +95,11 @@ public class TheCursedMod implements EditCardsSubscriber, EditCharactersSubscrib
                 getResourcePath(ATTACK_CARD), getResourcePath(SKILL_CARD),
                 getResourcePath(POWER_CARD), getResourcePath(ENERGY_ORB),
                 getResourcePath(ATTACK_CARD_PORTRAIT), getResourcePath(SKILL_CARD_PORTRAIT),
-                getResourcePath(POWER_CARD_PORTRAIT), getResourcePath(ENERGY_ORB_PORTRAIT), getResourcePath(CARD_ENERGY_ORB));
+                getResourcePath(POWER_CARD_PORTRAIT), getResourcePath(ENERGY_ORB_PORTRAIT),
+                getResourcePath(CARD_ENERGY_ORB));
+
+        currentTheme = new ThemeState();
+        loadConfigData();
     }
 
     public static final String getResourcePath(String resource) {
@@ -69,9 +113,29 @@ public class TheCursedMod implements EditCardsSubscriber, EditCharactersSubscrib
     @Override
     public void receivePostInitialize() {
         Texture badgeTexture = new Texture(getResourcePath("badge.png"));
+        ModPanel modPanel = new ModPanel();
+
+        UIStrings descriptionString = CardCrawlGame.languagePack.getUIString("TheCursedMod:ThemeDescription");
+        modPanel.addUIElement(
+                new ModLabel(descriptionString.TEXT[0], 350.0f, 750.0f, Color.GOLD, modPanel, label -> {}));
+        modPanel.addUIElement(
+                new ModLabel(descriptionString.TEXT[1], 350.0f, 700.0f, Color.LIME, modPanel, label -> {}));
+
+        Arrays.stream(TheCursedCharEnum.Theme.values())
+                .forEach(theme ->
+                        modPanel.addUIElement(new ModLabeledToggleButton(
+                                CardCrawlGame.languagePack.getUIString(theme.toString()).TEXT[0],
+                                350.0f, 650.0f - 50.f * theme.ordinal(), Settings.CREAM_COLOR,
+                                FontHelper.charDescFont, currentTheme.isCurrentTheme(theme), modPanel,
+                                label -> {},
+                                button -> {
+                                    currentTheme.update(theme, button.enabled);
+                                    saveConfigData();
+                                })));
+
         BaseMod.registerModBadge(
                 badgeTexture, "The Cursed", "jhp109",
-                "Adds a new character to the game - The Cursed", null);
+                "Adds a new character to the game - The Cursed", modPanel);
 
         BaseMod.addPotion(
                 DregsPotion.class, Color.BLACK, Color.DARK_GRAY, Color.GRAY, DregsPotion.POTION_ID,
@@ -188,6 +252,66 @@ public class TheCursedMod implements EditCardsSubscriber, EditCharactersSubscrib
         BaseMod.addRelicToCustomPool(new OminousMark(), AbstractCardEnum.THE_CURSED_PURPLE);
         BaseMod.addRelicToCustomPool(new SoulVessel(), AbstractCardEnum.THE_CURSED_PURPLE);
         BaseMod.addRelicToCustomPool(new Tack(), AbstractCardEnum.THE_CURSED_PURPLE);
+    }
+
+    @Override
+    public void receivePostCreateStartingDeck(AbstractPlayer.PlayerClass playerClass, CardGroup group) {
+        if (playerClass != TheCursedCharEnum.THE_CURSED) {
+            return;
+        }
+        Optional<TheCursedCharEnum.Theme> themeToApply = currentTheme.getCurrentTheme();
+        if (!themeToApply.isPresent()) {
+            return;
+        }
+
+        try {
+            group.clear();
+            themeToApply.get().getStartingDeck().forEach(card -> group.addToTop(card));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Override
+    public void receivePostCreateStartingRelics(AbstractPlayer.PlayerClass playerClass, ArrayList<String> relics) {
+        if (playerClass != TheCursedCharEnum.THE_CURSED) {
+            return;
+        }
+        Optional<TheCursedCharEnum.Theme> themeToApply = currentTheme.getCurrentTheme();
+        if (!themeToApply.isPresent()) {
+            return;
+        }
+
+        try {
+            relics.clear();
+            relics.add(themeToApply.get().getStartingRelicId());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void loadConfigData() {
+        try {
+            SpireConfig config = new SpireConfig(MOD_NAME, CONFIG_NAME, theCursedProperties);
+            config.load();
+            Arrays.stream(TheCursedCharEnum.Theme.values())
+                    .forEach(theme -> currentTheme.update(theme, config.getBool(theme.toString())));
+        } catch (Exception e) {
+            e.printStackTrace();
+            saveConfigData();
+        }
+    }
+
+    private void saveConfigData() {
+        try {
+            SpireConfig config = new SpireConfig(MOD_NAME, CONFIG_NAME, theCursedProperties);
+            Arrays.stream(TheCursedCharEnum.Theme.values())
+                    .forEach(theme -> config.setBool(theme.toString(), false));
+            currentTheme.getCurrentTheme().ifPresent(theme -> config.setBool(theme.toString(), true));
+            config.save();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     private static String getLanguageString() {

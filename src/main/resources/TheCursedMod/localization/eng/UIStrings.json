@@ -9,5 +9,61 @@
     "TEXT": [
       "Exhaust. (Will Be Replaced With Dregs.)"
     ]
+  },
+  "TheCursedMod:ThemeDescription": {
+    "TEXT": [
+      "[Constructed Theme Deck] Enjoy this mod more by playing various archetypes!",
+      "(Note - only the topmost checked theme will be applied.)"
+    ]
+  },
+  "TheCursedMod:EndlessStrikeTheme": {
+    "TEXT": [
+      "[Endless Strike] Use \"Strike\" cards infinitely. (starting relic: Four-Leaf Clover Charm)"
+    ]
+  },
+  "TheCursedMod:HeavyMachineGunTheme": {
+    "TEXT": [
+      "[Heavy Machine Gun] Shoot Mana Bullets infinitely. (starting relic: Magic Candle)"
+    ]
+  },
+  "TheCursedMod:HellfireTheme": {
+    "TEXT": [
+      "[Hellfire!] Breath Hellfire by cycling your deck. (starting relic: Black Magic Advanced)"
+    ]
+  },
+  "TheCursedMod:LetsStretchingTheme": {
+    "TEXT": [
+      "[Let's Stretching] Keep gaining permanent Dexterity. (starting relic: Pink Pellets)"
+    ]
+  },
+  "TheCursedMod:ManglingTheme": {
+    "TEXT": [
+      "[Mangling!] Use Mangle infinitely. (starting relic: Tack)"
+    ]
+  },
+  "TheCursedMod:MoonCrystalPowerTheme": {
+    "TEXT": [
+      "[Moon Crystal Power] Feel the power of Crystal Ball. (starting relic: Crystal Ball)"
+    ]
+  },
+  "TheCursedMod:PainfulBoomerangTheme": {
+    "TEXT": [
+      "[Painful Boomerang] Give enemies Ultimate Pain. (starting relic: Bloody Harpoon)"
+    ]
+  },
+  "TheCursedMod:SoulReaperTheme": {
+    "TEXT": [
+      "[Soul Reaper] Keep maintaining your HP as its maximum. (starting relic: Soul Vessel)"
+    ]
+  },
+  "TheCursedMod:StrengthMachineTheme": {
+    "TEXT": [
+      "[Strength Machine] Keep gaining Strength by 1. (starting relic: Demonic Mark)"
+    ]
+  },
+  "TheCursedMod:VoidLordTheme": {
+    "TEXT": [
+      "[Void Lord] Feel the power of Void Form. (starting relic: Ominous Mark)"
+    ]
   }
 }

@@ -17,7 +17,7 @@
   },
   "TheCursedMod:BloodBarrier": {
     "NAME": "피의 결계",
-    "DESCRIPTION": "의식 : 잃은 체력만큼 방어도 를 얻습니다. NL 소멸",
+    "DESCRIPTION": "의식 : 최대 체력과 현재 체력의 차이만큼 방어도 를 얻습니다. NL 소멸",
     "EXTENDED_DESCRIPTION": [
       " NL (방어도 를 !B! 얻습니다.)"
     ]

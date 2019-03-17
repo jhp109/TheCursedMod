@@ -17,7 +17,7 @@
   },
   "TheCursedMod:BloodBarrier": {
     "NAME": "Blood Barrier",
-    "DESCRIPTION": "Ritual : Gain Block same as the amount of HP you lost. NL Exhaust.",
+    "DESCRIPTION": "Ritual : Gain Block equal to your max HP minus your current HP. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       " NL (Gains !B! Block.)"
     ]
