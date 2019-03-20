@@ -20,3 +20,6 @@ Bleeding creature loses HP whenever it attacks. Each turn, Bleed is reduced by 1
 
 ## Known Issues
 - Googly Eyes mod is not fully supported. The character in combat is just a single png file, and it’s unable to add an eye on it.
+
+## Credit
+Special thanks to 히말군 for character artwork.

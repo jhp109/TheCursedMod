@@ -11,7 +11,6 @@ import thecursed.cards.skill.*;
 import thecursed.relics.*;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class TheCursedCharEnum {
@@ -196,13 +195,6 @@ public class TheCursedCharEnum {
         @Override
         public String toString() {
             return themeId;
-        }
-
-        public static Theme fromString(String id) {
-            return Arrays.stream(Theme.values())
-                    .filter(theme -> theme.themeId == id)
-                    .findFirst()
-                    .orElseThrow(() -> new IllegalArgumentException("Unknown theme ID: " + id));
         }
     }
 }
