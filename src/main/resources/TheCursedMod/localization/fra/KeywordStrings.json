@@ -1,0 +1,45 @@
+{
+  "TheCursedMod:BleedKeyword": {
+    "PROPER_NAME": "Saignement",
+    "NAMES": [
+      "saignement",
+      "saigne"
+    ],
+    "DESCRIPTION": "Les créatures qui saignent perdent des PV lorsqu'ils Attaquent. Le Saignement est réduit de #b1 à chaque tour."
+  },
+  "TheCursedMod:CircleKeyword": {
+    "PROPER_NAME": "Cercle",
+    "NAMES": [
+      "cercle"
+    ],
+    "DESCRIPTION": "Une carte #yInjouable qui peut être enclenchée en utilisant d'autres cartes quand elle est dans votre main."
+  },
+  "TheCursedMod:CursedKeyword": {
+    "PROPER_NAME": "Maudit",
+    "NAMES": [
+      "maudit"
+    ],
+    "DESCRIPTION": "Toute carte ayant \"Maudit\" dans son nom. La jouer produira des Résidus ou des Malédiction."
+  },
+  "TheCursedMod:DregsKeyword": {
+    "PROPER_NAME": "Résidus",
+    "NAMES": [
+      "résidus"
+    ],
+    "DESCRIPTION": "Les Résidus sont des Malédictions Injouables."
+  },
+  "TheCursedMod:RitualKeyword": {
+    "PROPER_NAME": "Rituel",
+    "NAMES": [
+      "rituel"
+    ],
+    "DESCRIPTION": "Quand vous la jouez, choisissez 1 carte à #yÉpuiser. Séléctioner une Malédiction enclenche l'effet du Rituel."
+  },
+  "TheCursedMod:StunKeyword": {
+    "PROPER_NAME": "Etourdissement",
+    "NAMES": [
+      "étourdissement"
+    ],
+    "DESCRIPTION": "Ne peut rien faire."
+  }
+}

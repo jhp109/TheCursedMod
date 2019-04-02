@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/CardStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/CharacterStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/KeywordStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/PotionStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/PowerStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/RelicStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/UIStrings.json" charset="UTF-8" />
+  </component>
 </project>

@@ -213,7 +213,7 @@
   },
   "TheCursedMod:Mangle": {
     "NAME": "Mangle",
-    "DESCRIPTION": "Deal !D! damage. NL If the enemy has Bleed, NL gain [R] and NL draw 1 card."
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy has Bleed, NL gain [E] and NL draw 1 card."
   },
   "TheCursedMod:Neurasthenia": {
     "NAME": "Neurasthenia",

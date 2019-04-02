@@ -1,0 +1,361 @@
+{
+  "TheCursedMod:AbyssShockwave": {
+    "NAME": "Onde Abyssale",
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Si vous avez une Malédiction en main, Infligez !D! dégât(s) de nouveau."
+  },
+  "TheCursedMod:AntiAging": {
+    "NAME": "Anti-Rides",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Rituel : Gagnez !M! PV max. NL Épuisement."
+  },
+  "TheCursedMod:AshesToAshes": {
+    "NAME": "Cendres aux Cendres",
+    "DESCRIPTION": "Rituel : Piochez !M! cartes."
+  },
+  "TheCursedMod:BlessingInDisguise": {
+    "NAME": "Bénédiction Déguisée",
+    "DESCRIPTION": "Épuisez toutes les Malédictions de votre main. NL Gagnez !B! d'Armure par carte Épuisée."
+  },
+  "TheCursedMod:BloodBarrier": {
+    "NAME": "Barrière Sanguine",
+    "DESCRIPTION": "Rituel : Gagnez autant d'Armure que vous avez de PV de manquants. NL Épuisement.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gagnez !B! d'Armure.)"
+    ]
+  },
+  "TheCursedMod:CircleOfAbyss": {
+    "NAME": "Cercle d'Abysse",
+    "DESCRIPTION": "Cercle. NL Quand vous jouez une carte, gagnez !M! d'Armure. NL Quand cette carte est Épuisée, gagnez [E].",
+    "UPGRADE_DESCRIPTION": "Cercle. NL Quand vous jouez une carte, gagnez !M! d'Armure. NL Quand cette carte est Épuisée, gagnez [E] [E].",
+    "EXTENDED_DESCRIPTION": [
+      "Je ne peux pas jouer cette carte."
+    ]
+  },
+  "TheCursedMod:CircleOfAmplification": {
+    "NAME": "Cercle d'Amplification",
+    "DESCRIPTION": "Cercle. NL Quand vous jouez un Pouvoir, piochez 1 carte. NL Éthérée.",
+    "UPGRADE_DESCRIPTION": "Cercle. NL Quand vous jouez un Pouvoir, gagnez [E] et piochez 1 carte. NL Éthérée.",
+    "EXTENDED_DESCRIPTION": [
+      "Je ne peux pas jouer cette carte."
+    ]
+  },
+  "TheCursedMod:CircleOfBlood": {
+    "NAME": "Cercle de Sang",
+    "DESCRIPTION": "Cercle. NL Qaund vous jouez une Attaque, Récuperez !M! PV. NL Éthérée.",
+    "EXTENDED_DESCRIPTION": [
+      "Je ne peux pas jouer cette carte."
+    ]
+  },
+  "TheCursedMod:CircleOfCorruption": {
+    "NAME": "Cercle de Corruption",
+    "DESCRIPTION": "Cercle. NL Quand vous jouez une Compétence, Infligez !M! dégât(s) à un ennemi aléatoire.",
+    "EXTENDED_DESCRIPTION": [
+      "Je ne peux pas jouer cette carte."
+    ]
+  },
+  "TheCursedMod:CircleOfFlame": {
+    "NAME": "Cercle de Flammes",
+    "DESCRIPTION": "Cercle. NL Qaund vous jouez une Attaque, Infligez !M! dégât(s) à TOUS les ennemis.",
+    "EXTENDED_DESCRIPTION": [
+      "Je ne peux pas jouer cette carte."
+    ]
+  },
+  "TheCursedMod:CircleOfFocus": {
+    "NAME": "Cercle de Concentration",
+    "DESCRIPTION": "Cercle. NL Quand vous jouez une carte coûtant !M! ou plus, gagnez [E].",
+    "EXTENDED_DESCRIPTION": [
+      "Je ne peux pas jouer cette carte."
+    ]
+  },
+  "TheCursedMod:CircleOfWindfury": {
+    "NAME": "Cercle de Furie des Vents",
+    "DESCRIPTION": "Cercle. NL Quand vous jouez une carte coûtant 0, piochez 1 carte. NL Éthérée.",
+    "UPGRADE_DESCRIPTION": "Cercle. NL Quand vous jouez une carte coûtant 0, piochez 1 carte.",
+    "EXTENDED_DESCRIPTION": [
+      "Je ne peux pas jouer cette carte."
+    ]
+  },
+  "TheCursedMod:CleanUpWorkshop": {
+    "NAME": "Nettoyer l'Atelier",
+    "DESCRIPTION": "Rituel : Gagnez !B! d'Armure et piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Rituel : Gagnez !B! d'Armure et piochez !M! cartes."
+  },
+  "TheCursedMod:CollectTribute": {
+    "NAME": "Collecter le Tribut",
+    "DESCRIPTION": "Au début de votre tour, gagnez [E] et ajoutez une Malédiction aléatoire à votre main.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Au début de votre tour, gagnez [E] et ajoutez une Malédiction aléatoire à votre main."
+  },
+  "TheCursedMod:CursedAmulet": {
+    "NAME": "Amulette Maudite",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Piochez 1 carte. NL Ajoutez une Malédiction aléatoire à votre pioche."
+  },
+  "TheCursedMod:CursedArmor": {
+    "NAME": "Armure Maudite",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez 2 Malédictions aléatoire à votre pioche."
+  },
+  "TheCursedMod:CursedBlade": {
+    "NAME": "Lame Maudite",
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Ajoutez un Résidus à votre main."
+  },
+  "TheCursedMod:CursedBoomerang": {
+    "NAME": "Boomerang Maudit",
+    "DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois. NL Ajoutez un Résidus à votre main."
+  },
+  "TheCursedMod:CursedMace": {
+    "NAME": "Masse Maudite",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Vulnérabilité. NL Ajoutez un Résidus à votre main."
+  },
+  "TheCursedMod:CursedRelics": {
+    "NAME": "Reliques Maudites",
+    "DESCRIPTION": "Infligez !M! dégât(s) par Relique que vous possédez. NL Ajoutez un Résidus à votre main.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Infligez !D! dégât(s).)"
+    ]
+  },
+  "TheCursedMod:CursedShiv": {
+    "NAME": "Poignard Maudit",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez un Résidus à votre main."
+  },
+  "TheCursedMod:CursedSpellbook": {
+    "NAME": "Livre de Sort Maudit",
+    "DESCRIPTION": "Piochez !M! cartes. NL Ajoutez une Malédiction aléatoire à votre Pioche."
+  },
+  "TheCursedMod:CursedStaff": {
+    "NAME": "Bâton Maudit",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez 2 Résidus into your hand."
+  },
+  "TheCursedMod:CursedWand": {
+    "NAME": "Baguette Maudite",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégât(s). NL Ajoutez un Résidus à votre main."
+  },
+  "TheCursedMod:DarkBarrier": {
+    "NAME": "Barrière Sombre",
+    "DESCRIPTION": "Rituel : Gagnez !M! Intangible. NL Épuisement."
+  },
+  "TheCursedMod:Defend_TheCursed": {
+    "NAME": "Défense",
+    "DESCRIPTION": "Gagnez !B! d'Armure."
+  },
+  "TheCursedMod:DemonSword": {
+    "NAME": "Épée Démon",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Épuisez toutes les Malédictions de votre main et gagnez !M! de Force par carte Épuisée."
+  },
+  "TheCursedMod:DemonicPact": {
+    "NAME": "Pacte Démoniaque",
+    "DESCRIPTION": "Quand vous jouez un Rituel, piochez 1 carte."
+  },
+  "TheCursedMod:DoubleShield": {
+    "NAME": "Double Bouclier",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Rituel : Au prochain tour, gagnez !B! d'Armure."
+  },
+  "TheCursedMod:Dregs": {
+    "NAME": "Résidus",
+    "DESCRIPTION": "Injouable."
+  },
+  "TheCursedMod:EmpowerCircles": {
+    "NAME": "Amplifier les Cercles",
+    "DESCRIPTION": "Quand vous piochez un Cercle, gagnez [E] et piochez 1 carte."
+  },
+  "TheCursedMod:Evocation": {
+    "NAME": "Evocation",
+    "DESCRIPTION": "Rituel : Perdez tous vos débuffs. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Rituel : Perdez tous vos débuffs. Si vous n'aviez pas de Débuff, gagnez 1 d'Artefact. NL Épuisement."
+  },
+  "TheCursedMod:FleshFromBone": {
+    "NAME": "Chair de l'Os",
+    "DESCRIPTION": "Rituel : Gagnez !M! d'Armure plaquée."
+  },
+  "TheCursedMod:ForbiddenAlchemy": {
+    "NAME": "Alchimie Interdite",
+    "DESCRIPTION": "Rituel : Obtenez une Décoction d'entropie. NL Épuisement."
+  },
+  "TheCursedMod:FuryStrike": {
+    "NAME": "Frappe de Furie",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Les carte de Frappe dans votre main coûtent 0 pendant ce tour."
+  },
+  "TheCursedMod:Grudge": {
+    "NAME": "Rancune",
+    "DESCRIPTION": "Ajoutez un Rituel aléatoire à votre main. NL Il coûte 0 pendant ce tour. NL Épuisement."
+  },
+  "TheCursedMod:HellfireBreathing": {
+    "NAME": "Souffle Infernal",
+    "DESCRIPTION": "Quand vous piochez une Malédiction, Infligez !M! dégât(s) à TOUS les ennemis."
+  },
+  "TheCursedMod:HellsGateOpen": {
+    "NAME": "Porte des Enfers",
+    "DESCRIPTION": "Au début de votre tour, Ajoutez une Maudit aléatoire à votre main.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Au début de votre tour, Ajoutez une Maudit aléatoire à votre main."
+  },
+  "TheCursedMod:Hemoplague": {
+    "NAME": "Peste Hémoragique",
+    "DESCRIPTION": "Au début de votre tour, appliquez !M! de Saignement à TOUS les ennemis."
+  },
+  "TheCursedMod:LuckyCharm": {
+    "NAME": "Breloque Chanceuse",
+    "DESCRIPTION": "Quand vous piochez ou Épuisez une Malédiction, gagnez !M! d'Armure."
+  },
+  "TheCursedMod:ManaBullet": {
+    "NAME": "Balle de Mana",
+    "DESCRIPTION": "Infligez !D! dégât(s) par Malédiction dans votre main.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) par carte Injouable dans votre main.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Vous avez ",
+      " Malédiction.)",
+      " Malédictions.)",
+      " NL (Vous avez ",
+      " carte Injouable.)",
+      " cartes Injouables.)"
+    ]
+  },
+  "TheCursedMod:ManaCirculation": {
+    "NAME": "Circulation de Mana",
+    "DESCRIPTION": "Chaque fois qu'une Malédiction est Épuisée, gagnez [E]. NL Éthérée.",
+    "UPGRADE_DESCRIPTION": "Chaque fois qu'une Malédiction est Épuisée, gagnez [E]."
+  },
+  "TheCursedMod:Mangle": {
+    "NAME": "Mutiler",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi saigne, NL gagnez [E] et NL piochez 1 carte."
+  },
+  "TheCursedMod:Neurasthenia": {
+    "NAME": "Neurasthénie",
+    "DESCRIPTION": "Épuisez toutes les Malédictions de votre main. NL L'ennemi perds 1 de Force et 1 de Force par Malédiction Épuisée. NL Épuisement."
+  },
+  "TheCursedMod:NeowsMight": {
+    "NAME": "Le Pouvoir de Neow",
+    "DESCRIPTION": "Piochez 2 cartes. NL Reduit de 1 le coût des cartes de votre main pendant ce tour. NL Épuisement."
+  },
+  "TheCursedMod:Obscuration": {
+    "NAME": "Obscurcissement",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Rituel : Gagnez !B! d'Armure à nouveau."
+  },
+  "TheCursedMod:OutForBlood": {
+    "NAME": "Sanguinaire",
+    "DESCRIPTION": "Quand vous infligez des dégâts non bloqués, appliquez 1 de Saignement."
+  },
+  "TheCursedMod:ParallelWorld": {
+    "NAME": "Monde Parallèle",
+    "DESCRIPTION": "Mélange une Copie de votre main dans votre pioche NL Épuisement."
+  },
+  "TheCursedMod:PrepareRitual": {
+    "NAME": "Préparer le Rituel",
+    "DESCRIPTION": "Défaussez autant de cartes non-Malédictions que vous le souhaitez, ajoutez autant de Résidus à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Défaussez autant de cartes non-Malédictions que vous le souhaitez, ajoutez autant de Résidus à votre main."
+  },
+  "TheCursedMod:RapidMovement": {
+    "NAME": "Mouvement Rapide",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Rituel : Piochez !M! cartes."
+  },
+  "TheCursedMod:RavingStaff": {
+    "NAME": "Bâton Délirant",
+    "DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire X fois."
+  },
+  "TheCursedMod:ReleasedKnowledge": {
+    "NAME": "Savoir Déchainé",
+    "DESCRIPTION": "Rituel : Ajoutez un Cercle aléatoire à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Rituel : Ajoutez un Cercle aléatoire à votre main."
+  },
+  "TheCursedMod:ReleasedStrength": {
+    "NAME": "Force Déchainée",
+    "DESCRIPTION": "Rituel : Gagnez !M! de Force. NL Éthérée."
+  },
+  "TheCursedMod:SaltUponWound": {
+    "NAME": "Saler la Blessure",
+    "DESCRIPTION": "L'ennemi perds immédiatement autant de PV qu'il à de Saignement 2 fois. NL Appliquez !M! de Saignement."
+  },
+  "TheCursedMod:ShockAndAwe": {
+    "NAME": "Choc et Effroi",
+    "DESCRIPTION": "Infligez !D! dégât(s) 3 fois. Ajoutez 2 Malédictions aléatoires dans votre pioche."
+  },
+  "TheCursedMod:SmokeScreen": {
+    "NAME": "Écran de Fumée",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Rituel : Appliquez !M! de Faiblesse à TOUS les ennemis."
+  },
+  "TheCursedMod:SoulCrush": {
+    "NAME": "Écrasement d'Âme",
+    "DESCRIPTION": "Épuisez toutes les Malédictions de votre main. NL Infligez !D! dégât(s)."
+  },
+  "TheCursedMod:SoulReap": {
+    "NAME": "Moisson d'Âme",
+    "DESCRIPTION": "Infligez !D! dégât(s). Si l'ennemi (non-sbire) succombe, soignez !M! PV. NL Épuisement."
+  },
+  "TheCursedMod:SpitefulPlan": {
+    "NAME": "Plan Malveillant",
+    "DESCRIPTION": "Quand vous piochez une Malédiction, piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Quand vous piochez une Malédiction, piochez !M! cartes."
+  },
+  "TheCursedMod:SpitefulPray": {
+    "NAME": "Prière Malveillante",
+    "DESCRIPTION": "Gagnez [E]. NL Si vous avez une Malédiction en main, gagnez un [E] supplémentaire. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Gagnez [E] [E]. NL Si vous avez une Malédiction en main, gagnez un [E] supplémentaire. NL Épuisement."
+  },
+  "TheCursedMod:SpitefulStrike": {
+    "NAME": "Frappe Malveillante",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Si vous avez une Malédiction en main, gagnez [E] [E]."
+  },
+  "TheCursedMod:SpreadPlague": {
+    "NAME": "Répendre la Peste",
+    "DESCRIPTION": "Appliquez !M! de Saignement et 3 de Vulnérabilité à TOUS les ennemis. NL Épuisement."
+  },
+  "TheCursedMod:Stigma": {
+    "NAME": "Marque D'infamie",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Saignement."
+  },
+  "TheCursedMod:StingEye": {
+    "NAME": "Piquer l'Oeil",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Faiblesse. NL Appliquez !M! de Saignement."
+  },
+  "TheCursedMod:Stretching": {
+    "NAME": "Étirements",
+    "DESCRIPTION": "Gagnez !M! de Dextérité. NL A la fin du tour, perdez !M! de Dextérité."
+  },
+  "TheCursedMod:Strike_TheCursed": {
+    "NAME": "Frappe",
+    "DESCRIPTION": "Infligez !D! dégât(s)."
+  },
+  "TheCursedMod:StunningStrike": {
+    "NAME": "Frappe Étourdissante",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi compte attaquer, appliquez !M! d'Étourdissement. NL Épuisement."
+  },
+  "TheCursedMod:SurpriseAttack": {
+    "NAME": "Attaque Surprise",
+    "DESCRIPTION": "Inné. NL Infligez !D! dégât(s). NL Piochez 1 carte. NL Épuisement."
+  },
+  "TheCursedMod:TacticalStrike": {
+    "NAME": "Frappe Tactique",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Au prochain tour, piochez !M! carte supplémentaire.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Au prochain tour, piochez !M! cartes supplémentaires."
+  },
+  "TheCursedMod:Torture": {
+    "NAME": "Torture",
+    "DESCRIPTION": "Appliquez !M! de Saignement."
+  },
+  "TheCursedMod:TroublousMinions": {
+    "NAME": "Sbires Agités",
+    "DESCRIPTION": "Quand vous piochez cette carte, en ajoute une copie dans votre main. NL Gagnez !B! d'Armure et ajoutez un Résidus à votre Main. Épuisement."
+  },
+  "TheCursedMod:UltimatePain": {
+    "NAME": "Douleur Ultime",
+    "DESCRIPTION": "L'ennemi perds immédiatement autant de PV qu'il à de Saignement X fois.",
+    "UPGRADE_DESCRIPTION": "L'ennemi perds immédiatement autant de PV qu'il à de Saignement X+1 fois"
+  },
+  "TheCursedMod:VitalStrike": {
+    "NAME": "Frappe Vitale",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi Saigne, infligez !D! dégât(s) à nouveau."
+  },
+  "TheCursedMod:VoidForm": {
+    "NAME": "Forme du Vide",
+    "DESCRIPTION": "Ajoutez 2 Malédictions aléatoire à votre pioche. NL Quand vous piochez une Malédiction, Gagnez !M! de Force."
+  },
+  "TheCursedMod:WearCloak": {
+    "NAME": "Porter la Cape",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Si vous avez une Malédiction en main, gagnez [E]."
+  },
+  "TheCursedMod:Wield": {
+    "NAME": "Manier",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez une carte par carte Injouable dans votre Main.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Vous avez ",
+      " carte Injouable.)",
+      " cartes Injouables.)"
+    ]
+  }
+}

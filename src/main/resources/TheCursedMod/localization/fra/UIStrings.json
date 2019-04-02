@@ -1,0 +1,69 @@
+{
+  "TheCursedMod:ExhaustCurseThenActivateAction": {
+    "TEXT": [
+      "Épuisement. Choisir une Malédiction enclenche l'effet du Rituel. (",
+      ")"
+    ]
+  },
+  "TheCursedMod:PrepareRitualAction": {
+    "TEXT": [
+      "Épuisement. (Sera remplacé par des Résidus.)"
+    ]
+  },
+  "TheCursedMod:ThemeDescription": {
+    "TEXT": [
+      "[Deck à Thème Construit] Éclatez-vous en jouant des archétypes variés!",
+      "(Note - Seul le thème coché le plus haut sera appliqué.)"
+    ]
+  },
+  "TheCursedMod:EndlessStrikeTheme": {
+    "TEXT": [
+      "[Frappe Sans Fin] Utilisez les cartes \"Frappe\" infiniment. (Relique de démarage: Breloque du Trèfle à 4 feuilles)"
+    ]
+  },
+  "TheCursedMod:HeavyMachineGunTheme": {
+    "TEXT": [
+      "[Mana-trailleuse] Tirez des \"Balles de Mana\" infiniment. (Relique de démarage: Bougie Magique)"
+    ]
+  },
+  "TheCursedMod:HellfireTheme": {
+    "TEXT": [
+      "[Inferno!] Soufflez le feu d'Enfer en cyclant votre deck. (Relique de démarage: Magie Noire Avancée)"
+    ]
+  },
+  "TheCursedMod:LetsStretchingTheme": {
+    "TEXT": [
+      "[Étirements, GO !] Gagnez de la Dextérité de façon permanante. (Relique de démarage: Pastilles Roses)"
+    ]
+  },
+  "TheCursedMod:ManglingTheme": {
+    "TEXT": [
+      "[Mutilations!] Utilisez \"Mutiler\" infiniment. (Relique de démarage: Punaise)"
+    ]
+  },
+  "TheCursedMod:MoonCrystalPowerTheme": {
+    "TEXT": [
+      "[Pouvoir du Crystal de Lune] Sentez la puissance de la Boule de Crystal. (Relique de démarage: Boule de Crystal)"
+    ]
+  },
+  "TheCursedMod:PainfulBoomerangTheme": {
+    "TEXT": [
+      "[Boomerang Douloureux] Inflige Douleur Ultime aux ennemis. (Relique de démarage: Harpon Sanglant)"
+    ]
+  },
+  "TheCursedMod:SoulReaperTheme": {
+    "TEXT": [
+      "[Faucheur D'Âmes] Maintiens vos PV à son maximum. (Relique de démarage: Récipient pour Âmes)"
+    ]
+  },
+  "TheCursedMod:StrengthMachineTheme": {
+    "TEXT": [
+      "[Force Grandissante] Gagnez 1 de Force encore et encore. (Relique de démarage: Marque Démoniaque)"
+    ]
+  },
+  "TheCursedMod:VoidLordTheme": {
+    "TEXT": [
+      "[Seigneur du Vide] Ressentez le pouvoir du Vide. (Relique de démarage: Marque Sinistre)"
+    ]
+  }
+}

@@ -317,6 +317,8 @@ public class TheCursedMod implements EditCardsSubscriber, EditCharactersSubscrib
     private static String getLanguageString() {
         // Note to translators - add your language here (by alphabetical order).
         switch (Settings.language) {
+            case FRA:
+                return "fra";
             case KOR:
                 return "kor";
             default:

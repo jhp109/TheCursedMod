@@ -1,0 +1,90 @@
+{
+  "TheCursedMod:BlackMagic101": {
+    "NAME": "L'ABC de la Magie Noire",
+    "FLAVOR": "Apprenez la Magie Noire Aujourd'hui!!!  {4ème Edition}",
+    "DESCRIPTIONS": [
+      "Au début du tour, si votre pioche contient une #rMalédiction, piochez #b1 carte de plus."
+    ]
+  },
+  "TheCursedMod:BlackMagicAdvanced": {
+    "NAME": "Magie Noire Avancée",
+    "FLAVOR": "[Les effets des malédictions et des cercles arcaniques sur le corps humains et effets secondaires]",
+    "DESCRIPTIONS": [
+      "Remplace #gL'ABC #gde #gla #gMagie #gNoire. Au début de votre tour, si votre pioche contient au moins une #rMalédiction, piochez #b2 cartes supplémentaires."
+    ]
+  },
+  "TheCursedMod:BloodyHarpoon": {
+    "NAME": "Harpon Sanglant",
+    "FLAVOR": "Celui qui en est transpercé ne peut bouger!",
+    "DESCRIPTIONS": [
+      "Quand vous appliquez du #ySaignement, applique un #b",
+      " #ySaignement supplémentaire."
+    ]
+  },
+  "TheCursedMod:CrystalBall": {
+    "NAME": "Boule de Crystal",
+    "FLAVOR": "Vous dites qu'il ressemble à l'Eclat Prismatique? Vous allez chercher trop loin...",
+    "DESCRIPTIONS": [
+      "Quand une #rMalédiction est #yÉpuisée, infligez #b",
+      " dégât(s) à un ennemi aléatoire."
+    ]
+  },
+  "TheCursedMod:DemonicMark": {
+    "NAME": "Marque Démoniaque",
+    "FLAVOR": "Si vous pensez avoir vu cette marque ailleurs, vous avez tort. (Assurément)",
+    "DESCRIPTIONS": [
+      "Quand vous enclenchez un effet de #yCercle #b",
+      " fois en un seul tour, gagnez #b",
+      " de #yForce."
+    ]
+  },
+  "TheCursedMod:FourLeafCloverCharm": {
+    "NAME": "Breloque du Trèfle à 4 feuilles",
+    "FLAVOR": "Chance et bonheur viennent de la gratitude.",
+    "DESCRIPTIONS": [
+      "Quand une carte ou une relique génère une #rMalédiction pendant le combat, la remplace par un #rRésidus."
+    ]
+  },
+  "TheCursedMod:MagicCandle": {
+    "NAME": "Bougie Magique",
+    "FLAVOR": "Elle collecte le Mana environnant pendant les rituels.",
+    "DESCRIPTIONS": [
+      "Quand vous enclenchez un effet de #yCercle #b",
+      " fois, gagnez [E] ."
+    ]
+  },
+  "TheCursedMod:OminousMark": {
+    "NAME": "Marque Sinsitre",
+    "FLAVOR": "Regardez de plus près, la marque tremble...",
+    "DESCRIPTIONS": [
+      "Gagnez [E] au début de votre tour. Au début du combat, Ajoutez #b",
+      " #rMalédiction aléatoire à votre pioche."
+    ]
+  },
+  "TheCursedMod:PinkPellets": {
+    "NAME": "Pastilles Roses",
+    "FLAVOR": "Vendues avec les Pastilles Oranges!",
+    "DESCRIPTIONS": [
+      "Quand vous enclenchez un effet de #yCercle #b",
+      " fois en un seul tour, perdez tous vos débuffs."
+    ]
+  },
+  "TheCursedMod:SoulVessel": {
+    "NAME": "Récipient pour Âmes",
+    "FLAVOR": "Le festin d'âmes commence maintenant!",
+    "DESCRIPTIONS": [
+      "A la fin du combat, soignez autant de PV que de #rMalédictions ont été #yÉpuisées pendant ce combat.",
+      " (#b1 #rMalédiction à été #yÉpuisée pendant ce combat.)",
+      " (#b",
+      " #rMalédictions ont été #yÉpuisées pendant ce combat.)"
+    ]
+  },
+  "TheCursedMod:Tack": {
+    "NAME": "Punaise",
+    "FLAVOR": "Ca fait mal quand on marche dessus.",
+    "DESCRIPTIONS": [
+      "Au début du combat, appliquez #b",
+      " de #ySaignement à TOUS les ennemis."
+    ]
+  }
+}

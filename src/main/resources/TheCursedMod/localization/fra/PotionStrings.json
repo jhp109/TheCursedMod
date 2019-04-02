@@ -1,0 +1,15 @@
+{
+  "TheCursedMod:DregsPotion": {
+    "NAME": "Potion de Résidus",
+    "DESCRIPTIONS": [
+      "Ajoute #b",
+      " #rRésidus à votre main."
+    ]
+  },
+  "TheCursedMod:DregsPotionKeyword": {
+    "NAME": "Résidus",
+    "DESCRIPTIONS": [
+      "Les Résidus sont des #rMalédictions Injouables."
+    ]
+  }
+}

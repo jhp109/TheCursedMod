@@ -1,0 +1,94 @@
+{
+  "TheCursedMod:BleedPower": {
+    "NAME": "Saignement",
+    "DESCRIPTIONS": [
+      "Quand cette créature attaque, elle perd #b",
+      " PV. A la fin de son tour, réduit de #b1 son #ySaignement."
+    ]
+  },
+  "TheCursedMod:CollectTributePower": {
+    "NAME": "Collecter le Tribut",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, gagnez [E] et ajoutez #b1 #rMalédiction aléatoire dans votre main.",
+      "Au début de votre tour, gagnez #b",
+      " d'Energie et Ajoutez #b",
+      " #rMalédiction aléatoires dans votre main."
+    ]
+  },
+  "TheCursedMod:DemonicPactPower": {
+    "NAME": "Pacte Démoniaque",
+    "DESCRIPTIONS": [
+      "Quand vous jouez un #yRituel, piochez #b1 carte.",
+      "Quand vous jouez un #yRituel, piochez #b",
+      " cartes."
+    ]
+  },
+  "TheCursedMod:EmpowerCirclesPower": {
+    "NAME": "Amplifier les Cercles",
+    "DESCRIPTIONS": [
+      "Quand vous jouez un #yCercle, gagnez [E] et piochez #b1 carte.",
+      "Quand vous jouez un #yCercle, gagnez #b",
+      " Energie et piochez #b",
+      " cartes."
+    ]
+  },
+  "TheCursedMod:HellfireBreathingPower": {
+    "NAME": "Souffle Infernal",
+    "DESCRIPTIONS": [
+      "Quand vous piochez une #rMalédiction, inflige #b",
+      " dégât(s) à TOUS les ennemis."
+    ]
+  },
+  "TheCursedMod:HellsGateOpenPower": {
+    "NAME": "Porte des Enfers",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, ajoutez #b1 #yMalédiction aléatoire dans votre main.",
+      "Au début de votre tour, ajoutez #b",
+      " #yMalédictions aléatoires dans votre main."
+    ]
+  },
+  "TheCursedMod:HemoplaguePower": {
+    "NAME": "Peste Hémoragique",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, Appliquez #b",
+      " #ySaignement à TOUS les ennemis."
+    ]
+  },
+  "TheCursedMod:LuckyCharmPower": {
+    "NAME": "Breloque Chanceuse",
+    "DESCRIPTIONS": [
+      "Quand vous piochez ou #yÉpuisez une #rMalédiction, gagnez #b",
+      " #yd'Armure."
+    ]
+  },
+  "TheCursedMod:ManaCirculationPower": {
+    "NAME": "Circulation de Mana",
+    "DESCRIPTIONS": [
+      "Quand une #rMalédiction est #yÉpuisée, gagnez [E].",
+      "Quand une #rMalédiction est #yÉpuisée, gagnez #b",
+      " Energie."
+    ]
+  },
+  "TheCursedMod:OutForBloodPower": {
+    "NAME": "Sanguinaire",
+    "DESCRIPTIONS": [
+      "Quand vous infligés des dégât(s) non bloqués, appliquez #b",
+      " #ySaignement."
+    ]
+  },
+  "TheCursedMod:SpitefulPlanPower": {
+    "NAME": "Plan Malveillant",
+    "DESCRIPTIONS": [
+      "Quand vous piochez une #rMalédiction, piochez #b1 carte.",
+      "Quand vous piochez une #rMalédiction, piochez #b",
+      " cartes."
+    ]
+  },
+  "TheCursedMod:VoidFormPower": {
+    "NAME": "Forme du Vide",
+    "DESCRIPTIONS": [
+      "Quand vous piochez une #rMalédiction, gagnez #b",
+      " de #yForce."
+    ]
+  }
+}
