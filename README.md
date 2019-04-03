@@ -23,3 +23,5 @@ Bleeding creature loses HP whenever it attacks. Each turn, Bleed is reduced by 1
 
 ## Credit
 Special thanks to 히말군 for character artwork.
+
+French translation by Demotion

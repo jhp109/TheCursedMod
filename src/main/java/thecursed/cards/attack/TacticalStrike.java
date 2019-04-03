@@ -48,7 +48,7 @@ public class TacticalStrike extends CustomCard {
                 new DamageAction(m, new DamageInfo(p, this.damage, this.damageTypeForTurn),
                         AbstractGameAction.AttackEffect.BLUNT_LIGHT));
         AbstractDungeon.actionManager.addToBottom(
-                new ApplyPowerAction(p, p, new DrawCardNextTurnPower(p, this.magicNumber)));
+                new ApplyPowerAction(p, p, new DrawCardNextTurnPower(p, this.magicNumber), this.magicNumber));
 
     }
 
