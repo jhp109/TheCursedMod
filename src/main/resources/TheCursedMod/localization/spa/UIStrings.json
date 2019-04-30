@@ -1,0 +1,69 @@
+{
+  "TheCursedMod:ExhaustCurseThenActivateAction": {
+    "TEXT": [
+      "Agotar. Elegir una Maldicón activa el efecto del Ritual. (",
+      ")"
+    ]
+  },
+  "TheCursedMod:PrepareRitualAction": {
+    "TEXT": [
+      "Agotar. (Sera sustituido con Despojos.)"
+    ]
+  },
+  "TheCursedMod:ThemeDescription": {
+    "TEXT": [
+      "[Mazo tematico Construido] ¡Disfruta este mod aun más jugando varios arquetipos!",
+      "(Nota - solo el tema mas alto será aplicado.)"
+    ]
+  },
+  "TheCursedMod:EndlessStrikeTheme": {
+    "TEXT": [
+      "[Impacto Interminable] Usa los \"Impacto\"  indefinidamente. (reliquia inicial: Amuleto de trébol de 4 hojas)"
+    ]
+  },
+  "TheCursedMod:HeavyMachineGunTheme": {
+    "TEXT": [
+      "[Ametralladora pesada] Dispara Proyectiles de Maná indefinidamente. (reliquia inicial: Vela Mágica)"
+    ]
+  },
+  "TheCursedMod:HellfireTheme": {
+    "TEXT": [
+      "[Fuego Infernal!] Aliento de Fuego Infernal por ciclar tu mazo. (reliquia inicial: Magia Negra Advanzada)"
+    ]
+  },
+  "TheCursedMod:LetsStretchingTheme": {
+    "TEXT": [
+      "[Vamos a estirarnos] Conserva la Destreza permanentamente. (reliquia inicial: Bolitas rosas)"
+    ]
+  },
+  "TheCursedMod:ManglingTheme": {
+    "TEXT": [
+      "[¡Destrozando!] Usa Destrozar indefinidamente. (reliquia inicial: Chincheta)"
+    ]
+  },
+  "TheCursedMod:MoonCrystalPowerTheme": {
+    "TEXT": [
+      "[Poder del Cristal Lunar] Siente el poder de la bola de cristal. (reliquia inicial: Bola de Cristal)"
+    ]
+  },
+  "TheCursedMod:PainfulBoomerangTheme": {
+    "TEXT": [
+      "[Boomerang doloroso] Da a los enemigos Dolor Definitivo. (reliquia inicial: Arpón Sangriento)"
+    ]
+  },
+  "TheCursedMod:SoulReaperTheme": {
+    "TEXT": [
+      "[Segador de almas] Conserva tu HP a su maximo. (reliquia inicial: Receptáculo del Alma)"
+    ]
+  },
+  "TheCursedMod:StrengthMachineTheme": {
+    "TEXT": [
+      "[Maquina de Fuerza] Conserva ganancias de Fuerza por 1. (reliquia inicial: Marca Demoníaca)"
+    ]
+  },
+  "TheCursedMod:VoidLordTheme": {
+    "TEXT": [
+      "[Lord Vacío] Siente el poder de la Forma Vacua. (reliquia inicial: Marca Ominosa)"
+    ]
+  }
+}

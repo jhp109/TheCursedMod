@@ -42,7 +42,7 @@ public class CircleOfWindfury extends AbstractCircle {
 
     @Override
     public void triggerOnOtherCardPlayed(AbstractCard c) {
-        if (c.costForTurn == 0 || c.cost == -1 && c.energyOnUse == 0) {
+        if (c.costForTurn == 0 || c.cost == -1 && c.energyOnUse == 0 || c.freeToPlayOnce) {
             AbstractDungeon.actionManager.addToBottom(new DrawCardAction(AbstractDungeon.player, 1));
             this.onActivateCircle(this.name);
         }

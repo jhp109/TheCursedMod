@@ -1,0 +1,361 @@
+{
+  "TheCursedMod:AbyssShockwave": {
+    "NAME": "Onda de choque abisal",
+    "DESCRIPTION": "Causa !D! daño a TODOS los enemigos. NL Si tienes alguna Maldición en tu mano, hace otra vez el mismo daño."
+  },
+  "TheCursedMod:AntiAging": {
+    "NAME": "Rejuvenecimiento",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Ritual : Aumenta tu Hp máximos en !M!. NL Agotar."
+  },
+  "TheCursedMod:AshesToAshes": {
+    "NAME": "Cenizas a las Cenizas",
+    "DESCRIPTION": "Ritual : Roba !M! cartas."
+  },
+  "TheCursedMod:BlessingInDisguise": {
+    "NAME": "Bendición Encubierta",
+    "DESCRIPTION": "Agota todas las cartas de Maldición de tu mano. NL Gana !B! de Bloqueo por cada carta Agotada."
+  },
+  "TheCursedMod:BloodBarrier": {
+    "NAME": "Barrera Sangrienta",
+    "DESCRIPTION": "Ritual : Gana Bloqueo igual a tu HP maximo menos tus Hp actuales. NL Agotar.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gana !B! de Bloqueo.)"
+    ]
+  },
+  "TheCursedMod:CircleOfAbyss": {
+    "NAME": "Círculo del Abismo",
+    "DESCRIPTION": "Círculo. NL Cuando juegues una carta, gana !M! de Bloqueo. Si esta carta es Agotada, gana [E].",
+    "UPGRADE_DESCRIPTION": "Círculo. NL Cuando juegues una carta, gana !M! de Bloqueo. Si esta carta es Agotada, NL gana [E] [E].",
+    "EXTENDED_DESCRIPTION": [
+      "Injugable."
+    ]
+  },
+  "TheCursedMod:CircleOfAmplification": {
+    "NAME": "Círculo Amplificador",
+    "DESCRIPTION": "Círculo. NL Cuando juegues un Poder, roba 1 carta. NL Etérea.",
+    "UPGRADE_DESCRIPTION": "Círculo. NL Cuando juegues un Poder, gana [E] y roba 1 carta. NL Etérea.",
+    "EXTENDED_DESCRIPTION": [
+      "Injugable."
+    ]
+  },
+  "TheCursedMod:CircleOfBlood": {
+    "NAME": "Círculo Sangriento",
+    "DESCRIPTION": "Círculo. NL Cuando juegues un Ataque, cúrate !M! de HP. NL Etérea.",
+    "EXTENDED_DESCRIPTION": [
+      "Injugable."
+    ]
+  },
+  "TheCursedMod:CircleOfCorruption": {
+    "NAME": "Círculo de Corrupción",
+    "DESCRIPTION": "Círculo. NL Cuando juegues una Habilidad, haz !M! daño a un enemigo aleatorio.",
+    "EXTENDED_DESCRIPTION": [
+      "Injugable."
+    ]
+  },
+  "TheCursedMod:CircleOfFlame": {
+    "NAME": "Círculo de Llamas",
+    "DESCRIPTION": "Círculo. NL Cuando juegues un Ataque, haz !M! de daño a TODOS los enemigos.",
+    "EXTENDED_DESCRIPTION": [
+      "Injugable."
+    ]
+  },
+  "TheCursedMod:CircleOfFocus": {
+    "NAME": "Círculo de Concentración",
+    "DESCRIPTION": "Círculo. NL Cuando juegues una carta que cueste !M! o más, gana [E].",
+    "EXTENDED_DESCRIPTION": [
+      "Injugable."
+    ]
+  },
+  "TheCursedMod:CircleOfWindfury": {
+    "NAME": "Círculo de Ventofuria",
+    "DESCRIPTION": "Círculo. NL Cuando juegues una carta de coste 0, roba 1 carta. NL Etérea.",
+    "UPGRADE_DESCRIPTION": "Círculo. NL Cuando juegues una carta de coste 0, roba 1 carta.",
+    "EXTENDED_DESCRIPTION": [
+      "Injugable."
+    ]
+  },
+  "TheCursedMod:CleanUpWorkshop": {
+    "NAME": "Taller de Limpieza",
+    "DESCRIPTION": "Ritual : Gana !B! de Bloqueo y roba !M! cartas.",
+    "UPGRADE_DESCRIPTION": "Ritual : Gana !B! de Bloqueo y roba !M! cartas."
+  },
+  "TheCursedMod:CollectTribute": {
+    "NAME": "Reunir Tributos",
+    "DESCRIPTION": "Al principio de tu turno, gana [E] y añade una Maldición aleatoria a tu mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al principio de tu turno, gana [E] y añade una Maldición al azar a tu mano."
+  },
+  "TheCursedMod:CursedAmulet": {
+    "NAME": "Amuleto Maldito",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Roba 1 carta. NL Baraja una Maldición aleatoria en tu mazo."
+  },
+  "TheCursedMod:CursedArmor": {
+    "NAME": "Armadura Maldita",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Baraja 2 cartas de Maldición aleatorias en tu mazo."
+  },
+  "TheCursedMod:CursedBlade": {
+    "NAME": "Filo Maldito",
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Añade 1 Despojos a tu mano."
+  },
+  "TheCursedMod:CursedBoomerang": {
+    "NAME": "Boomerang Maldito",
+    "DESCRIPTION": "Haz !D! de daño a un enemigo aleatorio !M! veces. NL Añade 1 Despojos a tu mano."
+  },
+  "TheCursedMod:CursedMace": {
+    "NAME": "Maza Maldita",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Vulnerable. NL Añade 1 Despojos a tu mano."
+  },
+  "TheCursedMod:CursedRelics": {
+    "NAME": "Reliquias Malditas",
+    "DESCRIPTION": "Hace daño igual a !M! veces el numero de Reliquias que poseas. NL Añade 1 Despojos a tu mano.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Hace !D! de daño.)"
+    ]
+  },
+  "TheCursedMod:CursedShiv": {
+    "NAME": "Navaja Maldita",
+    "DESCRIPTION": "Hace !D! de daño. NL Añade 1 Despojos a tu mano."
+  },
+  "TheCursedMod:CursedSpellbook": {
+    "NAME": "Tomo Maldito",
+    "DESCRIPTION": "Roba !M! cartas. NL Baraja una Maldición aleatoria en tu mazo."
+  },
+  "TheCursedMod:CursedStaff": {
+    "NAME": "Baculo Maldito",
+    "DESCRIPTION": "Hace !D! de daño. NL Añade 2 Despojos a tu mano."
+  },
+  "TheCursedMod:CursedWand": {
+    "NAME": "Vara Maldita",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Hace !D! de daño. NL Añade 1 Despojos a tu mano."
+  },
+  "TheCursedMod:DarkBarrier": {
+    "NAME": "Barrera Oscura",
+    "DESCRIPTION": "Ritual : Gana !M! Intangible. NL Agota."
+  },
+  "TheCursedMod:Defend_TheCursed": {
+    "NAME": "Defender",
+    "DESCRIPTION": "Gana !B! de Bloqueo."
+  },
+  "TheCursedMod:DemonSword": {
+    "NAME": "Espada Demoníaca",
+    "DESCRIPTION": "Hace !D! de daño. NL Agota todas las cartas de Maldición y gana !M! de Fuerza por cada una Agotada."
+  },
+  "TheCursedMod:DemonicPact": {
+    "NAME": "Pacto Demoníaco",
+    "DESCRIPTION": "Cuando juegues una carta de Ritual, roba 1 carta."
+  },
+  "TheCursedMod:DoubleShield": {
+    "NAME": "Escudo Doble",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Ritual : El Siguiente turno, gana !B! de Bloqueo."
+  },
+  "TheCursedMod:Dregs": {
+    "NAME": "Despojos",
+    "DESCRIPTION": "Injugable."
+  },
+  "TheCursedMod:EmpowerCircles": {
+    "NAME": "Potenciar Círculos",
+    "DESCRIPTION": "Cuando robes un Círculo, gana [E] y roba 1 carta."
+  },
+  "TheCursedMod:Evocation": {
+    "NAME": "Evocación",
+    "DESCRIPTION": "Ritual : Elimina todas tus desventajas. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Ritual : Elimina todas tus desventajas. Si no tienes desventajas, gana 1 de Artefacto. NL Agota."
+  },
+  "TheCursedMod:FleshFromBone": {
+    "NAME": "De la Carne al Hueso",
+    "DESCRIPTION": "Ritual : Gana !M! Armadura de Placas."
+  },
+  "TheCursedMod:ForbiddenAlchemy": {
+    "NAME": "Alquimia Prohibida",
+    "DESCRIPTION": "Ritual : Obtiene una pocion de Brebaje Entropico. NL Agota."
+  },
+  "TheCursedMod:FuryStrike": {
+    "NAME": "Golpe de Furia",
+    "DESCRIPTION": "Haz !D! de daño. NL Reduce el coste de todas las cartas de Golpe en tu mano a 0 este turno."
+  },
+  "TheCursedMod:Grudge": {
+    "NAME": "Resentimiento",
+    "DESCRIPTION": "Añade un Ritual aleatorio a tu mano. NL Este cuesta 0 este turno. NL Agota."
+  },
+  "TheCursedMod:HellfireBreathing": {
+    "NAME": "Aliento Infernal",
+    "DESCRIPTION": "Cuando robes una Maldición, haz !M! de daño a TODOS los enemigos."
+  },
+  "TheCursedMod:HellsGateOpen": {
+    "NAME": "Umbral al Infierno",
+    "DESCRIPTION": "Al principio de tu turno, añade una carta Maldita aleatoria a tu mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al principio de tu turno, añade una carta Maldita aleatoria a tu mano."
+  },
+  "TheCursedMod:Hemoplague": {
+    "NAME": "Hemoplaga",
+    "DESCRIPTION": "Al principo de tu turno, aplica !M! Sangrado a TODOS los enemigos."
+  },
+  "TheCursedMod:LuckyCharm": {
+    "NAME": "Amuleto de la suerte",
+    "DESCRIPTION": "Cuando una Maldición es robada o Agotada, gana !M! de Bloqueo."
+  },
+  "TheCursedMod:ManaBullet": {
+    "NAME": "Proyectil de Maná",
+    "DESCRIPTION": "Haz !D! de daño por cada Maldición en tu mano.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño por cada carta Injugable en tu mano.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Tienes ",
+      " Cartas de Maldición.)",
+      " Cartas de Maldición.)",
+      " NL (Tienes ",
+      " cartas Injugables.)",
+      " cartas Injugables.)"
+    ]
+  },
+  "TheCursedMod:ManaCirculation": {
+    "NAME": "Circulación de Maná",
+    "DESCRIPTION": "Cuando una Maldición es Agotada, gana [E]. NL Etérea.",
+    "UPGRADE_DESCRIPTION": "Cuando una Maldición es Agotada, gana [E]."
+  },
+  "TheCursedMod:Mangle": {
+    "NAME": "Mutilar",
+    "DESCRIPTION": "Haz !D! de daño. NL Si el enemigo tiene Sangrado, NL gana [E] y NL roba 1 carta."
+  },
+  "TheCursedMod:Neurasthenia": {
+    "NAME": "Neurastenia",
+    "DESCRIPTION": "Agota todas las cartas de Maldición de tu mano. NL El enemigo pierde Fuerza igual a 1 más el número de cartas Agotadas. NL Agotar."
+  },
+  "TheCursedMod:NeowsMight": {
+    "NAME": "Fuerza de Neow",
+    "DESCRIPTION": "Roba 2 cartas. NL Reduce el coste de todas las cartas en tu mano en 1 este turno. NL Agota."
+  },
+  "TheCursedMod:Obscuration": {
+    "NAME": "Oscurecimiento",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Ritual : Gana !B! de Bloqueo adicional."
+  },
+  "TheCursedMod:OutForBlood": {
+    "NAME": "Sediento de Sangre",
+    "DESCRIPTION": "Cuando un Ataque hace daño sin bloquear, aplica 1 de Sangrado."
+  },
+  "TheCursedMod:ParallelWorld": {
+    "NAME": "Mundo Paralelo",
+    "DESCRIPTION": "Copia todas las cartas de tu mano y barajalas en tu mazo. NL Agota."
+  },
+  "TheCursedMod:PrepareRitual": {
+    "NAME": "Preparacion Ritual",
+    "DESCRIPTION": "Agota cualquier número de cartas excepto Maldición, y añade esa misma cantidad de Despojos a tu mano. NL Agota.",
+    "UPGRADE_DESCRIPTION":"Agota cualquier número de cartas excepto Maldición, y añade esa misma cantidad de Despojos a tu mano."
+  },
+  "TheCursedMod:RapidMovement": {
+    "NAME": "Movimiento Rápido",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Ritual : Roba !M! cartas."
+  },
+  "TheCursedMod:RavingStaff": {
+    "NAME": "Báculo Delirante",
+    "DESCRIPTION": "Haz !D! de daño a un enemigo aleatorio X veces."
+  },
+  "TheCursedMod:ReleasedKnowledge": {
+    "NAME": "Saber Liberado",
+    "DESCRIPTION": "Ritual : Añade un Círculo aleatorio a tu mano. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Ritual : Añade un Círculo aleatorio a tu mano."
+  },
+  "TheCursedMod:ReleasedStrength": {
+    "NAME": "Fuerzas Liberadas",
+    "DESCRIPTION": "Ritual : Gana !M! de Fuerza. NL Etérea."
+  },
+  "TheCursedMod:SaltUponWound": {
+    "NAME": "Sal sobre la herida",
+    "DESCRIPTION": "El enemigo pierde inmediatamente HP por su Sangrado 2 veces. NL Aplica !M! de Sangrado."
+  },
+  "TheCursedMod:ShockAndAwe": {
+    "NAME": "Choque y Pavor",
+    "DESCRIPTION": "Haz !D! de daño 3 veces. NL Baraja 2 cartas de Maldición aleatorias en tu mazo."
+  },
+  "TheCursedMod:SmokeScreen": {
+    "NAME": "Pantalla de Humo",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Ritual : Aplica !M! Débil a TODOS los enemigos."
+  },
+  "TheCursedMod:SoulCrush": {
+    "NAME": "Doblegar el Alma",
+    "DESCRIPTION": "Agota todas las cartas de Maldición de tu mano. NL Haz !D! de daño."
+  },
+  "TheCursedMod:SoulReap": {
+    "NAME": "Cosechar el Alma",
+    "DESCRIPTION": "Haz !D! de daño. Si esto mata a un enemigo que no sea súbdito, cura !M! de HP. NL Agota."
+  },
+  "TheCursedMod:SpitefulPlan": {
+    "NAME": "Plan Malicioso",
+    "DESCRIPTION": "Cuando robes una Maldición, roba !M! cartas.",
+    "UPGRADE_DESCRIPTION": "Cuando robes una maldición, roba !M! cartas."
+  },
+  "TheCursedMod:SpitefulPray": {
+    "NAME": "Oración Maliciosa",
+    "DESCRIPTION": "Gana [E]. NL Si tienes alguna Maldición en tu mano, gana [E] adicional. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Gana [E] [E]. NL Si tienes alguna Maldición en tu mano, gana [E] adicional. NL Agota."
+  },
+  "TheCursedMod:SpitefulStrike": {
+    "NAME": "Golpe Malicioso",
+    "DESCRIPTION": "Haz !D! de daño. NL Si tienes alguna Maldición en tu mano, gana [E] [E]."
+  },
+  "TheCursedMod:SpreadPlague": {
+    "NAME": "Propagar Plaga",
+    "DESCRIPTION": "Aplica !M! de Sangrado y 3 Vulnerable a TODOS los enemigos. NL Agota."
+  },
+  "TheCursedMod:Stigma": {
+    "NAME": "Estigma",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! de Sangrado."
+  },
+  "TheCursedMod:StingEye": {
+    "NAME": "Punzaojos",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Débil. NL Aplica !M! de Sangrado."
+  },
+  "TheCursedMod:Stretching": {
+    "NAME": "Elongación",
+    "DESCRIPTION": "Gana !M! de Destreza. NL Al final del turno, pierde !M! Destreza."
+  },
+  "TheCursedMod:Strike_TheCursed": {
+    "NAME": "Golpe",
+    "DESCRIPTION": "Haz !D! de daño."
+  },
+  "TheCursedMod:StunningStrike": {
+    "NAME": "Golpe Aturdidor",
+    "DESCRIPTION": "Haz !D! de daño. NL Si el enemigo tiene intencion de atacar, aplica !M! Aturdido. NL Agotar."
+  },
+  "TheCursedMod:SurpriseAttack": {
+    "NAME": "Ataque Sorpresa",
+    "DESCRIPTION": "Innata. NL Haz !D! de daño. NL Roba 1 carta. NL Agota."
+  },
+  "TheCursedMod:TacticalStrike": {
+    "NAME": "Golpe Táctico",
+    "DESCRIPTION": "Haz !D! de daño. NL El siguiente turno, roba !M! cartas adicionales.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL El siguiente turno, roba !M! cartas adicionales."
+  },
+  "TheCursedMod:Torture": {
+    "NAME": "Tortura",
+    "DESCRIPTION": "Aplica !M! de Sangrado."
+  },
+  "TheCursedMod:TroublousMinions": {
+    "NAME": "Subditos Turbulentos",
+    "DESCRIPTION": "Cuando robes esta carta, añade una copia de ella a tu mano. Gana !B! de Bloqueo y añade 1 Despojos a tu mano. NL Agotar."
+  },
+  "TheCursedMod:UltimatePain": {
+    "NAME": "Dolor Definitivo",
+    "DESCRIPTION": "El Enemigo pierde HP por su Sangrado X veces.",
+    "UPGRADE_DESCRIPTION": "El Enemigo pierde HP por su Sangrado X+1 veces."
+  },
+  "TheCursedMod:VitalStrike": {
+    "NAME": "Golpe Vital",
+    "DESCRIPTION": "Haz !D! de daño. NL Si el enemigo tiene Sangrado, dobla el daño."
+  },
+  "TheCursedMod:VoidForm": {
+    "NAME": "Forma Vacua",
+    "DESCRIPTION": "Baraja 2 cartas de Maldición aleatorias en tu mazo. NL Cuando robes una Maldición, gana !M! de Fuerza."
+  },
+  "TheCursedMod:WearCloak": {
+    "NAME": "Disfraz",
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Si tienes alguna Maldición en tu mano, gana [E]."
+  },
+  "TheCursedMod:Wield": {
+    "NAME": "Esgrimir",
+    "DESCRIPTION": "Haz !D! de daño. NL Roba cartas igual al número de cartas Injugables en tu mano.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Tienes ",
+      " Carta injugable.)",
+      " Cartas injugables.)"
+    ]
+  }
+}

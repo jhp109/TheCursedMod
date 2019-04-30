@@ -8,5 +8,12 @@
     <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/PowerStrings.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/RelicStrings.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/UIStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/CardStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/CharacterStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/KeywordStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/PotionStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/PowerStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/RelicStrings.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/UIStrings.json" charset="UTF-8" />
   </component>
 </project>

@@ -50,7 +50,7 @@
     "FLAVOR": "It collects nearby mana during ritual.",
     "DESCRIPTIONS": [
       "Every time you activate an effect of #yCircle #b",
-      " times, gain [E] ."
+      " times, gain [E]."
     ]
   },
   "TheCursedMod:OminousMark": {

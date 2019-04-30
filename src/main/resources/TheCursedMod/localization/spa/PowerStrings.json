@@ -1,0 +1,94 @@
+{
+  "TheCursedMod:BleedPower": {
+    "NAME": "Sangrado",
+    "DESCRIPTIONS": [
+      "Cuando esta criatura ataque, pierde #b",
+      " HP. Al final del turno, reduce #b1 el #ySangrado."
+    ]
+  },
+  "TheCursedMod:CollectTributePower": {
+    "NAME": "Coleccionar Tributo",
+    "DESCRIPTIONS": [
+      "Al principio de tu turno, gana [E] y añade #b1 #rMaldición aleatoria a tu mano.",
+      "Al principio de tu turno, gana #b",
+      " Energía y añade #b",
+      " #rMaldición aleatoria a tu mano."
+    ]
+  },
+  "TheCursedMod:DemonicPactPower": {
+    "NAME": "Pacto Demoníaco",
+    "DESCRIPTIONS": [
+      "Cuando uses un #yRitual, roba #b1 carta.",
+      "Cuando uses un #yRitual, roba #b",
+      " cartas."
+    ]
+  },
+  "TheCursedMod:EmpowerCirclesPower": {
+    "NAME": "Potenciar Círculos",
+    "DESCRIPTIONS": [
+      "Cuando robes un #yCírculo, gana [E] y roba #b1 carta.",
+      "Cuando robes un #yCírculo gana #b",
+      " de Energía y roba #b",
+      " cartas."
+    ]
+  },
+  "TheCursedMod:HellfireBreathingPower": {
+    "NAME": "Aliento Infernal",
+    "DESCRIPTIONS": [
+      "Cuando robes una #rMaldición, haz #b",
+      " de daño a TODOS los enemigos."
+    ]
+  },
+  "TheCursedMod:HellsGateOpenPower": {
+    "NAME": "Umbral al Infierno",
+    "DESCRIPTIONS": [
+      "Al principio de tu turno, añade #b1 carta #yMaldita aleatoria a tu mano.",
+      "Al principio de tu turno, añade #b",
+      " cartas #yMalditas a tu mano."
+    ]
+  },
+  "TheCursedMod:HemoplaguePower": {
+    "NAME": "Hemoplagua",
+    "DESCRIPTIONS": [
+      "Al principio de tu turno, aplica #b",
+      " #ySangrado a TODOS los enemigos."
+    ]
+  },
+  "TheCursedMod:LuckyCharmPower": {
+    "NAME": "Amuleto de la Suerte",
+    "DESCRIPTIONS": [
+      "Cuando una #rMaldición es robada o #yAgotada, gana #b",
+      " de #yBloqueo."
+    ]
+  },
+  "TheCursedMod:ManaCirculationPower": {
+    "NAME": "Circulación de maná",
+    "DESCRIPTIONS": [
+      "Cuando una #rMaldición es #yAgotada, gana [E].",
+      "Cuando una #rMaldición es #yAgotada, gana #b",
+      " Energía."
+    ]
+  },
+  "TheCursedMod:OutForBloodPower": {
+    "NAME": "Sediento de Sangre",
+    "DESCRIPTIONS": [
+      "Cuando hagas daño de ataque no bloqueado, aplica #b",
+      " de #ySangrado."
+    ]
+  },
+  "TheCursedMod:SpitefulPlanPower": {
+    "NAME": "Plan Malicioso",
+    "DESCRIPTIONS": [
+      "Cuando robes una #rMaldición, roba #b1 carta.",
+      "Cuando robes una #rMaldición, roba #b",
+      " cartas."
+    ]
+  },
+  "TheCursedMod:VoidFormPower": {
+    "NAME": "Forma Vacua",
+    "DESCRIPTIONS": [
+      "Cuando robes una #rMaldición, gana #b",
+      " de #yFuerza."
+    ]
+  }
+}

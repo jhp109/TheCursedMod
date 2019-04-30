@@ -1,0 +1,15 @@
+{
+  "TheCursedMod:DregsPotion": {
+    "NAME": "Pocion de Despojos",
+    "DESCRIPTIONS": [
+      "Añade #b",
+      " #rDespojos a tu mano."
+    ]
+  },
+  "TheCursedMod:DregsPotionKeyword": {
+    "NAME": "Despojos",
+    "DESCRIPTIONS": [
+      "Despojos son cartas de #rMaldición Injugables."
+    ]
+  }
+}

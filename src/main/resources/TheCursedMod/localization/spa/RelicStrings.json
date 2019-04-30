@@ -1,0 +1,90 @@
+{
+  "TheCursedMod:BlackMagic101": {
+    "NAME": "Magia Negra 101",
+    "FLAVOR": "Aprende todo sobre magia ahora!!!  {4ª Edición}",
+    "DESCRIPTIONS": [
+      "Al principio de tu turno, roba #b1 carta adicional si tu mazo tiene alguna #rMaldición."
+    ]
+  },
+  "TheCursedMod:BlackMagicAdvanced": {
+    "NAME": "Magia Negra Avanzada",
+    "FLAVOR": "[Los efectos de maldiciones y círculos magicos en cuerpos humanos y sus efectos secundarios]",
+    "DESCRIPTIONS": [
+      "Reemplaza a #gMagia #gNegra #g101. Al principio de tu turno, roba #b2 cartas adicionales si tu mazo tiene alguna #rMaldición."
+    ]
+  },
+  "TheCursedMod:BloodyHarpoon": {
+    "NAME": "Arpón Sangriento",
+    "FLAVOR": "Empala con él , no se puede mover!",
+    "DESCRIPTIONS": [
+      "Cuando apliques #ySangrado, aplica #b",
+      " #ySangrado adicional."
+    ]
+  },
+  "TheCursedMod:CrystalBall": {
+    "NAME": "Bola de Cristal",
+    "FLAVOR": "¿Dijiste que el color parece como un fragmento prismatico? Has ido demasiado lejos.",
+    "DESCRIPTIONS": [
+      "Cuando una #rMaldición es #yAgotada, haz #b",
+      " de daño a un enemigo aleatorio."
+    ]
+  },
+  "TheCursedMod:DemonicMark": {
+    "NAME": "Marca Demoníaca",
+    "FLAVOR": "Si has visto esta marca por ahi, If you've seen this mark somewhere, estas equivocado. (Firmemente)",
+    "DESCRIPTIONS": [
+      "Cuando actives el efecto de un #yCírculo #b",
+      " veces en un mismo turno, gana #b",
+      " #yFuerza."
+    ]
+  },
+  "TheCursedMod:FourLeafCloverCharm": {
+    "NAME": "Amuleto de trebol de 4 hojas",
+    "FLAVOR": "Buena suerte y felicidad vienen de la gratitud.",
+    "DESCRIPTIONS": [
+      "Cada vez que una carta o reliquia genera una #rMaldición aleatoria durante el combate, sustituyela por #rDespojos."
+    ]
+  },
+  "TheCursedMod:MagicCandle": {
+    "NAME": "Vela Mágica",
+    "FLAVOR": "Recolecta maná durante los rituales.",
+    "DESCRIPTIONS": [
+      "Cada vez que actives el efecto de un #yCírculo #b",
+      " veces, gana [E]."
+    ]
+  },
+  "TheCursedMod:OminousMark": {
+    "NAME": "Marca Ominosa",
+    "FLAVOR": "Mira de cerca, parece sacudirse...",
+    "DESCRIPTIONS": [
+      "Gana [E] al principio de tu turno. Al principio del combate, baraja #b",
+      " #rMaldiciones aleatorias en tu mazo."
+    ]
+  },
+  "TheCursedMod:PinkPellets": {
+    "NAME": "Bolitas Rosas",
+    "FLAVOR": "¡Se venden con Bolitas Naranjas!",
+    "DESCRIPTIONS": [
+      "Cada vez que actives el efecto de un #yCírculo #b",
+      " veces en un mismo turno, elimina todas tus desventajas."
+    ]
+  },
+  "TheCursedMod:SoulVessel": {
+    "NAME": "Receptaculo del Alma",
+    "FLAVOR": "!El festín de almas empieza ahora!",
+    "DESCRIPTIONS": [
+      "Al final del combate, cura HP igual al numero de cartas #yAgotadas de #rMaldición en este combate.",
+      " (#b1 #rMaldición #yExhausted en este combate.)",
+      " (#b",
+      " #rMaldiciones #yAgotadas en este combate.)"
+    ]
+  },
+  "TheCursedMod:Tack": {
+    "NAME": "Chincheta",
+    "FLAVOR": "Duele cuando la pisas.",
+    "DESCRIPTIONS": [
+      "Al principio de cada combate, aplica #b",
+      " #ySangrado a TODOS los enemigos."
+    ]
+  }
+}

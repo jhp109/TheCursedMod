@@ -1,0 +1,46 @@
+{
+  "TheCursedMod:BleedKeyword": {
+    "PROPER_NAME": "Sangrado",
+    "NAMES": [
+      "sangrado",
+      "sangrando"
+    ],
+    "DESCRIPTION": "Criaturas con Sangrado pierden HP cuando atacan. Cada turno, el Sangrado se reduce en #b1."
+  },
+  "TheCursedMod:CircleKeyword": {
+    "PROPER_NAME": "Círculo",
+    "NAMES": [
+      "círculo"
+    ],
+    "DESCRIPTION": "Carta #yInjugable que puede ser activada usando otras cartas mientras se tiene en la mano."
+  },
+  "TheCursedMod:CursedKeyword": {
+    "PROPER_NAME": "Maldita",
+    "NAMES": [
+      "maldita",
+      "maldito"
+    ],
+    "DESCRIPTION": "Cualquier carta con la palabra \"Maldito\" / \"Maldita\" en su nombre. Usarla creara Despojos o una Maldiciones aleatorias."
+  },
+  "TheCursedMod:DregsKeyword": {
+    "PROPER_NAME": "Despojos",
+    "NAMES": [
+      "despojos"
+    ],
+    "DESCRIPTION": "Despojos son cartas de Maldición Injugables."
+  },
+  "TheCursedMod:RitualKeyword": {
+    "PROPER_NAME": "Ritual",
+    "NAMES": [
+      "ritual"
+    ],
+    "DESCRIPTION": "Cuando son usadas, elige 1 carta para #yAgotar. Elegir una Maldición activará el efecto del ritual."
+  },
+  "TheCursedMod:StunKeyword": {
+    "PROPER_NAME": "Aturdido",
+    "NAMES": [
+      "aturdido"
+    ],
+    "DESCRIPTION": "No puede hacer nada."
+  }
+}
