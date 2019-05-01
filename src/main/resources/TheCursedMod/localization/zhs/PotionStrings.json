@@ -1,0 +1,15 @@
+{
+  "TheCursedMod:DregsPotion": {
+    "NAME": "残渣药水",
+    "DESCRIPTIONS": [
+      "增加 #b",
+      " #r残渣 到你的手牌。"
+    ]
+  },
+  "TheCursedMod:DregsPotionKeyword": {
+    "NAME": "残渣",
+    "DESCRIPTIONS": [
+      "残渣是不可打出的 #r诅咒牌 。"
+    ]
+  }
+}

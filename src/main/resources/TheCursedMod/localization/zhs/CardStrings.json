@@ -1,0 +1,361 @@
+{
+  "TheCursedMod:AbyssShockwave": {
+    "NAME": "深渊震荡波",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 如果手牌中有诅咒牌, 再攻击一次。"
+  },
+  "TheCursedMod:AntiAging": {
+    "NAME": "抗衰老",
+    "DESCRIPTION": "获得 !B! 点护甲。 NL 仪式 : 最大生命值提升 !M! 。 NL 消耗。"
+  },
+  "TheCursedMod:AshesToAshes": {
+    "NAME": "灰飞烟灭",
+    "DESCRIPTION": "仪式 : 丢弃 !M! 张牌。"
+  },
+  "TheCursedMod:BlessingInDisguise": {
+    "NAME": "因祸得福",
+    "DESCRIPTION": "消耗手牌中所有的诅咒。 NL 每张获得 !B! 点护甲。"
+  },
+  "TheCursedMod:BloodBarrier": {
+    "NAME": "鲜血屏障",
+    "DESCRIPTION": "仪式 : 获得最大生命值减去当前生命值的护甲。 NL 消耗。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (获得 !B! 点护甲。)"
+    ]
+  },
+  "TheCursedMod:CircleOfAbyss": {
+    "NAME": "暗之魔法阵",
+    "DESCRIPTION": "魔法阵。 NL 每打出一张牌，获得 !M! 点护甲。 NL 如果这张牌被消耗, 获得 [E] 。",
+    "UPGRADE_DESCRIPTION": "魔法阵。 NL 每打出一张牌，获得 !M! 点护甲。 NL 如果这张牌被消耗, 获得 [E] [E] 。",
+    "EXTENDED_DESCRIPTION": [
+      "不能被打出。"
+    ]
+  },
+  "TheCursedMod:CircleOfAmplification": {
+    "NAME": "扩之魔法阵",
+    "DESCRIPTION": "魔法阵。 NL 每打出一张能力牌, 抽一张牌。 NL 虚无。",
+    "UPGRADE_DESCRIPTION": "魔法阵。 NL 每打出一张能力牌, 抽一张牌并获得 [E]。 NL 虚无。",
+    "EXTENDED_DESCRIPTION": [
+      "不能被打出。"
+    ]
+  },
+  "TheCursedMod:CircleOfBlood": {
+    "NAME": "血之魔法阵",
+    "DESCRIPTION": "魔法阵。 NL 每打出一张攻击牌，恢复 !M! 生命. NL 虚无。",
+    "EXTENDED_DESCRIPTION": [
+      "不能被打出。"
+    ]
+  },
+  "TheCursedMod:CircleOfCorruption": {
+    "NAME": "蚀之魔法阵",
+    "DESCRIPTION": "魔法阵。 NL 每打出一张技能牌，随机对敌人造成 !M! 点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "不能被打出。"
+    ]
+  },
+  "TheCursedMod:CircleOfFlame": {
+    "NAME": "火之魔法阵",
+    "DESCRIPTION": "魔法阵。 NL 每打出一张攻击牌，对所有敌人造成 !M! 点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "不能被打出。"
+    ]
+  },
+  "TheCursedMod:CircleOfFocus": {
+    "NAME": "聚之魔法阵",
+    "DESCRIPTION": "魔法阵。 NL 每打出一张费用大于或等于 !M! 的卡牌, 获得 [E]。",
+    "EXTENDED_DESCRIPTION": [
+      "不能被打出。"
+    ]
+  },
+  "TheCursedMod:CircleOfWindfury": {
+    "NAME": "风之魔法阵",
+    "DESCRIPTION": "魔法阵。 NL 每打出一张0费牌, 抽一张牌。 NL 虚无。",
+    "UPGRADE_DESCRIPTION": "魔法阵。 NL 每打出一张0费牌, 抽一张牌。",
+    "EXTENDED_DESCRIPTION": [
+      "不能被打出。"
+    ]
+  },
+  "TheCursedMod:CleanUpWorkshop": {
+    "NAME": "空间清理",
+    "DESCRIPTION": "仪式 : 获得 !B! 点护甲并抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "仪式 : 获得 !B! 点护甲并抽 !M! 张牌。"
+  },
+  "TheCursedMod:CollectTribute": {
+    "NAME": "贡品收集",
+    "DESCRIPTION": "在回合的开始, 获得 [E] 并增加一张随机的诅咒牌到你的手牌。",
+    "UPGRADE_DESCRIPTION": "固有。 NL 在回合的开始, 获得 [E] 并增加一张随机的诅咒牌到你的手牌。"
+  },
+  "TheCursedMod:CursedAmulet": {
+    "NAME": "被诅咒的护身符",
+    "DESCRIPTION": "获得 !B! 点护甲。 NL 抽一张牌. NL 在弃牌堆加入一张随机的诅咒牌。"
+  },
+  "TheCursedMod:CursedArmor": {
+    "NAME": "被诅咒的护甲",
+    "DESCRIPTION": "获得 !B! 点护甲。 NL 在弃牌堆加入2张随机的诅咒牌。"
+  },
+  "TheCursedMod:CursedBlade": {
+    "NAME": "被诅咒的刀刃",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 增加一张残渣到你的手牌。"
+  },
+  "TheCursedMod:CursedBoomerang": {
+    "NAME": "被诅咒的回旋镖",
+    "DESCRIPTION": "对随机敌人造成 !D! 点伤害 !M! 次。 NL 增加一张残渣到你的手牌。"
+  },
+  "TheCursedMod:CursedMace": {
+    "NAME": "被诅咒的锤子",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层易伤. NL 增加一张残渣到你的手牌。"
+  },
+  "TheCursedMod:CursedRelics": {
+    "NAME": "被诅咒的遗物",
+    "DESCRIPTION": "造成你拥有遗物数量的伤害 !M! 次。 NL 增加一张残渣到你的手牌。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (造成 !D! 点伤害。)"
+    ]
+  },
+  "TheCursedMod:CursedShiv": {
+    "NAME": "被诅咒的小刀",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 增加一张残渣到你的手牌。"
+  },
+  "TheCursedMod:CursedSpellbook": {
+    "NAME": "被诅咒的魔法师",
+    "DESCRIPTION": "抽 !M! 张牌。 NL 在你的抽排堆中加入一张诅咒牌。"
+  },
+  "TheCursedMod:CursedStaff": {
+    "NAME": "被诅咒的权杖",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 增加2张残渣到你的手牌。"
+  },
+  "TheCursedMod:CursedWand": {
+    "NAME": "被诅咒的魔杖",
+    "DESCRIPTION": "获得 !B! 点护甲。 NL 造成 !D! 点伤害。 NL 增加一张残渣到你的手牌。"
+  },
+  "TheCursedMod:DarkBarrier": {
+    "NAME": "黑暗屏障",
+    "DESCRIPTION": "仪式 : 获得 !M! 层无实体。 NL 消耗。"
+  },
+  "TheCursedMod:Defend_TheCursed": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点护甲。"
+  },
+  "TheCursedMod:DemonSword": {
+    "NAME": "恶魔之剑",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 消耗手牌中所有的诅咒牌， 每张获得 !M! 点力量。"
+  },
+  "TheCursedMod:DemonicPact": {
+    "NAME": "恶魔契约",
+    "DESCRIPTION": "每打出一张仪式卡，抽一张牌。"
+  },
+  "TheCursedMod:DoubleShield": {
+    "NAME": "双重保护",
+    "DESCRIPTION": "获得 !B! 点护甲。 NL 仪式 : 下一回合获得 !B! 点护甲。"
+  },
+  "TheCursedMod:Dregs": {
+    "NAME": "残渣",
+    "DESCRIPTION": "不能被打出。"
+  },
+  "TheCursedMod:EmpowerCircles": {
+    "NAME": "魔法阵的力量",
+    "DESCRIPTION": "每抽到一张魔法阵，获得 [E] 并抽到一张牌。"
+  },
+  "TheCursedMod:Evocation": {
+    "NAME": "招魂",
+    "DESCRIPTION": "仪式 : 移除所有的减益状态。 NL 消耗。",
+    "UPGRADE_DESCRIPTION": "仪式 : 移除所有的减益状态。 如果没有, 获得一层人工制品. NL 消耗。"
+  },
+  "TheCursedMod:FleshFromBone": {
+    "NAME": "骨肉",
+    "DESCRIPTION": "仪式 : 获得 !M! 层多重护甲。"
+  },
+  "TheCursedMod:ForbiddenAlchemy": {
+    "NAME": "炼金禁术",
+    "DESCRIPTION": "仪式 : 获得一瓶混沌药水。 NL 消耗。"
+  },
+  "TheCursedMod:FuryStrike": {
+    "NAME": "愤怒撞击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 手牌中所有的攻击牌在本回合变成0费。"
+  },
+  "TheCursedMod:Grudge": {
+    "NAME": "怨恨",
+    "DESCRIPTION": "增加一张随机仪式牌到手牌中。 NL 本回合为0费。 NL 消耗。"
+  },
+  "TheCursedMod:HellfireBreathing": {
+    "NAME": "地狱火焰吐息",
+    "DESCRIPTION": "每抽到一张诅咒牌，对所有敌人造成 !M! 点伤害。"
+  },
+  "TheCursedMod:HellsGateOpen": {
+    "NAME": "开启地狱之门",
+    "DESCRIPTION": "在你的回合开始, 增加一张随机被诅咒的卡牌到手牌中。",
+    "UPGRADE_DESCRIPTION": "固有。 NL 在你的回合开始, 增加一张随机被诅咒的卡牌到手牌中"
+  },
+  "TheCursedMod:Hemoplague": {
+    "NAME": "血雾",
+    "DESCRIPTION": "在你的回合开始, 给予所有敌人 !M! 层流血。"
+  },
+  "TheCursedMod:LuckyCharm": {
+    "NAME": "幸运首饰",
+    "DESCRIPTION": "每抽到或者消耗一张诅咒牌, 获得 !M! 点护甲。"
+  },
+  "TheCursedMod:ManaBullet": {
+    "NAME": "魔力子弹",
+    "DESCRIPTION": "手牌中每有一张诅咒牌造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "手牌中每有一张不可打出的卡牌造成 !D! 点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (你有",
+      " 诅咒牌。)",
+      " 诅咒牌。)",
+      " NL (你有",
+      " 张不可打出的卡牌。)",
+      " 张不可打出的卡牌。)"
+    ]
+  },
+  "TheCursedMod:ManaCirculation": {
+    "NAME": "魔法循环",
+    "DESCRIPTION": "每有一张诅咒牌被消耗, 获得 [E] 。 NL 虚无。",
+    "UPGRADE_DESCRIPTION": "每有一张诅咒牌被消耗, 获得 [E] 。"
+  },
+  "TheCursedMod:Mangle": {
+    "NAME": "撕裂",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有流血状态, NL 获得 [E] 并且抽一张牌。"
+  },
+  "TheCursedMod:Neurasthenia": {
+    "NAME": "神經衰弱",
+    "DESCRIPTION": "消耗手牌中所有的诅咒牌。 NL 敌人失去 1+消耗卡牌 的力量. NL 消耗。"
+  },
+  "TheCursedMod:NeowsMight": {
+    "NAME": "尼奥的力量",
+    "DESCRIPTION": "抽 2 张牌. NL 手牌中所有卡牌的耗能在本回合减1. NL 消耗。"
+  },
+  "TheCursedMod:Obscuration": {
+    "NAME": "遮蔽",
+    "DESCRIPTION": "获得 !B! 点护甲。 NL 仪式 : 再次获得 !B! 点护甲。"
+  },
+  "TheCursedMod:OutForBlood": {
+    "NAME": "出血",
+    "DESCRIPTION": "每有一次攻击造成未被格挡的伤害, 给予一层流血状态。"
+  },
+  "TheCursedMod:ParallelWorld": {
+    "NAME": "平行世界",
+    "DESCRIPTION": "复制所有的手牌加入你的抽排队。 NL 消耗。"
+  },
+  "TheCursedMod:PrepareRitual": {
+    "NAME": "准备仪式",
+    "DESCRIPTION": "消耗任意数量的非诅咒卡牌, 并加入相同数量的残渣到你的手牌。 NL 消耗。",
+    "UPGRADE_DESCRIPTION":"消耗任意数量的非诅咒卡牌, 并加入相同数量的残渣到你的手牌。"
+  },
+  "TheCursedMod:RapidMovement": {
+    "NAME": "快速移动",
+    "DESCRIPTION": "获得 !B! 点护甲。 NL 仪式 : 抽 !M! 张牌。"
+  },
+  "TheCursedMod:RavingStaff": {
+    "NAME": "狂乱权杖",
+    "DESCRIPTION": "随机对敌人造成 !D! 点伤害 X 次 。"
+  },
+  "TheCursedMod:ReleasedKnowledge": {
+    "NAME": "知识解放",
+    "DESCRIPTION": "仪式 : 增加一张随机魔法阵到你的手牌。 NL 消耗。",
+    "UPGRADE_DESCRIPTION": "仪式 : 增加一张随机魔法阵到你的手牌。"
+  },
+  "TheCursedMod:ReleasedStrength": {
+    "NAME": "力量解放",
+    "DESCRIPTION": "仪式 : 获得 !M! 点力量. NL 虚无。"
+  },
+  "TheCursedMod:SaltUponWound": {
+    "NAME": "伤上撒盐",
+    "DESCRIPTION": "敌人失去2次流血层数的伤害. NL 给予 !M! 层流血。"
+  },
+  "TheCursedMod:ShockAndAwe": {
+    "NAME": "惊慌失措",
+    "DESCRIPTION": "造成 !D! 点伤害3次。 NL 在抽排堆加入2张诅咒牌。"
+  },
+  "TheCursedMod:SmokeScreen": {
+    "NAME": "烟幕",
+    "DESCRIPTION": "获得 !B! 点护甲. NL 仪式 : 给予所有敌人 !M! 层虚弱。"
+  },
+  "TheCursedMod:SoulCrush": {
+    "NAME": "灵魂破碎",
+    "DESCRIPTION": "消耗手牌中所有的诅咒牌。 NL 造成 !D! 点伤害。"
+  },
+  "TheCursedMod:SoulReap": {
+    "NAME": "灵魂收割",
+    "DESCRIPTION": "造成 !D! 点伤害。 如果杀死了非爪牙的敌人, 恢复 !M! 点生命。 NL 消耗。"
+  },
+  "TheCursedMod:SpitefulPlan": {
+    "NAME": "恶意计划",
+    "DESCRIPTION": "每当你抽到一张诅咒牌，抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "每当你抽到一张诅咒牌，抽 !M! 张牌。"
+  },
+  "TheCursedMod:SpitefulPray": {
+    "NAME": "恶意祷告",
+    "DESCRIPTION": "获得 [E] 。 NL 如果手牌中有诅咒牌, 额外获得 [E] 。 NL 消耗。",
+    "UPGRADE_DESCRIPTION": "获得 [E] [E] 。 如果手牌中有诅咒牌, 额外获得  [E] 。 NL 消耗。"
+  },
+  "TheCursedMod:SpitefulStrike": {
+    "NAME": "恶意攻击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果手牌中有诅咒牌, 获得 [E] [E] 。"
+  },
+  "TheCursedMod:SpreadPlague": {
+    "NAME": "瘟疫蔓延",
+    "DESCRIPTION": "给予所有敌人 !M! 层流血 和 3 层易伤。 NL 消耗 。"
+  },
+  "TheCursedMod:Stigma": {
+    "NAME": "烙印",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层流血。"
+  },
+  "TheCursedMod:StingEye": {
+    "NAME": "眼部刺攻",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层虚弱。  NL 给予 !M! 层流血。"
+  },
+  "TheCursedMod:Stretching": {
+    "NAME": "拉伸运动",
+    "DESCRIPTION": "获得 !M! 点敏捷. NL 在回合结束, 失去 !M! 点敏捷。"
+  },
+  "TheCursedMod:Strike_TheCursed": {
+    "NAME": "攻击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "TheCursedMod:StunningStrike": {
+    "NAME": "昏迷打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人意图攻击, 给予 !M! 层昏迷。 NL 消耗。"
+  },
+  "TheCursedMod:SurpriseAttack": {
+    "NAME": "意外打击",
+    "DESCRIPTION": "固有。 NL 造成 !D! 点伤害。 NL 抽 1 张牌。 NL 消耗。"
+  },
+  "TheCursedMod:TacticalStrike": {
+    "NAME": "战术打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 下一回合, 额外抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。  NL 下一回合, 额外抽 !M! 张牌。"
+  },
+  "TheCursedMod:Torture": {
+    "NAME": "折磨",
+    "DESCRIPTION": "给予 !M! 层流血。"
+  },
+  "TheCursedMod:TroublousMinions": {
+    "NAME": "苦痛的爪牙",
+    "DESCRIPTION": "每抽到这张牌, 增加一张它的复制品到手牌。 NL 获得 !B! 点护甲并增加一张残渣到你的手牌。 NL 消耗。"
+  },
+  "TheCursedMod:UltimatePain": {
+    "NAME": "最终计划",
+    "DESCRIPTION": "敌人失去 X 次流血层数的伤害。",
+    "UPGRADE_DESCRIPTION": "敌人失去 X+1 次流血层数的伤害。"
+  },
+  "TheCursedMod:VitalStrike": {
+    "NAME": "活力打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有流血状态, 造成双倍伤害。"
+  },
+  "TheCursedMod:VoidForm": {
+    "NAME": "空虚形态",
+    "DESCRIPTION": "在抽排堆中加入 2 张诅咒牌。 NL 每抽到一张诅咒牌, 获得 !M! 点力量。"
+  },
+  "TheCursedMod:WearCloak": {
+    "NAME": "身着斗篷",
+    "DESCRIPTION": "获得 !B! 点护甲。 NL 如果手牌中有诅咒牌, 获得 [E] 。"
+  },
+  "TheCursedMod:Wield": {
+    "NAME": "挥刀",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 手牌中每张不可打出的卡牌可以抽一张牌。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (你拥有",
+      " 张不可打出的卡牌。)",
+      " 张不可打出的卡牌。)"
+    ]
+  }
+}
