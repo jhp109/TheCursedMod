@@ -116,7 +116,7 @@
     "DESCRIPTION": "造成 !D! 点伤害。 NL 增加一张残渣到你的手牌。"
   },
   "TheCursedMod:CursedSpellbook": {
-    "NAME": "被诅咒的魔法师",
+    "NAME": "被诅咒的魔法书",
     "DESCRIPTION": "抽 !M! 张牌。 NL 在你的抽排堆中加入一张诅咒牌。"
   },
   "TheCursedMod:CursedStaff": {
@@ -216,11 +216,11 @@
     "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有流血状态, NL 获得 [E] 并且抽一张牌。"
   },
   "TheCursedMod:Neurasthenia": {
-    "NAME": "神經衰弱",
+    "NAME": "神经衰弱",
     "DESCRIPTION": "消耗手牌中所有的诅咒牌。 NL 敌人失去 1+消耗卡牌 的力量. NL 消耗。"
   },
   "TheCursedMod:NeowsMight": {
-    "NAME": "尼奥的力量",
+    "NAME": "涅奥的力量",
     "DESCRIPTION": "抽 2 张牌. NL 手牌中所有卡牌的耗能在本回合减1. NL 消耗。"
   },
   "TheCursedMod:Obscuration": {
