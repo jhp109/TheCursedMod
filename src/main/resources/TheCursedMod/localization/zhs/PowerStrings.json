@@ -18,8 +18,8 @@
   "TheCursedMod:DemonicPactPower": {
     "NAME": "恶魔契约",
     "DESCRIPTIONS": [
-      "每打出一张 #y仪式卡 ，抽 #b1 张牌。",
-      "每打出一张 #y仪式卡 ，抽 #b",
+      "每打出一张 #y仪式卡，抽 #b1 张牌。",
+      "每打出一张 #y仪式卡，抽 #b",
       " 张牌。"
     ]
   },
@@ -35,16 +35,16 @@
   "TheCursedMod:HellfireBreathingPower": {
     "NAME": "地狱火焰吐息",
     "DESCRIPTIONS": [
-      "每抽到一张 #r诅咒牌 ，对所有敌人造成 #b",
+      "每抽到一张 #r诅咒牌，对所有敌人造成 #b",
       " 点伤害。"
     ]
   },
   "TheCursedMod:HellsGateOpenPower": {
     "NAME": "开启地狱之门",
     "DESCRIPTIONS": [
-      "在回合的开始，增加 #b1 张随机 #y被诅咒的卡牌 到手牌中。",
+      "在回合的开始，增加 #b1 张随机 #y被诅咒 的卡牌 到手牌中。",
       "在回合的开始，增加 #b",
-      " 张随机 #y被诅咒的卡牌 到手牌中。"
+      " 张随机 #y被诅咒 的卡牌 到手牌中。"
     ]
   },
   "TheCursedMod:HemoplaguePower": {
@@ -57,14 +57,14 @@
   "TheCursedMod:LuckyCharmPower": {
     "NAME": "幸运首饰",
     "DESCRIPTIONS": [
-      "每抽到或者 #y消耗 一张 #r诅咒牌 ,获得 #b",
-      " 点 #y护甲。"
+      "每抽到或者 #y消耗 一张 #r诅咒牌，获得 #b",
+      " 点 #y护甲 。"
     ]
   },
   "TheCursedMod:ManaCirculationPower": {
     "NAME": "魔法循环",
     "DESCRIPTIONS": [
-      "每 #y消耗 一张 #r诅咒牌 ,获得 [E].",
+      "每 #y消耗 一张 #r诅咒牌 ,获得 [E] 。",
       "每 #y消耗 一张 #r诅咒牌 ,获得 #b",
       " 费能量。"
     ]
@@ -88,7 +88,7 @@
     "NAME": "虚空形态",
     "DESCRIPTIONS": [
       "每抽到一张 #r诅咒牌 , 获得 #b",
-      " #y力量。"
+      " #y力量 。"
     ]
   }
 }

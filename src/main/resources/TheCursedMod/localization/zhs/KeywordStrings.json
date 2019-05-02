@@ -12,28 +12,28 @@
     "NAMES": [
       "魔法阵"
     ],
-    "DESCRIPTION": "一张能被其他卡牌激活但 #y不可打出的卡牌 。"
+    "DESCRIPTION": "一张能被其他卡牌激活但 #y不能被打出 牌。"
   },
   "TheCursedMod:CursedKeyword": {
     "PROPER_NAME": "被诅咒",
     "NAMES": [
       "被诅咒"
     ],
-    "DESCRIPTION": "任何名字中带有“诅咒”字样的卡片。使用它会带来残渣或诅咒卡。"
+    "DESCRIPTION": "任何名字中带有“被诅咒”字样的卡片。使用它会带来残渣或诅咒卡。"
   },
   "TheCursedMod:DregsKeyword": {
     "PROPER_NAME": "残渣",
     "NAMES": [
       "残渣"
     ],
-    "DESCRIPTION": "残渣是不可打出的诅咒牌。"
+    "DESCRIPTION": "残渣是不能被打出的诅咒牌。"
   },
   "TheCursedMod:RitualKeyword": {
     "PROPER_NAME": "仪式",
     "NAMES": [
       "仪式"
     ],
-    "DESCRIPTION": "每次使用需要选择一张牌 #y消耗 。选择诅咒牌将激活仪式效果。"
+    "DESCRIPTION": "每次使用需要选择一张牌消耗。选择 诅咒 牌将激活 仪式 效果。"
   },
   "TheCursedMod:StunKeyword": {
     "PROPER_NAME": "昏迷",

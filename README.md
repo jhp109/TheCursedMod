@@ -26,4 +26,6 @@ Special thanks to 히말군 for character artwork.
 
 French translation by Demotion
 
+Simplified Chinese translation by 开心
+
 Spanish translation by Minaderm
