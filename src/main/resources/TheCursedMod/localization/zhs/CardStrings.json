@@ -312,7 +312,7 @@
     "DESCRIPTION": "造成 !D! 点伤害。"
   },
   "TheCursedMod:StunningStrike": {
-    "NAME": "昏迷攻击",
+    "NAME": "昏迷打击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人意图攻击, 给予 !M! 层昏迷。 NL 消耗。"
   },
   "TheCursedMod:SurpriseAttack": {
