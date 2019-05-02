@@ -316,7 +316,7 @@
     "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人意图攻击, 给予 !M! 层昏迷。 NL 消耗。"
   },
   "TheCursedMod:SurpriseAttack": {
-    "NAME": "意外打击",
+    "NAME": "意外攻击",
     "DESCRIPTION": "固有。 NL 造成 !D! 点伤害。 NL 抽 1 张牌。 NL 消耗。"
   },
   "TheCursedMod:TacticalStrike": {
