@@ -169,8 +169,8 @@
     "DESCRIPTION": "仪式 : 获得一瓶混沌药水。 NL 消耗。"
   },
   "TheCursedMod:FuryStrike": {
-    "NAME": "愤怒撞击",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 手牌中所有的攻击牌在本回合变成0费。"
+    "NAME": "愤怒打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 手牌中所有的打击牌在本回合变成0费。"
   },
   "TheCursedMod:Grudge": {
     "NAME": "怨恨",
@@ -288,7 +288,7 @@
     "UPGRADE_DESCRIPTION": "获得 [E] [E] 。 如果手牌中有诅咒牌, 额外获得  [E] 。 NL 消耗。"
   },
   "TheCursedMod:SpitefulStrike": {
-    "NAME": "恶意攻击",
+    "NAME": "恶意打击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 如果手牌中有诅咒牌, 获得 [E] [E] 。"
   },
   "TheCursedMod:SpreadPlague": {
@@ -308,11 +308,11 @@
     "DESCRIPTION": "获得 !M! 点敏捷. NL 在回合结束, 失去 !M! 点敏捷。"
   },
   "TheCursedMod:Strike_TheCursed": {
-    "NAME": "攻击",
+    "NAME": "打击",
     "DESCRIPTION": "造成 !D! 点伤害。"
   },
   "TheCursedMod:StunningStrike": {
-    "NAME": "昏迷打击",
+    "NAME": "昏迷攻击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人意图攻击, 给予 !M! 层昏迷。 NL 消耗。"
   },
   "TheCursedMod:SurpriseAttack": {
