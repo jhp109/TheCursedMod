@@ -1,0 +1,90 @@
+{
+  "TheCursedMod:BlackMagic101": {
+    "NAME": "入门黑魔法",
+    "FLAVOR": "现在开始学习黑魔法吧!!!  { 第四版 }",
+    "DESCRIPTIONS": [
+      "在回合开始, 如果抽排堆有 #r诅咒牌 额外抽 #b1 张牌。"
+    ]
+  },
+  "TheCursedMod:BlackMagicAdvanced": {
+    "NAME": "高级黑魔法",
+    "FLAVOR": "[论诅咒和魔法阵对人体的影响及副作用]",
+    "DESCRIPTIONS": [
+      "代替 #g入门黑魔法。 在回合开始,如果抽排堆有 #r诅咒牌 额外抽 #b2 张牌。"
+    ]
+  },
+  "TheCursedMod:BloodyHarpoon": {
+    "NAME": "血腥鱼叉",
+    "FLAVOR": "穿透它，固定它！",
+    "DESCRIPTIONS": [
+      "每当你给予 #y流血 状态时, 给予额外 #b",
+      " 层 #y流血 。"
+    ]
+  },
+  "TheCursedMod:CrystalBall": {
+    "NAME": "水晶球",
+    "FLAVOR": "你能说下棱镜碎片的颜色吗? 你太过分了。",
+    "DESCRIPTIONS": [
+      "每 #y消耗 一张 #r诅咒牌 , 对随机敌人造成 #b",
+      " 点伤害。"
+    ]
+  },
+  "TheCursedMod:DemonicMark": {
+    "NAME": "恶魔标记",
+    "FLAVOR": "如果你在某个地方看到这个标记，那你就是错了。（坚决）",
+    "DESCRIPTIONS": [
+      "一回合内，每激活 #b",
+      "次 #y魔法阵 的效果，获得 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "TheCursedMod:FourLeafCloverCharm": {
+    "NAME": "四叶草挂饰",
+    "FLAVOR": "好运和幸福来自感激。",
+    "DESCRIPTIONS": [
+      "在战斗中，用 #y残渣 代替卡牌或遗物生成的 #r诅咒牌 。"
+    ]
+  },
+  "TheCursedMod:MagicCandle": {
+    "NAME": "魔法蜡烛",
+    "FLAVOR": "它能收集仪式中的魔力。",
+    "DESCRIPTIONS": [
+      "每激活 #b 次 #y魔法阵 的效果，",
+      "获得 [E] 。"
+    ]
+  },
+  "TheCursedMod:OminousMark": {
+    "NAME": "不详的标记",
+    "FLAVOR": "再仔细看一看，这个标记在抖动...",
+    "DESCRIPTIONS": [
+      "在回合开始获得 [E]。每场战斗开始，在抽排堆加入 #b",
+      " 张随机 #r诅咒牌 。"
+    ]
+  },
+  "TheCursedMod:PinkPellets": {
+    "NAME": "粉红小球",
+    "FLAVOR": "出售橙色药丸!",
+    "DESCRIPTIONS": [
+      "一回合内，每激活 #b",
+      "次 #y魔法阵 的效果，移除所有的减益状态。"
+    ]
+  },
+  "TheCursedMod:SoulVessel": {
+    "NAME": "灵活容器",
+    "FLAVOR": "现在开始灵魂的盛宴吧!",
+    "DESCRIPTIONS": [
+      "在战斗结束, 恢复生命等于 #y消耗 #r诅咒牌 的数量。",
+      " (#y消耗了 #b1 #r诅咒牌。)",
+      " (#y消耗了 #b",
+      " #r诅咒牌。)"
+    ]
+  },
+  "TheCursedMod:Tack": {
+    "NAME": "钉子",
+    "FLAVOR": "踩上去会疼。",
+    "DESCRIPTIONS": [
+      "在战斗开始, 给予所有敌人 #b",
+      " 层 #y流血 状态。"
+    ]
+  }
+}

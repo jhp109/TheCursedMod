@@ -323,6 +323,8 @@ public class TheCursedMod implements EditCardsSubscriber, EditCharactersSubscrib
                 return "kor";
             case SPA:
                 return "spa";
+            case ZHS:
+                return "zhs";
             default:
                 return "eng";
         }

@@ -1,0 +1,94 @@
+{
+  "TheCursedMod:BleedPower": {
+    "NAME": "流血",
+    "DESCRIPTIONS": [
+      "流血的生物每次攻击都会失去 #b",
+      " 点生命。#y流血 每回合减1。"
+    ]
+  },
+  "TheCursedMod:CollectTributePower": {
+    "NAME": "贡品收集",
+    "DESCRIPTIONS": [
+      "在回合的开始， 获得 [E] 并增加 #b1 张随机 #r诅咒牌 到你的手中。",
+      "在回合的开始， 获得 #b",
+      " 费能量 并增加 #b",
+      " 张随机 #r诅咒牌 到你的手中。"
+    ]
+  },
+  "TheCursedMod:DemonicPactPower": {
+    "NAME": "恶魔契约",
+    "DESCRIPTIONS": [
+      "每打出一张 #y仪式卡 ，抽 #b1 张牌。",
+      "每打出一张 #y仪式卡 ，抽 #b",
+      " 张牌。"
+    ]
+  },
+  "TheCursedMod:EmpowerCirclesPower": {
+    "NAME": "魔法阵的力量",
+    "DESCRIPTIONS": [
+      "每抽到一张 #y魔法阵，获得 [E] 并抽 #b1 张牌。",
+      "每抽到一张 #y魔法阵，获得 #b",
+      " 费能量并抽 #b",
+      " 张牌。"
+    ]
+  },
+  "TheCursedMod:HellfireBreathingPower": {
+    "NAME": "地狱火焰吐息",
+    "DESCRIPTIONS": [
+      "每抽到一张 #r诅咒牌 ，对所有敌人造成 #b",
+      " 点伤害。"
+    ]
+  },
+  "TheCursedMod:HellsGateOpenPower": {
+    "NAME": "开启地狱之门",
+    "DESCRIPTIONS": [
+      "在回合的开始，增加 #b1 张随机 #y被诅咒的卡牌 到手牌中。",
+      "在回合的开始，增加 #b",
+      " 张随机 #y被诅咒的卡牌 到手牌中。"
+    ]
+  },
+  "TheCursedMod:HemoplaguePower": {
+    "NAME": "血雾",
+    "DESCRIPTIONS": [
+      "在回合的开始， 给予所有敌人 #b",
+      " 层 #y流血 。"
+    ]
+  },
+  "TheCursedMod:LuckyCharmPower": {
+    "NAME": "幸运首饰",
+    "DESCRIPTIONS": [
+      "每抽到或者 #y消耗 一张 #r诅咒牌 ,获得 #b",
+      " 点 #y护甲。"
+    ]
+  },
+  "TheCursedMod:ManaCirculationPower": {
+    "NAME": "魔法循环",
+    "DESCRIPTIONS": [
+      "每 #y消耗 一张 #r诅咒牌 ,获得 [E].",
+      "每 #y消耗 一张 #r诅咒牌 ,获得 #b",
+      " 费能量。"
+    ]
+  },
+  "TheCursedMod:OutForBloodPower": {
+    "NAME": "出血",
+    "DESCRIPTIONS": [
+      "每有一次攻击造成未被格挡的伤害, 给予 #b",
+      " 层 #y流血 。"
+    ]
+  },
+  "TheCursedMod:SpitefulPlanPower": {
+    "NAME": "恶意计划",
+    "DESCRIPTIONS": [
+      "每抽到一张 #r诅咒牌 , 抽 #b1 张牌。",
+      "每抽到一张 #r诅咒牌 , 抽 #b",
+      " 张牌。"
+    ]
+  },
+  "TheCursedMod:VoidFormPower": {
+    "NAME": "虚空形态",
+    "DESCRIPTIONS": [
+      "每抽到一张 #r诅咒牌 , 获得 #b",
+      " #y力量。"
+    ]
+  }
+}

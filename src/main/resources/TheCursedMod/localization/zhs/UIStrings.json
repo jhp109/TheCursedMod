@@ -1,0 +1,69 @@
+{
+  "TheCursedMod:ExhaustCurseThenActivateAction": {
+    "TEXT": [
+      "消耗。选择一张诅咒牌来激活仪式效果。 (",
+      ")"
+    ]
+  },
+  "TheCursedMod:PrepareRitualAction": {
+    "TEXT": [
+      "消耗。 (代替残渣。)"
+    ]
+  },
+  "TheCursedMod:ThemeDescription": {
+    "TEXT": [
+      "[开发者主题平台] 通过玩各种原型来享受这个模型!",
+      "(注意 - 只有在最上层选中主题才有效)"
+    ]
+  },
+  "TheCursedMod:EndlessStrikeTheme": {
+    "TEXT": [
+      "[无尽攻击] 无限使用“攻击牌”. (初始遗物: 四叶草挂饰)"
+    ]
+  },
+  "TheCursedMod:HeavyMachineGunTheme": {
+    "TEXT": [
+      "[重型机枪] 无限射出魔力子弹. (初始遗物: 魔法蜡烛)"
+    ]
+  },
+  "TheCursedMod:HellfireTheme": {
+    "TEXT": [
+      "[地狱火焰!] 地狱火焰吐息在平台上循环. (初始遗物: 高级黑魔法)"
+    ]
+  },
+  "TheCursedMod:LetsStretchingTheme": {
+    "TEXT": [
+      "[拉伸一下] 保持永久敏捷. (初始遗物: 粉红小球)"
+    ]
+  },
+  "TheCursedMod:ManglingTheme": {
+    "TEXT": [
+      "[撕裂!] 无限使用撕裂. (初始遗物: 钉子)"
+    ]
+  },
+  "TheCursedMod:MoonCrystalPowerTheme": {
+    "TEXT": [
+      "[月球水晶能量] 感受水晶球的力量. (初始遗物: 水晶球)"
+    ]
+  },
+  "TheCursedMod:PainfulBoomerangTheme": {
+    "TEXT": [
+      "[痛苦的回旋镖] 给予敌人极端的痛苦. (初始遗物: 血腥鱼叉)"
+    ]
+  },
+  "TheCursedMod:SoulReaperTheme": {
+    "TEXT": [
+      "[灵魂割者] 保持满血. (初始遗物: 灵活容器)"
+    ]
+  },
+  "TheCursedMod:StrengthMachineTheme": {
+    "TEXT": [
+      "[力量核心] 持续获取1点力量. (初始遗物: 恶魔标记)"
+    ]
+  },
+  "TheCursedMod:VoidLordTheme": {
+    "TEXT": [
+      "[虚空领主] 感受虚空形态的力量. (初始遗物: 不详的标记)"
+    ]
+  }
+}
