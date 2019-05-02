@@ -9,7 +9,7 @@
   },
   "TheCursedMod:AshesToAshes": {
     "NAME": "灰飞烟灭",
-    "DESCRIPTION": "仪式 : 丢弃 !M! 张牌。"
+    "DESCRIPTION": "仪式 : 抽 !M! 张牌。"
   },
   "TheCursedMod:BlessingInDisguise": {
     "NAME": "因祸得福",
@@ -86,11 +86,11 @@
   },
   "TheCursedMod:CursedAmulet": {
     "NAME": "被诅咒的护身符",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 抽一张牌. NL 在弃牌堆加入一张随机的 诅咒 牌。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 抽一张牌. NL 在抽牌堆加入一张随机的 诅咒 牌。"
   },
   "TheCursedMod:CursedArmor": {
     "NAME": "被诅咒的护甲",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 在弃牌堆加入2张随机的 诅咒 牌。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 在抽牌堆加入2张随机的 诅咒 牌。"
   },
   "TheCursedMod:CursedBlade": {
     "NAME": "被诅咒的刀刃",
@@ -117,7 +117,7 @@
   },
   "TheCursedMod:CursedSpellbook": {
     "NAME": "被诅咒的魔法书",
-    "DESCRIPTION": "抽 !M! 张牌。 NL 在你的抽排堆中加入一张 诅咒 牌。"
+    "DESCRIPTION": "抽 !M! 张牌。 NL 在你的抽牌堆中加入一张 诅咒 牌。"
   },
   "TheCursedMod:CursedStaff": {
     "NAME": "被诅咒的权杖",
@@ -263,7 +263,7 @@
   },
   "TheCursedMod:ShockAndAwe": {
     "NAME": "惊慌失措",
-    "DESCRIPTION": "造成 !D! 点伤害3次。 NL 在抽排堆加入2张 诅咒 牌。"
+    "DESCRIPTION": "造成 !D! 点伤害3次。 NL 在抽牌堆加入2张 诅咒 牌。"
   },
   "TheCursedMod:SmokeScreen": {
     "NAME": "烟幕",
@@ -343,7 +343,7 @@
   },
   "TheCursedMod:VoidForm": {
     "NAME": "空虚形态",
-    "DESCRIPTION": "在抽排堆中加入 2 张 诅咒 牌。 NL 每抽到一张 诅咒 牌，获得 !M! 点 力量 。"
+    "DESCRIPTION": "在抽牌堆中加入 2 张 诅咒 牌。 NL 每抽到一张 诅咒 牌，获得 !M! 点 力量 。"
   },
   "TheCursedMod:WearCloak": {
     "NAME": "身着斗篷",
