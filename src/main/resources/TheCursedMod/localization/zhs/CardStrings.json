@@ -86,7 +86,7 @@
   },
   "TheCursedMod:CursedAmulet": {
     "NAME": "被诅咒的护身符",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 抽一张牌. NL 在抽牌堆加入一张随机的 诅咒 牌。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 抽一张牌。 NL 在抽牌堆加入一张随机的 诅咒 牌。"
   },
   "TheCursedMod:CursedArmor": {
     "NAME": "被诅咒的护甲",
@@ -233,7 +233,7 @@
   },
   "TheCursedMod:ParallelWorld": {
     "NAME": "平行世界",
-    "DESCRIPTION": "复制所有的手牌加入你的抽排队。 NL 消耗 。"
+    "DESCRIPTION": "复制所有的手牌加入你的抽牌堆。 NL 消耗 。"
   },
   "TheCursedMod:PrepareRitual": {
     "NAME": "准备仪式",

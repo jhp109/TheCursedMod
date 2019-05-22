@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a10deb39-7874-475d-b201-88b9c86efd1e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,8 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="252">
+              <caret line="236" column="4" lean-forward="true" selection-start-line="236" selection-start-column="4" selection-end-line="236" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="235" column="84" selection-start-line="235" selection-start-column="75" selection-end-line="235" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -29,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/ModTheSpire.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -39,7 +49,7 @@
         <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/localization/zhs/cards.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="298">
-              <caret line="804" column="49" lean-forward="true" selection-start-line="804" selection-start-column="49" selection-end-line="804" selection-end-column="50" />
+              <caret line="804" column="49" selection-start-line="804" selection-start-column="49" selection-end-line="804" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -47,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/RelicStrings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="207">
+              <caret line="31" column="12" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -57,14 +67,9 @@
         <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/localization/zhs/relics.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="328">
-              <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="9" />
+              <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="9" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CharacterStrings.json">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -114,11 +119,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>残渣</find>
-      <find>dregs</find>
-      <find>C</find>
-      <find>格挡。</find>
-      <find>诅咒</find>
       <find>blessing</find>
       <find>，</find>
       <find>perfected</find>
@@ -139,11 +139,16 @@
       <find>弃牌堆</find>
       <find>black</find>
       <find>抽排堆</find>
-      <find>抽牌堆</find>
-      <find>,</find>
       <find>backflip</find>
       <find>offering</find>
       <find>弃</find>
+      <find>,</find>
+      <find>cursed</find>
+      <find>一</find>
+      <find>discard pile</find>
+      <find>抽牌堆</find>
+      <find>draw pile</find>
+      <find>parallel</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -751,13 +756,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/PotionStrings.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/RelicStrings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -844,35 +842,42 @@
     <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/localization/zhs/relics.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
-          <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/RelicStrings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/localization/zhs/cards.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
-          <caret line="804" column="49" lean-forward="true" selection-start-line="804" selection-start-column="49" selection-end-line="804" selection-end-column="50" />
+          <caret line="804" column="49" selection-start-line="804" selection-start-column="49" selection-end-line="804" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/RelicStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="235" column="84" selection-start-line="235" selection-start-column="75" selection-end-line="235" selection-end-column="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="252">
+          <caret line="236" column="4" lean-forward="true" selection-start-line="236" selection-start-column="4" selection-end-line="236" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/ModTheSpire.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
