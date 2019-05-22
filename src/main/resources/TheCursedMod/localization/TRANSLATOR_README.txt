@@ -13,8 +13,8 @@ If you want to translate this mod to your language, please follow these steps :
 
 IMPORTANT NOTICES
 - The word "Strike" in every card should be translated consistently (e.g. "Spiteful Strike"). Otherwise, people would not know that it's affected by "Fury Strike" and also Ironclad's "Perfected Strike".
-- Please translate the description of the relic "Dark Magic 101" as short as possible. Otherwise, character selecting screen will show overflown text.
+- Please translate the description of the relic "Black Magic 101" as short as possible. Otherwise, character selecting screen will show overflown text.
 - Make sure all keywords in card description are shown as YELLOW color in the game. If not, check if the keyword is well isolated from other word with space bar.
-- Please make keywords CONSISTENT as the original Slay the Spire game. For example, "Gain 5 Armor" is wrong, "Gain 5 Block" is right.
+- Please make keywords CONSISTENT as the original Slay the Spire game. For example, "Gain 5 Armor" is wrong, "Gain 5 Block" is right. "Draw pile" is different from "deck".
 
 Thanks.
