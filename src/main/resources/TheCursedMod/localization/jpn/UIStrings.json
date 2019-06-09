@@ -1,0 +1,69 @@
+{
+  "TheCursedMod:ExhaustCurseThenActivateAction": {
+    "TEXT": [
+      "廃棄。呪いを選択することで儀式が発動する。(",
+      ")"
+    ]
+  },
+  "TheCursedMod:PrepareRitualAction": {
+    "TEXT": [
+      "廃棄。 (残骸と置き換わることが予定されている。)"
+    ]
+  },
+  "TheCursedMod:ThemeDescription": {
+    "TEXT": [
+      "[構築済みテーマデッキ] 様々なアーキタイプでこのMODを楽しんでください!",
+      "(ノート - チェックされた中で一番上にあるテーマのみが適用されます。)"
+    ]
+  },
+  "TheCursedMod:EndlessStrikeTheme": {
+    "TEXT": [
+      "[エンドレスストライク] \"ストライク\" を無限に使え。 (スターターレリック: 四つ葉のクローバーのお守り)"
+    ]
+  },
+  "TheCursedMod:HeavyMachineGunTheme": {
+    "TEXT": [
+      "[ヘビーマシンガン] 魔力弾を無限に発射しろ。 (スターターレリック: 魔法のロウソク)"
+    ]
+  },
+  "TheCursedMod:HellfireTheme": {
+    "TEXT": [
+      "[獄炎!] 循環するデッキで獄炎の息吹を放て。 (スターターレリック: 応用黒魔術)"
+    ]
+  },
+  "TheCursedMod:LetsStretchingTheme": {
+    "TEXT": [
+      "[ストレッチしよう] 敏捷性を伸ばし続けろ。 (スターターレリック: ピンクのペレット)"
+    ]
+  },
+  "TheCursedMod:ManglingTheme": {
+    "TEXT": [
+      "[メッタ刺し!] メッタ刺しを無限に使え。 (スターターレリック: 画鋲)"
+    ]
+  },
+  "TheCursedMod:MoonCrystalPowerTheme": {
+    "TEXT": [
+      "[ムーンクリスタルパワー] 水晶玉の力を感じろ。 (スターターレリック: 水晶玉)"
+    ]
+  },
+  "TheCursedMod:PainfulBoomerangTheme": {
+    "TEXT": [
+      "[パワフルブーメラン] 究極の苦痛を敵に与えろ。 (スターターレリック: ブラッディハープーン)"
+    ]
+  },
+  "TheCursedMod:SoulReaperTheme": {
+    "TEXT": [
+      "[ソウルリーパー] HPを最大に保ち続けろ。 (スターターレリック: 魂管)"
+    ]
+  },
+  "TheCursedMod:StrengthMachineTheme": {
+    "TEXT": [
+      "[ストレングスマシーン] 筋力を 1 得続けろ。 (スターターレリック: 悪魔の印)"
+    ]
+  },
+  "TheCursedMod:VoidLordTheme": {
+    "TEXT": [
+      "[虚無の支配者] 虚無の形態の力を感じろ。 (スターターレリック: 不吉な印)"
+    ]
+  }
+}
