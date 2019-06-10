@@ -22,7 +22,7 @@
       "呪われし",
       "cursed"
     ],
-    "DESCRIPTION": " \"呪われし\" が名前に入ったカード。使用時に 残骸 またはランダムな 呪い カードをTODO山札or手札）に加える。"
+    "DESCRIPTION": " \"呪われし\" が名前に入ったカード。使用時に 残骸 またはランダムな 呪い カードを生成する。"
   },
   "TheCursedMod:DregsKeyword": {
     "PROPER_NAME": "残骸",

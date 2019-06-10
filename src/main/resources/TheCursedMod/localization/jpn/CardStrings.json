@@ -5,7 +5,7 @@
   },
   "TheCursedMod:AntiAging": {
     "NAME": "若返り",
-    "DESCRIPTION": "!B! ブロックを得る。 NL 儀式 : 最大HP+ !M!. NL 廃棄 。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL 儀式 : 最大HP+ !M!. NL 廃棄 。"
   },
   "TheCursedMod:AshesToAshes": {
     "NAME": "灰は灰に",
@@ -13,19 +13,19 @@
   },
   "TheCursedMod:BlessingInDisguise": {
     "NAME": "災い転じて",
-    "DESCRIPTION": "手札すべての 呪い を 廃棄 する。 NL 廃棄 したカードにつき !B! ブロックを得る。"
+    "DESCRIPTION": "手札すべての 呪い を 廃棄 する。 NL 廃棄 したカードにつき !B! ブロック を得る。"
   },
   "TheCursedMod:BloodBarrier": {
     "NAME": "ブラッドバリア",
-    "DESCRIPTION": "儀式 : 最大HPと現在のHPの差に等しいブロックを得る。 NL 廃棄 。",
+    "DESCRIPTION": "儀式 : 最大HPと現在のHPの差に等しいブロック を得る。 NL 廃棄 。",
     "EXTENDED_DESCRIPTION": [
-      " NL ( !B! ブロックを得る。)"
+      " NL ( !B! ブロック を得る。)"
     ]
   },
   "TheCursedMod:CircleOfAbyss": {
     "NAME": "深淵の魔法陣",
-    "DESCRIPTION": "魔法陣 。 NL カードをプレイするたび、 !M! ブロックを得る。 NL このカードを 廃棄 したとき、 [E] を得る。",
-    "UPGRADE_DESCRIPTION": "魔法陣 。 NL カードをプレイするたび、 !M! ブロックを得る。 NL このカードを 廃棄 したとき、 [E] [E] を得る。",
+    "DESCRIPTION": "魔法陣 。 NL カードをプレイするたび、 !M! ブロック を得る。 NL このカードを 廃棄 したとき、 [E] を得る。",
+    "UPGRADE_DESCRIPTION": "魔法陣 。 NL カードをプレイするたび、 !M! ブロック を得る。 NL このカードを 廃棄 したとき、 [E] [E] を得る。",
     "EXTENDED_DESCRIPTION": [
       "このカードはプレイできない。"
     ]
@@ -76,8 +76,8 @@
   },
   "TheCursedMod:CleanUpWorkshop": {
     "NAME": "工房の整理",
-    "DESCRIPTION": "儀式 : !B! ブロックを得て、カードを !M! 枚引く。",
-    "UPGRADE_DESCRIPTION": "儀式 : !B! ブロックを得る、カードを !M! 枚引く。"
+    "DESCRIPTION": "儀式 : !B! ブロック を得て、カードを !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "儀式 : !B! ブロック を得る、カードを !M! 枚引く。"
   },
   "TheCursedMod:CollectTribute": {
     "NAME": "入貢",
@@ -86,11 +86,11 @@
   },
   "TheCursedMod:CursedAmulet": {
     "NAME": "呪われしアミュレット",
-    "DESCRIPTION": "!B! ブロックを得る。 NL カードを 1 枚引く。 NL ランダムな 呪い を山札に加えてシャッフルする。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL カードを 1 枚引く。 NL ランダムな 呪い を山札に加えてシャッフルする。"
   },
   "TheCursedMod:CursedArmor": {
     "NAME": "呪われし鎧",
-    "DESCRIPTION": "!B! ブロックを得る。 NL 2 枚のランダムな 呪い を山札に加えてシャッフルする。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL 2 枚のランダムな 呪い を山札に加えてシャッフルする。"
   },
   "TheCursedMod:CursedBlade": {
     "NAME": "呪われし刃",
@@ -125,7 +125,7 @@
   },
   "TheCursedMod:CursedWand": {
     "NAME": "呪われし杖",
-    "DESCRIPTION": "!B! ブロックを得る。 NL !D! ダメージを与える。 NL 残骸 を手札に加える。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL !D! ダメージを与える。 NL 残骸 を手札に加える。"
   },
   "TheCursedMod:DarkBarrier": {
     "NAME": "ダークバリア",
@@ -133,7 +133,7 @@
   },
   "TheCursedMod:Defend_TheCursed": {
     "NAME": "防御",
-    "DESCRIPTION": "!B! ブロックを得る。"
+    "DESCRIPTION": "!B! ブロック を得る。"
   },
   "TheCursedMod:DemonSword": {
     "NAME": "悪魔の剣",
@@ -145,7 +145,7 @@
   },
   "TheCursedMod:DoubleShield": {
     "NAME": "ダブルシールド",
-    "DESCRIPTION": "!B! ブロックを得る。 NL 儀式 : 次のターン !B! ブロックを得る。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL 儀式 : 次のターン !B! ブロック を得る。"
   },
   "TheCursedMod:Dregs": {
     "NAME": "残骸",
@@ -182,8 +182,8 @@
   },
   "TheCursedMod:HellsGateOpen": {
     "NAME": "地獄の釜",
-    "DESCRIPTION": "ターン開始時、ランダムな 呪い を手札に加える。",
-    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時、ランダムな 呪い を手札に加える。"
+    "DESCRIPTION": "ターン開始時、ランダムな 呪われし カードを手札に加える。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時、ランダムな 呪われし カードを手札に加える。"
   },
   "TheCursedMod:Hemoplague": {
     "NAME": "流血症",
@@ -191,7 +191,7 @@
   },
   "TheCursedMod:LuckyCharm": {
     "NAME": "幸運のお守り",
-    "DESCRIPTION": "呪い カードを引くか 廃棄 するたび、 !M! ブロックを得る。"
+    "DESCRIPTION": "呪い カードを引くか 廃棄 するたび、 !M! ブロック を得る。"
   },
   "TheCursedMod:ManaBullet": {
     "NAME": "魔力弾",
@@ -225,11 +225,11 @@
   },
   "TheCursedMod:Obscuration": {
     "NAME": "掩蔽",
-    "DESCRIPTION": "!B! ブロックを得る。 NL 儀式 : さらに!B! ブロックを得る。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL 儀式 : さらに!B! ブロック を得る。"
   },
   "TheCursedMod:OutForBlood": {
     "NAME": "血の渇望",
-    "DESCRIPTION": "「アタック」がブロックされずにダメージを与えるたび、 流血 1 を与える。"
+    "DESCRIPTION": "「アタック」が ブロック されずにダメージを与えるたび、 流血 1 を与える。"
   },
   "TheCursedMod:ParallelWorld": {
     "NAME": "平行世界",
@@ -242,7 +242,7 @@
   },
   "TheCursedMod:RapidMovement": {
     "NAME": "高速移動",
-    "DESCRIPTION": "!B! ブロックを得る。 NL 儀式 : カードを !M! 枚引く。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL 儀式 : カードを !M! 枚引く。"
   },
   "TheCursedMod:RavingStaff": {
     "NAME": "狂乱の杖",
@@ -267,7 +267,7 @@
   },
   "TheCursedMod:SmokeScreen": {
     "NAME": "スモークスクリーン",
-    "DESCRIPTION": "!B! ブロックを得る。 NL 儀式 : 敵全体に 脱力 !M! を与える。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL 儀式 : 敵全体に 脱力 !M! を与える。"
   },
   "TheCursedMod:SoulCrush": {
     "NAME": "ソウルクラッシュ",
@@ -330,7 +330,7 @@
   },
   "TheCursedMod:TroublousMinions": {
     "NAME": "厄介な手下",
-    "DESCRIPTION": "このカードを引く、このカードの複製を手札に加える。 NL !B! ブロックを得て、 残骸 を手札に加える。 NL 廃棄 。"
+    "DESCRIPTION": "このカードを引く、このカードの複製を手札に加える。 NL !B! ブロック を得て、 残骸 を手札に加える。 NL 廃棄 。"
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "究極の苦痛",
@@ -347,7 +347,7 @@
   },
   "TheCursedMod:WearCloak": {
     "NAME": "マント着用",
-    "DESCRIPTION": "!B! ブロックを得る。 NL 手札に 呪い がある場合、 [E] を得る。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL 手札に 呪い がある場合、 [E] を得る。"
   },
   "TheCursedMod:Wield": {
     "NAME": "掌握",
