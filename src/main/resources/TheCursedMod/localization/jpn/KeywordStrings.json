@@ -1,0 +1,51 @@
+{
+  "TheCursedMod:BleedKeyword": {
+    "PROPER_NAME": "流血",
+    "NAMES": [
+      "流血",
+      "bleed",
+      "bleeding"
+    ],
+    "DESCRIPTION": "攻撃を行う際、流血状態の敵はダメージを受ける。毎ターン流血は #b1 減少する。"
+  },
+  "TheCursedMod:CircleKeyword": {
+    "PROPER_NAME": "魔法陣",
+    "NAMES": [
+      "魔法陣",
+      "circle"
+    ],
+    "DESCRIPTION": "手札の他のカードを使用するときに効果を発揮する #y使用不可 のカード。"
+  },
+  "TheCursedMod:CursedKeyword": {
+    "PROPER_NAME": "呪われし",
+    "NAMES": [
+      "呪われし",
+      "cursed"
+    ],
+    "DESCRIPTION": " \"呪われし\" が名前に入ったカード。使用時に 残骸 またはランダムな 呪い カードをTODO山札or手札）に加える。"
+  },
+  "TheCursedMod:DregsKeyword": {
+    "PROPER_NAME": "残骸",
+    "NAMES": [
+      "残骸",
+      "dregs"
+    ],
+    "DESCRIPTION": "残骸 は 使用不可 の 呪い カード。"
+  },
+  "TheCursedMod:RitualKeyword": {
+    "PROPER_NAME": "儀式",
+    "NAMES": [
+      "儀式",
+      "ritual"
+    ],
+    "DESCRIPTION": "使用時に  1枚のカードを選んで #y廃棄する。 NL 呪い カードを選んだ場合、儀式の効果を発揮する。"
+  },
+  "TheCursedMod:StunKeyword": {
+    "PROPER_NAME": "スタン",
+    "NAMES": [
+      "スタン",
+      "stun"
+    ],
+    "DESCRIPTION": "何もできない。"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "TheCursedMod:DregsPotion": {
+    "NAME": "残骸袋",
+    "DESCRIPTIONS": [
+      "#r残骸 #b",
+      " を 手札に加える。"
+    ]
+  },
+  "TheCursedMod:DregsPotionKeyword": {
+    "NAME": "残骸",
+    "DESCRIPTIONS": [
+      "残骸は 使用不可 の #r呪い カード。"
+    ]
+  }
+}

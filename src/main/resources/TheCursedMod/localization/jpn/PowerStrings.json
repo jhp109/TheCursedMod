@@ -1,0 +1,94 @@
+{
+  "TheCursedMod:BleedPower": {
+    "NAME": "流血",
+    "DESCRIPTIONS": [
+      "この敵が攻撃するたび、HPを #b",
+      " 失う。ターン終了時に、 #y流血 #b1 を失う。"
+    ]
+  },
+  "TheCursedMod:CollectTributePower": {
+    "NAME": "入貢",
+    "DESCRIPTIONS": [
+      "ターン開始時、 [E] を得て、ランダムな #r呪い を #b1 枚手札に加える。",
+      "ターン開始時、 #b",
+      " のエナジーを得て、ランダムな #r呪い を #b",
+      " 枚手札に加える。"
+    ]
+  },
+  "TheCursedMod:DemonicPactPower": {
+    "NAME": "悪魔の契約",
+    "DESCRIPTIONS": [
+      "#y儀式 を使うたび、カードを #b1 枚引く。",
+      "#y儀式 を使うたび、カードを #b",
+      " 枚引く。"
+    ]
+  },
+  "TheCursedMod:EmpowerCirclesPower": {
+    "NAME": "魔法陣の権威",
+    "DESCRIPTIONS": [
+      "#y魔法陣 を引くたび、 [E] を得て、カードを #b1 枚引く。",
+      "#y魔法陣 を引くたび、 #b",
+      "  のエナジーを得て、カードを #b",
+      " 枚引く。"
+    ]
+  },
+  "TheCursedMod:HellfireBreathingPower": {
+    "NAME": "獄炎の息吹",
+    "DESCRIPTIONS": [
+      "#r呪い カードを引くたび、敵全体に #b",
+      " ダメージを与える。"
+    ]
+  },
+  "TheCursedMod:HellsGateOpenPower": {
+    "NAME": "地獄の釜",
+    "DESCRIPTIONS": [
+      "ターン開始時、#b1 枚のランダムな #y呪い を 手札に加える。",
+      "ターン開始時、#b",
+      " 枚のランダムな #y呪い を 手札に加える。"
+    ]
+  },
+  "TheCursedMod:HemoplaguePower": {
+    "NAME": "流血症",
+    "DESCRIPTIONS": [
+      "ターン開始時、敵全体に #y流血 #b",
+      " を与える。"
+    ]
+  },
+  "TheCursedMod:LuckyCharmPower": {
+    "NAME": "幸運のお守り",
+    "DESCRIPTIONS": [
+      "#r呪い カードを引くか #r廃棄 するたび、 #b",
+      " ブロックを得る。"
+    ]
+  },
+  "TheCursedMod:ManaCirculationPower": {
+    "NAME": "魔力循環",
+    "DESCRIPTIONS": [
+      "#r呪い を #y廃棄 するたび、 [E] を得る。",
+      "#r呪い を #y廃棄 するたび、 #b",
+      " のエナジーを得る。"
+    ]
+  },
+  "TheCursedMod:OutForBloodPower": {
+    "NAME": "血の渇望",
+    "DESCRIPTIONS": [
+      "「アタック」がブロックされずにダメージを与えるたび、 #y流血 #b",
+      " を与える。"
+    ]
+  },
+  "TheCursedMod:SpitefulPlanPower": {
+    "NAME": "悪意ある計画",
+    "DESCRIPTIONS": [
+      "#r呪い カードを引くたび、カードを #b1 枚引く。",
+      "#r呪い カードを引くたび、カードを #b",
+      " 枚引く。"
+    ]
+  },
+  "TheCursedMod:VoidFormPower": {
+    "NAME": "虚無の形態",
+    "DESCRIPTIONS": [
+      "#r呪い を引くたび、#y筋力 #b",
+      " を得る。"
+    ]
+  }
+}

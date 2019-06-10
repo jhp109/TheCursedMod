@@ -1,0 +1,90 @@
+{
+  "TheCursedMod:BlackMagic101": {
+    "NAME": "よくわかる黒魔術",
+    "FLAVOR": "いますぐ黒魔術を学ぼう!!!  {第4版}",
+    "DESCRIPTIONS": [
+      "ターン開始時、山札に #r呪い カードがあれば追加でカードを #b1 引く。"
+    ]
+  },
+  "TheCursedMod:BlackMagicAdvanced": {
+    "NAME": "応用黒魔術",
+    "FLAVOR": "[呪いと魔法陣の人体への影響と副作用]",
+    "DESCRIPTIONS": [
+      "#gゼロから始める黒魔術と置き換える。 ターン開始時、山札に #r呪い カードがあれば追加でカードを #b2 引く。"
+    ]
+  },
+  "TheCursedMod:BloodyHarpoon": {
+    "NAME": "ブラッディハープーン",
+    "FLAVOR": "これで縫い止めると動きません!",
+    "DESCRIPTIONS": [
+      "敵に #y出血 を与えるたび、追加で #y出血 #b",
+      " を与える。"
+    ]
+  },
+  "TheCursedMod:CrystalBall": {
+    "NAME": "水晶玉",
+    "FLAVOR": "これが虹色に見えると言うのか？ もう戻ってこれなさそうだ。",
+    "DESCRIPTIONS": [
+      "#r呪い を #y破棄 するたび、ランダムな敵に #b",
+      " ダメージを与える。"
+    ]
+  },
+  "TheCursedMod:DemonicMark": {
+    "NAME": "悪魔の印",
+    "FLAVOR": "この印をどこかで見たことがあるなら、あなたは間違っている。 (断言)",
+    "DESCRIPTIONS": [
+      "#y魔法陣 の効果を 1 ターンに #b",
+      " 回得るたびに、 #y筋力 を #b",
+      " 得る。"
+    ]
+  },
+  "TheCursedMod:FourLeafCloverCharm": {
+    "NAME": "四つ葉のクローバーのお守り",
+    "FLAVOR": "幸運と幸福があらんことを。",
+    "DESCRIPTIONS": [
+      "戦闘中にランダムな #r呪い が生成されるたびに、 #r残骸 に置き換える。"
+    ]
+  },
+  "TheCursedMod:MagicCandle": {
+    "NAME": "魔法のロウソク",
+    "FLAVOR": "儀式中に近くのマナを集める。",
+    "DESCRIPTIONS": [
+      "#y魔法陣 の効果を #b",
+      " 回得るたびに、 [E] を得る。"
+    ]
+  },
+  "TheCursedMod:OminousMark": {
+    "NAME": "不吉な印",
+    "FLAVOR": "よく見ると揺れている...",
+    "DESCRIPTIONS": [
+      "ターン開始時、 [E] を得る。戦闘開始時、 #b",
+      " 枚のランダムな #r呪い を山札に加える。"
+    ]
+  },
+  "TheCursedMod:PinkPellets": {
+    "NAME": "ピンクのペレット",
+    "FLAVOR": "オレンジのペレットも同時発売!",
+    "DESCRIPTIONS": [
+      "#y儀式 の効果を 1 ターンに #b",
+      " 回得るたびに、全てのデバフを解除する。"
+    ]
+  },
+  "TheCursedMod:SoulVessel": {
+    "NAME": "魂管",
+    "FLAVOR": "魂の饗宴がいま始まる!",
+    "DESCRIPTIONS": [
+      "戦闘終了時、 #y廃棄 した #r呪い の数に等しい HP を回復する。",
+      " (この戦闘中 #r呪い #b1 枚が #y廃棄 された。)",
+      " (この戦闘中 #r呪い #b",
+      " 枚が #y廃棄 された。)"
+    ]
+  },
+  "TheCursedMod:Tack": {
+    "NAME": "画鋲",
+    "FLAVOR": "踏むと痛い。",
+    "DESCRIPTIONS": [
+      "戦闘開始時、敵全体に #y流血 #b",
+      " を与える。"
+    ]
+  }
+}
