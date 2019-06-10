@@ -14,12 +14,16 @@ public class CurseUtil {
 
     public static int getNumCurse(ArrayList<AbstractCard> cards) {
         return (int) cards.stream()
-                .filter(card -> card.type == AbstractCard.CardType.CURSE)
+                .filter(card -> CurseUtil.isCurse(card))
                 .count();
     }
 
     public static boolean hasCurse(ArrayList<AbstractCard> cards) {
         return getNumCurse(cards) > 0;
+    }
+
+    public static boolean isCurse(AbstractCard card) {
+        return card.type == AbstractCard.CardType.CURSE || card.color == AbstractCard.CardColor.CURSE;
     }
 
     public static AbstractCard getRandomCurseCard() {

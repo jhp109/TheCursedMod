@@ -38,15 +38,11 @@ public class CursedRelics extends CustomCard {
     public CursedRelics() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
         this.baseMagicNumber = this.magicNumber = MULTIPLY_FACTOR;
+        this.baseDamage = 0;
     }
 
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
-        int relicCount = AbstractDungeon.player.relics.size();
-
-        this.baseDamage = relicCount * this.magicNumber;
-        this.calculateCardDamage(null);
-
         AbstractDungeon.actionManager.addToBottom(new SFXAction("ATTACK_HEAVY"));
         AbstractDungeon.actionManager.addToBottom(
                 new VFXAction(p, new MindblastEffect(p.dialogX, p.dialogY, p.flipHorizontal), 0.1F));

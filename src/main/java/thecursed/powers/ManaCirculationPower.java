@@ -6,6 +6,7 @@ import com.megacrit.cardcrawl.core.AbstractCreature;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.localization.PowerStrings;
+import thecursed.cards.CurseUtil;
 
 public class ManaCirculationPower extends AbstractTheCursedPower {
     public static final String POWER_ID = "TheCursedMod:ManaCirculationPower";
@@ -38,7 +39,7 @@ public class ManaCirculationPower extends AbstractTheCursedPower {
 
     @Override
     public void onExhaust(AbstractCard card) {
-        if (card.type == AbstractCard.CardType.CURSE) {
+        if (CurseUtil.isCurse(card)) {
             this.flash();
 
             AbstractDungeon.actionManager.addToBottom(new GainEnergyAction(this.amount));

@@ -8,6 +8,7 @@ import com.megacrit.cardcrawl.core.AbstractCreature;
 import com.megacrit.cardcrawl.core.Settings;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.powers.StrengthPower;
+import thecursed.cards.CurseUtil;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -27,7 +28,7 @@ public class DemonSwordAction extends AbstractGameAction {
         if (this.duration == this.startDuration) {
             List<AbstractCard> cursesInHand =
                     AbstractDungeon.player.hand.group.stream()
-                            .filter(c -> c.type == AbstractCard.CardType.CURSE)
+                            .filter(card -> CurseUtil.isCurse(card))
                             .collect(Collectors.toList());
 
             int gainStrength = this.amount * cursesInHand.size();

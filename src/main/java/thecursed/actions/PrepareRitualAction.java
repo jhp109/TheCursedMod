@@ -32,7 +32,7 @@ public class PrepareRitualAction extends AbstractGameAction {
             if (p.hand.isEmpty() || p.hand.group.size() == CurseUtil.getNumCurse(p.hand.group)) {
                 this.isDone = true;
             } else {
-                p.hand.group.stream().filter(c -> c.type == AbstractCard.CardType.CURSE).forEach(cannotTransform::add);
+                p.hand.group.stream().filter(card -> CurseUtil.isCurse(card)).forEach(cannotTransform::add);
                 p.hand.group.removeAll(cannotTransform);
 
                 AbstractDungeon.handCardSelectScreen.open(

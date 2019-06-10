@@ -8,6 +8,7 @@ import com.megacrit.cardcrawl.cards.DamageInfo;
 import com.megacrit.cardcrawl.core.AbstractCreature;
 import com.megacrit.cardcrawl.core.Settings;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
+import thecursed.cards.CurseUtil;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -30,7 +31,7 @@ public class SoulCrushAction extends AbstractGameAction {
         if (this.duration == this.startDuration) {
             List<AbstractCard> cursesInHand =
                     AbstractDungeon.player.hand.group.stream()
-                            .filter(c -> c.type == AbstractCard.CardType.CURSE)
+                            .filter(card -> CurseUtil.isCurse(card))
                             .collect(Collectors.toList());
 
             AbstractDungeon.actionManager.addToTop(new DamageAction(this.target, this.info, AttackEffect.BLUNT_HEAVY));

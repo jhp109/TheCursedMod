@@ -3,7 +3,7 @@
   "name": "The Cursed",
   "author_list": ["jhp109"],
   "description": "A new character who uses curse and magic circle to fight against enemies.  \n \nThe Cursed adds 75 cards (plus 1 extra card), 11 new character-specific relics, and 1 new potion. \nAlso Constructed Theme Deck option is available in its config.",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "sts_version": "01-23-2019",
   "mts_version": "3.8.3",
   "dependencies": ["basemod", "stslib"]

@@ -9,6 +9,7 @@ import com.megacrit.cardcrawl.core.AbstractCreature;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.localization.PowerStrings;
+import thecursed.cards.CurseUtil;
 
 public class HellfireBreathingPower extends AbstractTheCursedPower implements OnCardDrawPower {
     public static final String POWER_ID = "TheCursedMod:HellfireBreathingPower";
@@ -38,7 +39,7 @@ public class HellfireBreathingPower extends AbstractTheCursedPower implements On
 
     @Override
     public void onCardDraw(AbstractCard c) {
-        if (c.type == AbstractCard.CardType.CURSE) {
+        if (CurseUtil.isCurse(c)) {
             this.flash();
 
             AbstractDungeon.actionManager.addToTop(

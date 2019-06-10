@@ -7,6 +7,7 @@ import com.megacrit.cardcrawl.core.AbstractCreature;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.localization.PowerStrings;
+import thecursed.cards.CurseUtil;
 
 public class LuckyCharmPower extends AbstractTheCursedPower implements OnCardDrawPower {
     public static final String POWER_ID = "TheCursedMod:LuckyCharmPower";
@@ -45,7 +46,7 @@ public class LuckyCharmPower extends AbstractTheCursedPower implements OnCardDra
     }
 
     private void maybeActivate(AbstractCard card) {
-        if (card.type == AbstractCard.CardType.CURSE) {
+        if (CurseUtil.isCurse(card)) {
             this.flash();
 
             AbstractDungeon.actionManager.addToBottom(new GainBlockAction(this.owner, this.owner, this.amount));

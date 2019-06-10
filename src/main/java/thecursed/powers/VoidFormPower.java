@@ -8,6 +8,7 @@ import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.localization.PowerStrings;
 import com.megacrit.cardcrawl.powers.StrengthPower;
+import thecursed.cards.CurseUtil;
 
 public class VoidFormPower extends AbstractTheCursedPower implements OnCardDrawPower {
     public static final String POWER_ID = "TheCursedMod:VoidFormPower";
@@ -37,7 +38,7 @@ public class VoidFormPower extends AbstractTheCursedPower implements OnCardDrawP
 
     @Override
     public void onCardDraw(AbstractCard c) {
-        if (c.type == AbstractCard.CardType.CURSE) {
+        if (CurseUtil.isCurse(c)) {
             this.flash();
 
             AbstractDungeon.actionManager.addToTop(

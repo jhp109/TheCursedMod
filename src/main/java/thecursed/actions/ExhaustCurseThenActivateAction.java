@@ -7,6 +7,7 @@ import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.core.Settings;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.localization.UIStrings;
+import thecursed.cards.CurseUtil;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -66,7 +67,7 @@ public class ExhaustCurseThenActivateAction extends AbstractGameAction {
     }
 
     private void exhaustCardAndActivateActionsIfItIsCurse(AbstractCard card) {
-        if (card.type == AbstractCard.CardType.CURSE) {
+        if (CurseUtil.isCurse(card)) {
             targetActions.forEach(AbstractDungeon.actionManager::addToTop);
         }
         this.p.hand.moveToExhaustPile(card);
