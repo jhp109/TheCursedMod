@@ -42,9 +42,9 @@
   "TheCursedMod:HellsGateOpenPower": {
     "NAME": "地獄の釜",
     "DESCRIPTIONS": [
-      "ターン開始時、#b1 枚のランダムな #y呪い を 手札に加える。",
+      "ターン開始時、#b1 枚のランダムな #y呪われし カードを 手札に加える。",
       "ターン開始時、#b",
-      " 枚のランダムな #y呪い を 手札に加える。"
+      " 枚のランダムな #y呪われし カードを 手札に加える。"
     ]
   },
   "TheCursedMod:HemoplaguePower": {
