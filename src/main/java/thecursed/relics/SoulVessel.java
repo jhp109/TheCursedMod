@@ -9,6 +9,7 @@ import com.megacrit.cardcrawl.helpers.ImageMaster;
 import com.megacrit.cardcrawl.helpers.PowerTip;
 import com.megacrit.cardcrawl.relics.AbstractRelic;
 import thecursed.TheCursedMod;
+import thecursed.cards.CurseUtil;
 
 public class SoulVessel extends CustomRelic {
     public static final String ID = "TheCursedMod:SoulVessel";
@@ -43,7 +44,7 @@ public class SoulVessel extends CustomRelic {
 
     @Override
     public void onExhaust(AbstractCard c) {
-        if (c.type == AbstractCard.CardType.CURSE) {
+        if (CurseUtil.isCurse(c)) {
             this.setCounter(this.counter + 1);
         }
     }

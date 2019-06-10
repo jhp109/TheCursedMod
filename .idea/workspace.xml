@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10deb39-7874-475d-b201-88b9c86efd1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/relics/CrystalBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/relics/CrystalBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/relics/SoulVessel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/relics/SoulVessel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,86 +20,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/BlackMagic101.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="184" column="37" selection-start-line="184" selection-start-column="33" selection-end-line="184" selection-end-column="37" />
+            <state relative-caret-position="276">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CharacterStrings.json">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/BloodyHarpoon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/CrystalBall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/DemonicMark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/FourLeafCloverCharm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/MagicCandle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/OminousMark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/PinkPellets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/SoulVessel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/PotionStrings.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/PowerStrings.json">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/ModTheSpire.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/PowerStrings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/RelicStrings.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/UIStrings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/KeywordStrings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="71" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/KeywordStrings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -167,8 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CircleOfAmplification.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/SoulReap.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CursedAmulet.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CursedArmor.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CursedSpellbook.java" />
@@ -199,7 +203,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/RelicStrings.json" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/CurseUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/BlessingInDisguiseAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/DemonSwordAction.java" />
@@ -218,6 +221,9 @@
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CharacterStrings.json" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/PowerStrings.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/relics/CrystalBall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/relics/SoulVessel.java" />
       </list>
     </option>
   </component>
@@ -266,6 +272,43 @@
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
               <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thecursed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thecursed" type="462c0819:PsiDirectoryNode" />
+              <item name="relics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
@@ -492,83 +535,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/MakeAllStrikeZeroCostAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/MangleAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/ManuallyActivateBleedAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/NeurastheniaAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/PrepareRitualAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/BlessingInDisguiseAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/ReduceCostInHandAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/ExhaustCurseThenActivateAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/RavingStaffHitAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/SoulCrushAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/ReleasedKnowledgeAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/UltimatePainAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -837,10 +803,87 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <first_editor relative-caret-position="375">
+            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/BlackMagicAdvanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/BloodyHarpoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ModTheSpire.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/BlackMagic101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/CrystalBall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/DemonicMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/FourLeafCloverCharm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/MagicCandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/OminousMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/PinkPellets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/relics/SoulVessel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>

@@ -13,6 +13,7 @@ import com.megacrit.cardcrawl.helpers.ImageMaster;
 import com.megacrit.cardcrawl.monsters.AbstractMonster;
 import com.megacrit.cardcrawl.relics.AbstractRelic;
 import thecursed.TheCursedMod;
+import thecursed.cards.CurseUtil;
 
 public class CrystalBall extends CustomRelic {
     public static final String ID = "TheCursedMod:CrystalBall";
@@ -33,7 +34,7 @@ public class CrystalBall extends CustomRelic {
 
     @Override
     public void onExhaust(AbstractCard c) {
-        if (c.type != AbstractCard.CardType.CURSE) {
+        if (!CurseUtil.isCurse(c)) {
             return;
         }
 
