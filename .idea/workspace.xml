@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10deb39-7874-475d-b201-88b9c86efd1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,11 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="282" column="54" lean-forward="true" selection-start-line="282" selection-start-column="54" selection-end-line="282" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -85,15 +94,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/RavingStaff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -209,7 +209,6 @@
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedWand.java" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/CardStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/CardStrings.json" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/CardStrings.json" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/SpreadPlague.java" />
@@ -222,6 +221,7 @@
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/RavingStaff.java" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json" />
       </list>
     </option>
   </component>
@@ -381,6 +381,16 @@
               <item name="TheCursedMod" type="462c0819:PsiDirectoryNode" />
               <item name="localization" type="462c0819:PsiDirectoryNode" />
               <item name="eng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TheCursedMod" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="jpn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
@@ -641,13 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="278" column="4" lean-forward="true" selection-start-line="278" selection-start-column="4" selection-end-line="278" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="274" column="4" lean-forward="true" selection-start-line="274" selection-start-column="4" selection-end-line="274" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -969,7 +972,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="282" column="54" lean-forward="true" selection-start-line="282" selection-start-column="54" selection-end-line="282" selection-end-column="54" />
         </state>
       </provider>
     </entry>

@@ -275,7 +275,7 @@
   },
   "TheCursedMod:SoulReap": {
     "NAME": "ソウルリープ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL ブロック されずに与えたダメージに等しいHPを回復 する。 NL 廃棄 される。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL ブロック されずに与えたダメージに等しいHPを回復 する。 NL 廃棄 。"
   },
   "TheCursedMod:SpitefulPlan": {
     "NAME": "悪意ある計画",
