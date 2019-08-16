@@ -229,7 +229,7 @@
   },
   "TheCursedMod:OutForBlood": {
     "NAME": "血の渇望",
-    "DESCRIPTION": "「アタック」が ブロック されずにダメージを与えるたび、 流血 1 を与える。"
+    "DESCRIPTION": "「アタック」が ブロック されずにダメージを与えるたび、 流血 !M! を与える。"
   },
   "TheCursedMod:ParallelWorld": {
     "NAME": "平行世界",
@@ -275,7 +275,7 @@
   },
   "TheCursedMod:SoulReap": {
     "NAME": "ソウルリープ",
-    "DESCRIPTION": "!D! ダメージを与える。 この攻撃で ミニオン 以外の敵を倒すと、HPを !M! 回復する。 NL 廃棄 。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL ブロック されずに与えたダメージに等しいHPを回復 する。 NL 廃棄 される。"
   },
   "TheCursedMod:SpitefulPlan": {
     "NAME": "悪意ある計画",
@@ -334,8 +334,8 @@
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "究極の苦痛",
-    "DESCRIPTION": "敵は即座に 流血 X 回分のHPを失う。",
-    "UPGRADE_DESCRIPTION": "敵は即座に 流血 X+1 回分のHPを失う。"
+    "DESCRIPTION": "敵全体が即座に 流血 X 回分のHPを失う。",
+    "UPGRADE_DESCRIPTION": "敵全体が即座に 流血 X+1 回分のHPを失う。"
   },
   "TheCursedMod:VitalStrike": {
     "NAME": "バイタルストライク",

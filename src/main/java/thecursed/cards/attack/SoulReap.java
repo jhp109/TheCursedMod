@@ -2,7 +2,9 @@ package thecursed.cards.attack;
 
 import basemod.abstracts.CustomCard;
 import com.badlogic.gdx.graphics.Color;
+import com.megacrit.cardcrawl.actions.AbstractGameAction;
 import com.megacrit.cardcrawl.actions.animations.VFXAction;
+import com.megacrit.cardcrawl.actions.unique.VampireDamageAction;
 import com.megacrit.cardcrawl.cards.AbstractCard;
 import com.megacrit.cardcrawl.cards.DamageInfo;
 import com.megacrit.cardcrawl.characters.AbstractPlayer;
@@ -13,7 +15,6 @@ import com.megacrit.cardcrawl.localization.CardStrings;
 import com.megacrit.cardcrawl.monsters.AbstractMonster;
 import com.megacrit.cardcrawl.vfx.combat.BiteEffect;
 import thecursed.TheCursedMod;
-import thecursed.actions.HarvestSoulAction;
 import thecursed.enums.AbstractCardEnum;
 
 public class SoulReap extends CustomCard {
@@ -29,16 +30,13 @@ public class SoulReap extends CustomCard {
     private static final CardTarget TARGET = CardTarget.ENEMY;
 
     private static final int COST = 1;
-    private static final int DAMAGE = 10;
+    private static final int DAMAGE = 5;
     private static final int UPGRADE_BONUS = 2;
-    private static final int HEAL_AMOUNT = 4;
-    private static final int HEAL_AMOUNT_UPGRADE_BONUS = 2;
 
     public SoulReap() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
 
         this.baseDamage = this.damage = DAMAGE;
-        this.baseMagicNumber = this.magicNumber = HEAL_AMOUNT;
         this.exhaust = true;
         this.tags.add(CardTags.HEALING);
     }
@@ -52,7 +50,9 @@ public class SoulReap extends CustomCard {
         }
 
         AbstractDungeon.actionManager.addToBottom(
-                new HarvestSoulAction(m, new DamageInfo(p, this.damage, this.damageTypeForTurn), this.magicNumber));
+                new VampireDamageAction(
+                        m, new DamageInfo(p, this.damage, this.damageTypeForTurn),
+                        AbstractGameAction.AttackEffect.NONE));
     }
 
     @Override
@@ -65,7 +65,6 @@ public class SoulReap extends CustomCard {
         if (!this.upgraded) {
             upgradeName();
             upgradeDamage(UPGRADE_BONUS);
-            upgradeMagicNumber(HEAL_AMOUNT_UPGRADE_BONUS);
         }
     }
 

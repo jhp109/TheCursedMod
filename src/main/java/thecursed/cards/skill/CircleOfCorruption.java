@@ -21,8 +21,8 @@ public class CircleOfCorruption extends AbstractCircle {
     private static final CardRarity RARITY = CardRarity.COMMON;
     private static final CardTarget TARGET = CardTarget.ALL_ENEMY;
 
-    private static final int THORN_AMT = 3;
-    private static final int THORN_UPGRADE_BONUS = 2;
+    private static final int THORN_AMT = 5;
+    private static final int THORN_UPGRADE_BONUS = 3;
 
     public CircleOfCorruption() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), DESCRIPTION, EXTENDED_DESCRIPTION[0], RARITY, TARGET);

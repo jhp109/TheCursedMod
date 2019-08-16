@@ -229,7 +229,7 @@
   },
   "TheCursedMod:OutForBlood": {
     "NAME": "복수의 칼날",
-    "DESCRIPTION": "공격으로 적의 체력을 감소시킬 때마다 출혈 을 1 씩 부여합니다."
+    "DESCRIPTION": "공격으로 적의 체력을 감소시킬 때마다 출혈 을 !M! 씩 부여합니다."
   },
   "TheCursedMod:ParallelWorld": {
     "NAME": "평행세계",
@@ -275,7 +275,7 @@
   },
   "TheCursedMod:SoulReap": {
     "NAME": "영혼 수확",
-    "DESCRIPTION": "피해를 !D! 줍니다. 이 피해로 적이 죽으면 체력을 !M! 회복합니다. NL 소멸"
+    "DESCRIPTION": "피해를 !D! 줍니다. 막히지 않은 피해만큼 체력을 회복합니다. NL 소멸"
   },
   "TheCursedMod:SpitefulPlan": {
     "NAME": "원한 맺힌 계략",
@@ -334,8 +334,8 @@
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "궁극의 고통",
-    "DESCRIPTION": "선택한 적은 출혈 로 인한 피해를 즉시 X 번 받습니다.",
-    "UPGRADE_DESCRIPTION": "선택한 적은 출혈 로 인한 피해를 즉시 X+1 번 받습니다."
+    "DESCRIPTION": "모든 적은 출혈 로 인한 피해를 즉시 X 번 받습니다.",
+    "UPGRADE_DESCRIPTION": "모든 적은 출혈 로 인한 피해를 즉시 X+1 번 받습니다."
   },
   "TheCursedMod:VitalStrike": {
     "NAME": "급소 타격",

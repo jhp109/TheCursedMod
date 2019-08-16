@@ -33,9 +33,9 @@ public class CursedWand extends CustomCard {
     private static final CardTarget TARGET = CardTarget.ENEMY;
 
     private static final int COST = 1;
-    private static final int DAMAGE = 8;
+    private static final int DAMAGE = 7;
     private static final int UPGRADE_DAMAGE_AMOUNT = 2;
-    private static final int BLOCK = 6;
+    private static final int BLOCK = 5;
     private static final int UPGRADE_BLOCK_AMOUNT = 2;
 
     public CursedWand() {

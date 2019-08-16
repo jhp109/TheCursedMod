@@ -229,7 +229,7 @@
   },
   "TheCursedMod:OutForBlood": {
     "NAME": "Sanguinaire",
-    "DESCRIPTION": "Quand vous infligez des dégâts non bloqués, appliquez 1 de Saignement."
+    "DESCRIPTION": "Quand vous infligez des dégâts non bloqués, appliquez !M! de Saignement."
   },
   "TheCursedMod:ParallelWorld": {
     "NAME": "Monde Parallèle",
@@ -275,7 +275,7 @@
   },
   "TheCursedMod:SoulReap": {
     "NAME": "Moisson d'Âme",
-    "DESCRIPTION": "Infligez !D! dégât(s). Si l'ennemi (non-sbire) succombe, soignez !M! PV. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégât(s). Soignez du total des dégâts non bloqués. NL Épuisement."
   },
   "TheCursedMod:SpitefulPlan": {
     "NAME": "Plan Malveillant",
@@ -334,8 +334,8 @@
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "Douleur Ultime",
-    "DESCRIPTION": "L'ennemi perds immédiatement autant de PV qu'il à de Saignement X fois.",
-    "UPGRADE_DESCRIPTION": "L'ennemi perds immédiatement autant de PV qu'il à de Saignement X+1 fois"
+    "DESCRIPTION": "TOUS les ennemis perds immédiatement autant de PV qu'il à de Saignement X fois.",
+    "UPGRADE_DESCRIPTION": "TOUS les ennemis perds immédiatement autant de PV qu'il à de Saignement X+1 fois."
   },
   "TheCursedMod:VitalStrike": {
     "NAME": "Frappe Vitale",

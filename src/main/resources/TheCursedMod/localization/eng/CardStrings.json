@@ -229,7 +229,7 @@
   },
   "TheCursedMod:OutForBlood": {
     "NAME": "Out for Blood",
-    "DESCRIPTION": "Whenever an Attack deals unblocked damage, apply 1 Bleed."
+    "DESCRIPTION": "Whenever an Attack deals unblocked damage, apply !M! Bleed."
   },
   "TheCursedMod:ParallelWorld": {
     "NAME": "Parallel World",
@@ -275,7 +275,7 @@
   },
   "TheCursedMod:SoulReap": {
     "NAME": "Soul Reap",
-    "DESCRIPTION": "Deal !D! damage. If this kills a non-minion enemy, heal !M! HP. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage. Heal HP equal to unblocked damage. NL Exhaust."
   },
   "TheCursedMod:SpitefulPlan": {
     "NAME": "Spiteful Plan",
@@ -334,8 +334,8 @@
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "Ultimate Pain",
-    "DESCRIPTION": "Enemy immediately loses HP by its Bleed X times.",
-    "UPGRADE_DESCRIPTION": "Enemy immediately loses HP by its Bleed X+1 times."
+    "DESCRIPTION": "ALL enemies immediately loses HP by its Bleed X times.",
+    "UPGRADE_DESCRIPTION": "ALL enemies immediately loses HP by its Bleed X+1 times."
   },
   "TheCursedMod:VitalStrike": {
     "NAME": "Vital Strike",

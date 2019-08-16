@@ -22,7 +22,7 @@ public class CircleOfFlame extends AbstractCircle {
     private static final CardTarget TARGET = CardTarget.ALL_ENEMY;
 
     private static final int THORN_AMT = 2;
-    private static final int THORN_UPGRADE_BONUS = 1;
+    private static final int THORN_UPGRADE_BONUS = 2;
 
     public CircleOfFlame() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), DESCRIPTION, EXTENDED_DESCRIPTION[0], RARITY, TARGET);

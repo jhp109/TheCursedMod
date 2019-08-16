@@ -23,7 +23,7 @@ public class UltimatePain extends CustomCard {
 
     private static final CardType TYPE = CardType.SKILL;
     private static final CardRarity RARITY = CardRarity.RARE;
-    private static final CardTarget TARGET = CardTarget.ENEMY;
+    private static final CardTarget TARGET = CardTarget.ALL_ENEMY;
 
     private static final int COST = -1;
     private static final int BASE_OFFSET = 0;
@@ -40,8 +40,10 @@ public class UltimatePain extends CustomCard {
             this.energyOnUse = EnergyPanel.totalCount;
         }
 
-        AbstractDungeon.actionManager.addToBottom(
-                new UltimatePainAction(p, m, this.freeToPlayOnce, this.energyOnUse + this.magicNumber));
+        AbstractDungeon.getMonsters().monsters.forEach(
+                mo -> AbstractDungeon.actionManager.addToBottom(
+                        new UltimatePainAction(
+                                p, mo, this.freeToPlayOnce, this.energyOnUse + this.magicNumber)));
     }
 
     @Override

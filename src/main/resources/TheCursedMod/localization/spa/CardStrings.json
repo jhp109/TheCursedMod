@@ -229,7 +229,7 @@
   },
   "TheCursedMod:OutForBlood": {
     "NAME": "Sediento de Sangre",
-    "DESCRIPTION": "Cuando un Ataque hace daño sin bloquear, aplica 1 de Sangrado."
+    "DESCRIPTION": "Cuando un Ataque hace daño sin bloquear, aplica !M! de Sangrado."
   },
   "TheCursedMod:ParallelWorld": {
     "NAME": "Mundo Paralelo",
@@ -275,7 +275,7 @@
   },
   "TheCursedMod:SoulReap": {
     "NAME": "Cosechar el Alma",
-    "DESCRIPTION": "Haz !D! de daño. Si esto mata a un enemigo que no sea súbdito, cura !M! de HP. NL Agota."
+    "DESCRIPTION": "Haz !D! de daño. Cura igual al daño no bloqueado causado al enemigo. NL Agota."
   },
   "TheCursedMod:SpitefulPlan": {
     "NAME": "Plan Malicioso",
@@ -334,8 +334,8 @@
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "Dolor Definitivo",
-    "DESCRIPTION": "El Enemigo pierde HP por su Sangrado X veces.",
-    "UPGRADE_DESCRIPTION": "El Enemigo pierde HP por su Sangrado X+1 veces."
+    "DESCRIPTION": "TODOS los enemigos pierde HP por su Sangrado X veces.",
+    "UPGRADE_DESCRIPTION": "TODOS los enemigos pierde HP por su Sangrado X+1 veces."
   },
   "TheCursedMod:VitalStrike": {
     "NAME": "Golpe Vital",

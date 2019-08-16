@@ -21,7 +21,7 @@ public class CircleOfBlood extends AbstractCircle {
     private static final CardTarget TARGET = CardTarget.SELF;
 
     private static final int HEAL = 2;
-    private static final int UPGRADE_HEAL_AMOUNT = 1;
+    private static final int UPGRADE_HEAL_AMOUNT = 2;
 
     public CircleOfBlood() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), DESCRIPTION, EXTENDED_DESCRIPTION[0], RARITY, TARGET);

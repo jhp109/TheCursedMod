@@ -229,7 +229,7 @@
   },
   "TheCursedMod:OutForBlood": {
     "NAME": "出血",
-    "DESCRIPTION": "每有一次攻击造成未被格挡的伤害，就给予1层 流血 。"
+    "DESCRIPTION": "每有一次攻击造成未被格挡的伤害，就给予 !M! 层 流血 。"
   },
   "TheCursedMod:ParallelWorld": {
     "NAME": "平行世界",
@@ -275,7 +275,7 @@
   },
   "TheCursedMod:SoulReap": {
     "NAME": "灵魂收割",
-    "DESCRIPTION": "造成 !D! 点伤害。 如果杀死了非爪牙的敌人，恢复 !M! 点生命。 NL 消耗 。"
+    "DESCRIPTION": "敌人造成 !D! 点伤害。未被 格挡 的伤害将回复你的生命。 NL 消耗 。"
   },
   "TheCursedMod:SpitefulPlan": {
     "NAME": "恶意计划",
@@ -334,8 +334,8 @@
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "最终计划",
-    "DESCRIPTION": "敌人失去 X 次 流血 层数的伤害。",
-    "UPGRADE_DESCRIPTION": "敌人失去 X+1 次 流血 层数的伤害。"
+    "DESCRIPTION": "所有敌人失去 X 次 流血 层数的伤害。",
+    "UPGRADE_DESCRIPTION": "所有敌人失去 X+1 次 流血 层数的伤害。"
   },
   "TheCursedMod:VitalStrike": {
     "NAME": "活力打击",

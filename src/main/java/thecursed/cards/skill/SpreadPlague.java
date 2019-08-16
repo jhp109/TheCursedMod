@@ -27,7 +27,7 @@ public class SpreadPlague extends CustomCard {
     private static final CardTarget TARGET = CardTarget.ALL_ENEMY;
 
     private static final int COST = 2;
-    private static final int BLEED = 3;
+    private static final int BLEED = 4;
     private static final int BLEED_UPGRADE_BONUS = 3;
     private static final int VULNERABLE_DURATION = 3;
 
