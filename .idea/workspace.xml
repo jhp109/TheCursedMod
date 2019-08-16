@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10deb39-7874-475d-b201-88b9c86efd1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,20 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="277" column="20" selection-start-line="277" selection-start-column="20" selection-end-line="277" selection-end-column="20" />
+            <state relative-caret-position="312">
+              <caret line="281" column="44" lean-forward="true" selection-start-line="281" selection-start-column="44" selection-end-line="281" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/SoulReap.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+            <state relative-caret-position="210">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -204,7 +204,6 @@
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CircleOfFlame.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/UltimatePainAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/power/OutForBlood.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/UltimatePain.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/SurpriseAttack.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedWand.java" />
@@ -222,6 +221,7 @@
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/power/VoidForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/RavingStaff.java" />
         <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" />
       </list>
     </option>
   </component>
@@ -622,13 +622,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedBlade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedStaff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -968,8 +961,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="277" column="20" selection-start-line="277" selection-start-column="20" selection-end-line="277" selection-end-column="20" />
+        <state relative-caret-position="312">
+          <caret line="281" column="44" lean-forward="true" selection-start-line="281" selection-start-column="44" selection-end-line="281" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
         </state>
       </provider>
     </entry>

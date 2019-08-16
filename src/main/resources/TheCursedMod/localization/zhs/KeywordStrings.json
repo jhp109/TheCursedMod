@@ -12,7 +12,7 @@
     "NAMES": [
       "魔法阵"
     ],
-    "DESCRIPTION": "手中有这张卡牌，可以被其他卡牌激活但 #y不能被打出 。"
+    "DESCRIPTION": "手中有这张卡牌，可以被其他卡牌激活但 #y不能被打出 牌。"
   },
   "TheCursedMod:CursedKeyword": {
     "PROPER_NAME": "被诅咒",
