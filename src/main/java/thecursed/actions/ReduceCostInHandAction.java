@@ -16,7 +16,7 @@ public class ReduceCostInHandAction extends AbstractGameAction {
 
     @Override
     public void update() {
-        cardsInHand.forEach(c -> c.modifyCostForTurn(-1));
+        cardsInHand.forEach(c -> c.setCostForTurn(c.costForTurn - 1));
         this.isDone = true;
     }
 }

@@ -66,6 +66,11 @@ public class TheCursedCharacter extends CustomPlayer {
     }
 
     @Override
+    public String getPortraitImageName() {
+        return "portrait.png";
+    }
+
+    @Override
     public ArrayList<String> getStartingDeck() {
         ArrayList<String> retVal = new ArrayList<String>();
 
