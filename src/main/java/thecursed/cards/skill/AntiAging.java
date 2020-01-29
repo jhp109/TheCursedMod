@@ -39,7 +39,7 @@ public class AntiAging extends CustomCard {
         this.baseBlock = this.block = BLOCK;
         this.exhaust = true;
         this.tags.add(CardTags.HEALING);
-        this.tags.add(TheCursedCardTags.RITUAL);
+        this.tags.add(TheCursedCardTags.RITE);
     }
 
     @Override

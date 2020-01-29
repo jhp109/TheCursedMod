@@ -35,7 +35,7 @@ public class ReleasedStrength extends CustomCard {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
         this.baseMagicNumber = this.magicNumber = STRENGTH;
         this.isEthereal = true;
-        this.tags.add(TheCursedCardTags.RITUAL);
+        this.tags.add(TheCursedCardTags.RITE);
     }
 
     @Override

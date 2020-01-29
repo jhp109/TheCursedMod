@@ -29,7 +29,7 @@
     ],
     "DESCRIPTION": "Despojos son cartas de Maldición Injugables."
   },
-  "TheCursedMod:RitualKeyword": {
+  "TheCursedMod:RiteKeyword": {
     "PROPER_NAME": "Ritual",
     "NAMES": [
       "ritual"

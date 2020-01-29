@@ -28,12 +28,12 @@
     ],
     "DESCRIPTION": "사용 불가인 저주 카드입니다."
   },
-  "TheCursedMod:RitualKeyword": {
-    "PROPER_NAME": "의식",
+  "TheCursedMod:RiteKeyword": {
+    "PROPER_NAME": "의례",
     "NAMES": [
-      "의식"
+      "의례"
     ],
-    "DESCRIPTION": "사용 시, 카드 1장을 선택해 #y소멸 시킵니다. 저주 카드가 소멸되면 해당 의식의 효과가 발동됩니다."
+    "DESCRIPTION": "사용 시, 카드 1장을 선택해 #y소멸 시킵니다. 저주 카드가 소멸되면 해당 의례의 효과가 발동됩니다."
   },
   "TheCursedMod:StunKeyword": {
     "PROPER_NAME": "기절",

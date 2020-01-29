@@ -41,6 +41,7 @@ public class CursedMace extends CustomCard {
 
         this.baseDamage = this.damage = DAMAGE;
         this.baseMagicNumber = this.magicNumber = VULNERABLE_DURATION;
+        this.cardsToPreview = new Dregs();
     }
 
     @Override

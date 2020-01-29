@@ -3,10 +3,59 @@
   <component name="ChangeListManager">
     <list default="true" id="a10deb39-7874-475d-b201-88b9c86efd1e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/actions/RavingStaffHitAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/actions/RavingStaffHitAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/actions/ReduceCostInHandAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/actions/ReduceCostInHandAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/characters/TheCursedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/characters/TheCursedCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/TheCursedMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/TheCursedMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/actions/PrepareRitualAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/actions/PrepareRiteAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/TheCursedCardTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/TheCursedCardTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedBlade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedBlade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedBoomerang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedBoomerang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedMace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedMace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedRelics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedRelics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedShiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedShiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedStaff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedStaff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedWand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedWand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/AntiAging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/AntiAging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/AshesToAshes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/AshesToAshes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/BloodBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/BloodBarrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CleanUpWorkshop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CleanUpWorkshop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/DarkBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/DarkBarrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/DoubleShield.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/DoubleShield.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/Evocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/Evocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/FleshFromBone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/FleshFromBone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/ForbiddenAlchemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/ForbiddenAlchemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/Obscuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/Obscuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/PrepareRitual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/PrepareRite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/RapidMovement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/RapidMovement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/ReleasedKnowledge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/ReleasedKnowledge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/ReleasedStrength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/ReleasedStrength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/SmokeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/SmokeScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/TroublousMinions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/TroublousMinions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/potions/DregsPotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/potions/DregsPotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thecursed/powers/DemonicPactPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thecursed/powers/DemonicPactPower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/img/cards/prepareritual.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/img/cards/preparerite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/img/cards/prepareritual_p.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/img/cards/preparerite_p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/KeywordStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/KeywordStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/PowerStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/PowerStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/RelicStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/RelicStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/UIStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/UIStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/CardStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/CardStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/KeywordStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/KeywordStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/UIStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/UIStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/KeywordStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/KeywordStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/UIStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/UIStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/CardStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/CardStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/KeywordStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/KeywordStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/PowerStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/PowerStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/RelicStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/RelicStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/UIStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/UIStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/CardStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/CardStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/KeywordStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/KeywordStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/UIStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/UIStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/UIStrings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/UIStrings.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,107 +70,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/UIStrings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/UIStrings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/UIStrings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/UIStrings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/UIStrings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/UIStrings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/power/DemonicPact.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/ModTheSpire.json">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/TheCursedCardTags.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/RavingStaffHitAction.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/PrepareRite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            <state relative-caret-position="345">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/actions/AbstractGameAction.class">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/PrepareRiteAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/characters/TheCursedCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1560">
-              <caret line="132" column="41" selection-start-line="132" selection-start-column="34" selection-end-line="132" selection-end-column="41" />
-              <folding>
-                <element signature="e#3074#3075#0" expanded="true" />
-                <element signature="e#4902#4903#0" expanded="true" />
-                <element signature="e#5025#5026#0" expanded="true" />
-                <element signature="e#5120#5121#0" expanded="true" />
-                <element signature="e#5451#5452#0" expanded="true" />
-                <element signature="e#5531#5532#0" expanded="true" />
-                <element signature="e#5641#5642#0" expanded="true" />
-                <element signature="e#6011#6012#0" expanded="true" />
-                <element signature="e#6101#6102#0" expanded="true" />
-                <element signature="e#6209#6210#0" expanded="true" />
-                <element signature="e#6306#6307#0" expanded="true" />
-                <element signature="e#6397#6398#0" expanded="true" />
-                <element signature="e#6985#6986#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/characters/Defect.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="938">
-              <caret line="119" column="44" selection-start-line="119" selection-start-column="44" selection-end-line="119" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/characters/TheSilent.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2026">
-              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/power/HellfireBreathing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../lib/BaseMod.jar!/basemod/abstracts/CustomPlayer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="48" column="52" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/characters/AbstractPlayer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="261" column="47" selection-start-line="261" selection-start-column="27" selection-end-line="261" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/characters/Ironclad.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="69" selection-start-line="69" selection-end-line="72" selection-end-column="5" />
+            <state relative-caret-position="540">
+              <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -137,36 +171,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pier</find>
-      <find>à TOUS les ennemis</find>
-      <find>敵全体</find>
-      <find>모든 적</find>
-      <find>すべての</find>
-      <find>ultimate</find>
-      <find>piercingwail</find>
-      <find>ultima</find>
-      <find>cursedblade</find>
-      <find>todos los</find>
-      <find>所有敌人</find>
-      <find>vampiredamageaction</find>
-      <find>reAper</find>
-      <find>されずに</find>
-      <find>soulreap</find>
-      <find>reap</find>
-      <find>reaper</find>
-      <find>&quot;敌人造</find>
-      <find>&quot;对所有</find>
-      <find>&quot;所有</find>
-      <find>outforblood</find>
-      <find>FontHelper</find>
-      <find>ReduceCostInHandAction</find>
-      <find>modifycostfor</find>
-      <find>isCostModifiedForTurn</find>
-      <find>costforturn</find>
-      <find>getportrait</find>
-      <find>getPortraitImageName</find>
-      <find>portrait</find>
+      <find>치명타</find>
+      <find>cardpool</find>
       <find>getcardpool</find>
+      <find>skill</find>
+      <find>attack</find>
+      <find>pool</find>
+      <find>cardtype</find>
+      <find>this.type</find>
+      <find>의례</find>
+      <find>의식</find>
+      <find>Ritual</find>
+      <find>rite</find>
+      <find>Rituel</find>
+      <find>RitualKeyword</find>
+      <find>儀式</find>
+      <find>단도</find>
+      <find>Dregs</find>
+      <find>cloak</find>
+      <find>dregs</find>
+      <find>Résidus</find>
+      <find>Résidus</find>
+      <find>残骸</find>
+      <find>찌꺼기</find>
+      <find>Despojos</find>
+      <find>残渣</find>
+      <find>*dregs</find>
+      <find>PrepareR</find>
+      <find>prepareri</find>
+      <find>prepare</find>
+      <find>ritual</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -179,6 +213,17 @@
       <replace>d'armure</replace>
       <replace>Épuisement</replace>
       <replace>，</replace>
+      <replace>의례</replace>
+      <replace>Rite</replace>
+      <replace>RiteKeyword</replace>
+      <replace>儀礼</replace>
+      <replace>*Résidus</replace>
+      <replace>*Dregs</replace>
+      <replace>*Résidus</replace>
+      <replace>*残骸</replace>
+      <replace>*찌꺼기</replace>
+      <replace>*Despojos</replace>
+      <replace>*残渣</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/cards/red</dir>
@@ -190,57 +235,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/RelicStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/RelicStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/PotionStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/PowerStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/TRANSLATOR_README.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/RelicStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/CurseUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/BlessingInDisguiseAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/DemonSwordAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/ExhaustCurseThenActivateAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/NeurastheniaAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/PrepareRitualAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/SoulCrushAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/powers/HellfireBreathingPower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/powers/LuckyCharmPower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/powers/ManaCirculationPower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/powers/SpitefulPlanPower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/powers/VoidFormPower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedRelics.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/KeywordStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CharacterStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/PowerStrings.json" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/relics/CrystalBall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/relics/SoulVessel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CircleOfCorruption.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CircleOfBlood.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CircleOfFlame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/UltimatePainAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/power/OutForBlood.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/UltimatePain.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/SurpriseAttack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedWand.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/CardStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/CardStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/CardStrings.json" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/SoulReap.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/RapidMovement.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/Obscuration.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/power/VoidForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/RavingStaff.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/SpreadPlague.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thecursed/TheCursedMod.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/ReduceCostInHandAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/actions/RavingStaffHitAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/thecursed/characters/TheCursedCharacter.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/TheCursedMod.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/KeywordStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/PowerStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/RelicStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/KeywordStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/PowerStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/RelicStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/UIStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/potions/DregsPotion.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/PowerStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/RelicStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/PowerStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/RelicStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/KeywordStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/KeywordStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/KeywordStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedBlade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedBoomerang.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedMace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedRelics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedShiv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedStaff.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedWand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/TroublousMinions.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/CardStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/CardStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/CardStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/skill/PrepareRite.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/UIStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/UIStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/UIStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/UIStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/UIStrings.json" />
+        <option value="$PROJECT_DIR$/src/main/java/thecursed/cards/TheCursedCardTags.java" />
       </list>
     </option>
   </component>
@@ -337,7 +382,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thecursed" type="462c0819:PsiDirectoryNode" />
               <item name="cards" type="462c0819:PsiDirectoryNode" />
-              <item name="attack" type="462c0819:PsiDirectoryNode" />
+              <item name="curse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
@@ -346,8 +391,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thecursed" type="462c0819:PsiDirectoryNode" />
-              <item name="cards" type="462c0819:PsiDirectoryNode" />
-              <item name="power" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
@@ -356,17 +400,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thecursed" type="462c0819:PsiDirectoryNode" />
-              <item name="cards" type="462c0819:PsiDirectoryNode" />
-              <item name="skill" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thecursed" type="462c0819:PsiDirectoryNode" />
-              <item name="characters" type="462c0819:PsiDirectoryNode" />
+              <item name="potions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
@@ -376,15 +410,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thecursed" type="462c0819:PsiDirectoryNode" />
               <item name="powers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thecursed" type="462c0819:PsiDirectoryNode" />
-              <item name="relics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
@@ -405,6 +430,75 @@
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
               <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TheCursedMod" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TheCursedMod" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="eng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TheCursedMod" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="fra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TheCursedMod" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="jpn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TheCursedMod" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="kor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TheCursedMod" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="spa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TheCursedMod" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="zhs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DarklingMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -414,6 +508,32 @@
             <path>
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: basemod:basemod:2.10.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: basemod:basemod:2.10.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="BaseMod.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: basemod:basemod:2.10.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="BaseMod.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="basemod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: basemod:basemod:2.10.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="BaseMod.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="basemod" type="462c0819:PsiDirectoryNode" />
+              <item name="abstracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.megacrit.cardcrawl:slaythespire:016" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
@@ -444,7 +564,7 @@
               <item name="desktop-1.0.jar" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="cardcrawl" type="462c0819:PsiDirectoryNode" />
-              <item name="characters" type="462c0819:PsiDirectoryNode" />
+              <item name="cards" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DarklingMod" type="b2602c69:ProjectViewProjectNode" />
@@ -459,7 +579,7 @@
               <item name="Maven: com.megacrit.cardcrawl:slaythespire:016" type="70bed36:NamedLibraryElementNode" />
               <item name="desktop-1.0.jar" type="462c0819:PsiDirectoryNode" />
               <item name="localization" type="462c0819:PsiDirectoryNode" />
-              <item name="zhs" type="462c0819:PsiDirectoryNode" />
+              <item name="kor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -475,7 +595,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565798832927" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580299638097" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -594,14 +714,14 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24542125" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25152627" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3291714" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.3291714" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.32045454" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3284091" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.24090908" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -610,7 +730,7 @@
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.18009768" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.18009768" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.24969475" />
@@ -622,10 +742,118 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/BlessingInDisguise.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/PowerStrings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="257">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/RelicStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="947">
+          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/PotionStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/KeywordStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/PowerStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/cards/purple/CarveReality.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedBoomerang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/CurseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedMace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="54" column="92" selection-start-line="54" selection-start-column="92" selection-end-line="54" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedRelics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedShiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedStaff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/localization/kor/monsters.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedBlade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="40" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/DemonSword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/ShockAndAwe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedWand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="44" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -636,160 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CursedSpellbook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/Evocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/RapidMovement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/Obscuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CircleOfCorruption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CircleOfFlame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CircleOfBlood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/power/VoidForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/power/OutForBlood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/powers/HellfireBreathingPower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/CursedWand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/SoulReap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/RavingStaff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3480">
-          <caret line="232" column="4" selection-start-line="232" selection-start-column="4" selection-end-line="232" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/cards/red/Reaper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/vfx/combat/ReaperEffect.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4215">
-          <caret line="281" column="44" selection-start-line="281" selection-start-column="44" selection-end-line="281" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4230">
-          <caret line="282" column="54" selection-start-line="282" selection-start-column="54" selection-end-line="282" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/BloodBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/AbstractCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CircleOfAbyss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="52" column="69" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/CursedArmor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -797,200 +871,229 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/cards/red/Juggernaut.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/SurpriseAttack.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/DarkBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/DoubleShield.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/TroublousMinions.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/ParallelWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/Torture.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/potions/DregsPotion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/SpreadPlague.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/cards/purple/SandsOfTime.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/attack/StingEye.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="45" column="58" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/NeowsMight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="38" column="76" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/AshesToAshes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/actions/common/ReduceCostAction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/TheCursedMod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="75">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1629#1630#0" expanded="true" />
+            <element signature="e#1669#1670#0" expanded="true" />
+            <element signature="e#1718#1719#0" expanded="true" />
+            <element signature="e#1742#1743#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/cards/AbstractCard.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-213">
-          <caret line="2170" column="51" selection-start-line="2170" selection-start-column="40" selection-end-line="2170" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/ReduceCostInHandAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/RavingStaffAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/actions/unique/SkewerAction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/actions/AbstractGameAction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/RavingStaffHitAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/BaseMod.jar!/basemod/abstracts/CustomPlayer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="48" column="52" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/characters/AbstractPlayer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="261" column="47" selection-start-line="261" selection-start-column="27" selection-end-line="261" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/characters/Ironclad.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="69" selection-start-line="69" selection-end-line="72" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/characters/TheCursedCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="132" column="41" selection-start-line="132" selection-start-column="34" selection-end-line="132" selection-end-column="41" />
-          <folding>
-            <element signature="e#3074#3075#0" expanded="true" />
-            <element signature="e#4902#4903#0" expanded="true" />
-            <element signature="e#5025#5026#0" expanded="true" />
-            <element signature="e#5120#5121#0" expanded="true" />
-            <element signature="e#5451#5452#0" expanded="true" />
-            <element signature="e#5531#5532#0" expanded="true" />
-            <element signature="e#5641#5642#0" expanded="true" />
-            <element signature="e#6011#6012#0" expanded="true" />
-            <element signature="e#6101#6102#0" expanded="true" />
-            <element signature="e#6209#6210#0" expanded="true" />
-            <element signature="e#6306#6307#0" expanded="true" />
-            <element signature="e#6397#6398#0" expanded="true" />
-            <element signature="e#6985#6986#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/characters/Defect.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="938">
-          <caret line="119" column="44" selection-start-line="119" selection-start-column="44" selection-end-line="119" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/com/megacrit/cardcrawl/characters/TheSilent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2026">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/power/HellfireBreathing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/ModTheSpire.json">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/SpitefulPray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/localization/kor/keywords.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="103" column="11" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/localization/kor/cards.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="157" column="4" lean-forward="true" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/localization/fra/cards.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/desktop-1.0.jar!/localization/eng/cards.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="253" column="8" selection-start-line="253" selection-start-column="3" selection-end-line="253" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/KeywordStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/KeywordStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/KeywordStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/KeywordStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/KeywordStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/TRANSLATOR_README.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/CardStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="239" column="84" selection-start-line="239" selection-start-column="78" selection-end-line="239" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/CardStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="237" column="27" selection-start-line="237" selection-start-column="27" selection-end-line="237" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/CardStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="237" column="27" selection-start-line="237" selection-start-column="27" selection-end-line="237" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/CardStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="237" column="27" selection-start-line="237" selection-start-column="16" selection-end-line="237" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/CardStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="237" column="27" selection-start-line="237" selection-start-column="27" selection-end-line="237" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/CardStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/skill/PrepareRite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/actions/PrepareRiteAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/eng/UIStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/fra/UIStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/jpn/UIStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/kor/UIStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/spa/UIStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/TheCursedMod/localization/zhs/UIStrings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/power/DemonicPact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thecursed/cards/TheCursedCardTags.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
         </state>
       </provider>
     </entry>

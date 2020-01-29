@@ -38,6 +38,7 @@ public class CursedStaff extends CustomCard {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
 
         this.baseDamage = this.damage = DAMAGE;
+        this.cardsToPreview = new Dregs();
     }
 
     @Override

@@ -16,6 +16,7 @@ import com.megacrit.cardcrawl.monsters.AbstractMonster;
 import com.megacrit.cardcrawl.vfx.combat.MindblastEffect;
 import thecursed.TheCursedMod;
 import thecursed.cards.CurseUtil;
+import thecursed.cards.curse.Dregs;
 import thecursed.enums.AbstractCardEnum;
 
 public class CursedRelics extends CustomCard {
@@ -39,6 +40,7 @@ public class CursedRelics extends CustomCard {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
         this.baseMagicNumber = this.magicNumber = MULTIPLY_FACTOR;
         this.baseDamage = 0;
+        this.cardsToPreview = new Dregs();
     }
 
     @Override

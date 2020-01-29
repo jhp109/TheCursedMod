@@ -220,7 +220,7 @@ public class TheCursedMod implements EditCardsSubscriber, EditCharactersSubscrib
         BaseMod.addCard(new Neurasthenia());
         BaseMod.addCard(new Obscuration());
         BaseMod.addCard(new ParallelWorld());
-        BaseMod.addCard(new PrepareRitual());
+        BaseMod.addCard(new PrepareRite());
         BaseMod.addCard(new RapidMovement());
         BaseMod.addCard(new ReleasedKnowledge());
         BaseMod.addCard(new ReleasedStrength());

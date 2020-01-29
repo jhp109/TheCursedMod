@@ -41,7 +41,7 @@ public class CleanUpWorkshop extends CustomCard {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
         this.baseBlock = this.block = BLOCK;
         this.baseMagicNumber = this.magicNumber = CARD_DRAW;
-        this.tags.add(TheCursedCardTags.RITUAL);
+        this.tags.add(TheCursedCardTags.RITE);
     }
 
     @Override

@@ -8,5 +8,5 @@ public class TheCursedCardTags {
     public static AbstractCard.CardTags CIRCLE;
 
     @SpireEnum
-    public static AbstractCard.CardTags RITUAL;
+    public static AbstractCard.CardTags RITE;
 }

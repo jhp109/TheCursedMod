@@ -5,11 +5,11 @@
   },
   "TheCursedMod:AntiAging": {
     "NAME": "Anti-Aging",
-    "DESCRIPTION": "Gain !B! Block. NL Ritual : Raise your max HP by !M!. NL Exhaust."
+    "DESCRIPTION": "Gain !B! Block. NL Rite : Raise your max HP by !M!. NL Exhaust."
   },
   "TheCursedMod:AshesToAshes": {
     "NAME": "Ashes to Ashes",
-    "DESCRIPTION": "Ritual : Draw !M! cards."
+    "DESCRIPTION": "Rite : Draw !M! cards."
   },
   "TheCursedMod:BlessingInDisguise": {
     "NAME": "Blessing in Disguise",
@@ -17,7 +17,7 @@
   },
   "TheCursedMod:BloodBarrier": {
     "NAME": "Blood Barrier",
-    "DESCRIPTION": "Ritual : Gain Block equal to your max HP minus your current HP. NL Exhaust.",
+    "DESCRIPTION": "Rite : Gain Block equal to your max HP minus your current HP. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       " NL (Gains !B! Block.)"
     ]
@@ -76,8 +76,8 @@
   },
   "TheCursedMod:CleanUpWorkshop": {
     "NAME": "Clean up Workshop",
-    "DESCRIPTION": "Ritual : Gain !B! Block and draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Ritual : Gain !B! Block and draw !M! cards."
+    "DESCRIPTION": "Rite : Gain !B! Block and draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Rite : Gain !B! Block and draw !M! cards."
   },
   "TheCursedMod:CollectTribute": {
     "NAME": "Collect Tribute",
@@ -94,26 +94,26 @@
   },
   "TheCursedMod:CursedBlade": {
     "NAME": "Cursed Blade",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a Dregs card into your hand."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a *Dregs card into your hand."
   },
   "TheCursedMod:CursedBoomerang": {
     "NAME": "Cursed Boomerang",
-    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Add a Dregs card into your hand."
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Add a *Dregs card into your hand."
   },
   "TheCursedMod:CursedMace": {
     "NAME": "Cursed Mace",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Add a Dregs card into your hand."
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Add a *Dregs card into your hand."
   },
   "TheCursedMod:CursedRelics": {
     "NAME": "Cursed Relics",
-    "DESCRIPTION": "Deal damage equal to !M! times the number of Relics you have. NL Add a Dregs card into your hand.",
+    "DESCRIPTION": "Deal damage equal to !M! times the number of Relics you have. NL Add a *Dregs card into your hand.",
     "EXTENDED_DESCRIPTION": [
       " NL (Deals !D! damage.)"
     ]
   },
   "TheCursedMod:CursedShiv": {
     "NAME": "Cursed Shiv",
-    "DESCRIPTION": "Deal !D! damage. NL Add a Dregs card into your hand."
+    "DESCRIPTION": "Deal !D! damage. NL Add a *Dregs card into your hand."
   },
   "TheCursedMod:CursedSpellbook": {
     "NAME": "Cursed Spellbook",
@@ -121,15 +121,15 @@
   },
   "TheCursedMod:CursedStaff": {
     "NAME": "Cursed Staff",
-    "DESCRIPTION": "Deal !D! damage. NL Add 2 Dregs cards into your hand."
+    "DESCRIPTION": "Deal !D! damage. NL Add 2 *Dregs cards into your hand."
   },
   "TheCursedMod:CursedWand": {
     "NAME": "Cursed Wand",
-    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Add a Dregs card into your hand."
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Add a *Dregs card into your hand."
   },
   "TheCursedMod:DarkBarrier": {
     "NAME": "Dark Barrier",
-    "DESCRIPTION": "Ritual : Gain !M! Intangible. NL Exhaust."
+    "DESCRIPTION": "Rite : Gain !M! Intangible. NL Exhaust."
   },
   "TheCursedMod:Defend_TheCursed": {
     "NAME": "Defend",
@@ -141,11 +141,11 @@
   },
   "TheCursedMod:DemonicPact": {
     "NAME": "Demonic Pact",
-    "DESCRIPTION": "Whenever you play a Ritual card, draw 1 card."
+    "DESCRIPTION": "Whenever you play a Rite card, draw 1 card."
   },
   "TheCursedMod:DoubleShield": {
     "NAME": "Double Shield",
-    "DESCRIPTION": "Gain !B! Block. NL Ritual : Next turn, gain !B! Block."
+    "DESCRIPTION": "Gain !B! Block. NL Rite : Next turn, gain !B! Block."
   },
   "TheCursedMod:Dregs": {
     "NAME": "Dregs",
@@ -157,16 +157,16 @@
   },
   "TheCursedMod:Evocation": {
     "NAME": "Evocation",
-    "DESCRIPTION": "Ritual : Remove all of your debuffs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Ritual : Remove all of your debuffs. If there is no debuff, gain 1 Artifact. NL Exhaust."
+    "DESCRIPTION": "Rite : Remove all of your debuffs. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Rite : Remove all of your debuffs. If there is no debuff, gain 1 Artifact. NL Exhaust."
   },
   "TheCursedMod:FleshFromBone": {
     "NAME": "Flesh from Bone",
-    "DESCRIPTION": "Ritual : Gain !M! Plated Armor."
+    "DESCRIPTION": "Rite : Gain !M! Plated Armor."
   },
   "TheCursedMod:ForbiddenAlchemy": {
     "NAME": "Forbidden Alchemy",
-    "DESCRIPTION": "Ritual : Obtain an Entropic Brew potion. NL Exhaust."
+    "DESCRIPTION": "Rite : Obtain an Entropic Brew potion. NL Exhaust."
   },
   "TheCursedMod:FuryStrike": {
     "NAME": "Fury Strike",
@@ -174,7 +174,7 @@
   },
   "TheCursedMod:Grudge": {
     "NAME": "Grudge",
-    "DESCRIPTION": "Add a random Ritual card into your hand. NL It costs 0 this turn. NL Exhaust."
+    "DESCRIPTION": "Add a random Rite card into your hand. NL It costs 0 this turn. NL Exhaust."
   },
   "TheCursedMod:HellfireBreathing": {
     "NAME": "Hellfire Breathing",
@@ -225,7 +225,7 @@
   },
   "TheCursedMod:Obscuration": {
     "NAME": "Obscuration",
-    "DESCRIPTION": "Gain !B! Block. NL Ritual : Gain !B! Block again."
+    "DESCRIPTION": "Gain !B! Block. NL Rite : Gain !B! Block again."
   },
   "TheCursedMod:OutForBlood": {
     "NAME": "Out for Blood",
@@ -235,14 +235,14 @@
     "NAME": "Parallel World",
     "DESCRIPTION": "Copy all cards in your hand and Shuffle them into your draw pile. NL Exhaust."
   },
-  "TheCursedMod:PrepareRitual": {
-    "NAME": "Prepare Ritual",
-    "DESCRIPTION": "Exhaust any number of non-Curse cards, then add that many Dregs cards into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION":"Exhaust any number of non-Curse cards, then add that many Dregs cards into your hand."
+  "TheCursedMod:PrepareRite": {
+    "NAME": "Prepare Rite",
+    "DESCRIPTION": "Exhaust any number of non-Curse cards, then add that many *Dregs cards into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION":"Exhaust any number of non-Curse cards, then add that many *Dregs cards into your hand."
   },
   "TheCursedMod:RapidMovement": {
     "NAME": "Rapid Movement",
-    "DESCRIPTION": "Gain !B! Block. NL Ritual : Draw !M! cards."
+    "DESCRIPTION": "Gain !B! Block. NL Rite : Draw !M! cards."
   },
   "TheCursedMod:RavingStaff": {
     "NAME": "Raving Staff",
@@ -250,12 +250,12 @@
   },
   "TheCursedMod:ReleasedKnowledge": {
     "NAME": "Released Knowledge",
-    "DESCRIPTION": "Ritual : Add a random Circle card into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Ritual : Add a random Circle card into your hand."
+    "DESCRIPTION": "Rite : Add a random Circle card into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Rite : Add a random Circle card into your hand."
   },
   "TheCursedMod:ReleasedStrength": {
     "NAME": "Released Strength",
-    "DESCRIPTION": "Ritual : Gain !M! Strength. NL Ethereal."
+    "DESCRIPTION": "Rite : Gain !M! Strength. NL Ethereal."
   },
   "TheCursedMod:SaltUponWound": {
     "NAME": "Salt upon Wound",
@@ -267,7 +267,7 @@
   },
   "TheCursedMod:SmokeScreen": {
     "NAME": "Smoke Screen",
-    "DESCRIPTION": "Gain !B! Block. NL Ritual : Apply !M! Weak to ALL enemies."
+    "DESCRIPTION": "Gain !B! Block. NL Rite : Apply !M! Weak to ALL enemies."
   },
   "TheCursedMod:SoulCrush": {
     "NAME": "Soul Crush",
@@ -330,7 +330,7 @@
   },
   "TheCursedMod:TroublousMinions": {
     "NAME": "Troublous Minions",
-    "DESCRIPTION": "Whenever you draw this card, add a copy of it into your hand. NL Gain !B! Block and add a Dregs card into your hand. NL Exhaust."
+    "DESCRIPTION": "Whenever you draw this card, add a copy of it into your hand. NL Gain !B! Block and add a *Dregs card into your hand. NL Exhaust."
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "Ultimate Pain",

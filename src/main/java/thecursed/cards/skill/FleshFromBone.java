@@ -34,7 +34,7 @@ public class FleshFromBone extends CustomCard {
     public FleshFromBone() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
         this.baseMagicNumber = this.magicNumber = PLATE_ARMOR;
-        this.tags.add(TheCursedCardTags.RITUAL);
+        this.tags.add(TheCursedCardTags.RITE);
     }
 
     @Override

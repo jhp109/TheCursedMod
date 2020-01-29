@@ -41,7 +41,7 @@ public class DemonicPactPower extends AbstractTheCursedPower {
 
     @Override
     public void onUseCard(AbstractCard card, UseCardAction action) {
-        if (card.hasTag(TheCursedCardTags.RITUAL)) {
+        if (card.hasTag(TheCursedCardTags.RITE)) {
             this.flash();
 
             AbstractDungeon.actionManager.addToBottom(new DrawCardAction(this.owner, this.amount));

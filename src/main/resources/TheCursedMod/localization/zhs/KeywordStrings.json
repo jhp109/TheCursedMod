@@ -28,7 +28,7 @@
     ],
     "DESCRIPTION": "残渣是不能被打出的诅咒牌。"
   },
-  "TheCursedMod:RitualKeyword": {
+  "TheCursedMod:RiteKeyword": {
     "PROPER_NAME": "仪式",
     "NAMES": [
       "仪式"

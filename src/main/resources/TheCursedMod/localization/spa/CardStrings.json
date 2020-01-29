@@ -94,26 +94,26 @@
   },
   "TheCursedMod:CursedBlade": {
     "NAME": "Filo Maldito",
-    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Añade 1 Despojos a tu mano."
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Añade 1 *Despojos a tu mano."
   },
   "TheCursedMod:CursedBoomerang": {
     "NAME": "Boomerang Maldito",
-    "DESCRIPTION": "Haz !D! de daño a un enemigo aleatorio !M! veces. NL Añade 1 Despojos a tu mano."
+    "DESCRIPTION": "Haz !D! de daño a un enemigo aleatorio !M! veces. NL Añade 1 *Despojos a tu mano."
   },
   "TheCursedMod:CursedMace": {
     "NAME": "Maza Maldita",
-    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Vulnerable. NL Añade 1 Despojos a tu mano."
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! Vulnerable. NL Añade 1 *Despojos a tu mano."
   },
   "TheCursedMod:CursedRelics": {
     "NAME": "Reliquias Malditas",
-    "DESCRIPTION": "Hace daño igual a !M! veces el numero de Reliquias que poseas. NL Añade 1 Despojos a tu mano.",
+    "DESCRIPTION": "Hace daño igual a !M! veces el numero de Reliquias que poseas. NL Añade 1 *Despojos a tu mano.",
     "EXTENDED_DESCRIPTION": [
       " NL (Hace !D! de daño.)"
     ]
   },
   "TheCursedMod:CursedShiv": {
     "NAME": "Navaja Maldita",
-    "DESCRIPTION": "Hace !D! de daño. NL Añade 1 Despojos a tu mano."
+    "DESCRIPTION": "Hace !D! de daño. NL Añade 1 *Despojos a tu mano."
   },
   "TheCursedMod:CursedSpellbook": {
     "NAME": "Tomo Maldito",
@@ -121,11 +121,11 @@
   },
   "TheCursedMod:CursedStaff": {
     "NAME": "Baculo Maldito",
-    "DESCRIPTION": "Hace !D! de daño. NL Añade 2 Despojos a tu mano."
+    "DESCRIPTION": "Hace !D! de daño. NL Añade 2 *Despojos a tu mano."
   },
   "TheCursedMod:CursedWand": {
     "NAME": "Vara Maldita",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Hace !D! de daño. NL Añade 1 Despojos a tu mano."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Hace !D! de daño. NL Añade 1 *Despojos a tu mano."
   },
   "TheCursedMod:DarkBarrier": {
     "NAME": "Barrera Oscura",
@@ -235,10 +235,10 @@
     "NAME": "Mundo Paralelo",
     "DESCRIPTION": "Copia todas las cartas de tu mano y barajalas en tu mazo. NL Agota."
   },
-  "TheCursedMod:PrepareRitual": {
+  "TheCursedMod:PrepareRite": {
     "NAME": "Preparacion Ritual",
-    "DESCRIPTION": "Agota cualquier número de cartas excepto Maldición, y añade esa misma cantidad de Despojos a tu mano. NL Agota.",
-    "UPGRADE_DESCRIPTION":"Agota cualquier número de cartas excepto Maldición, y añade esa misma cantidad de Despojos a tu mano."
+    "DESCRIPTION": "Agota cualquier número de cartas excepto Maldición, y añade esa misma cantidad de *Despojos a tu mano. NL Agota.",
+    "UPGRADE_DESCRIPTION":"Agota cualquier número de cartas excepto Maldición, y añade esa misma cantidad de *Despojos a tu mano."
   },
   "TheCursedMod:RapidMovement": {
     "NAME": "Movimiento Rápido",
@@ -330,7 +330,7 @@
   },
   "TheCursedMod:TroublousMinions": {
     "NAME": "Subditos Turbulentos",
-    "DESCRIPTION": "Cuando robes esta carta, añade una copia de ella a tu mano. Gana !B! de Bloqueo y añade 1 Despojos a tu mano. NL Agotar."
+    "DESCRIPTION": "Cuando robes esta carta, añade una copia de ella a tu mano. Gana !B! de Bloqueo y añade 1 *Despojos a tu mano. NL Agotar."
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "Dolor Definitivo",

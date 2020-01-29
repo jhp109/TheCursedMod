@@ -34,7 +34,7 @@ public class BloodBarrier extends CustomCard {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
         this.baseBlock = this.block = 0;
         this.exhaust = true;
-        this.tags.add(TheCursedCardTags.RITUAL);
+        this.tags.add(TheCursedCardTags.RITE);
     }
 
     @Override

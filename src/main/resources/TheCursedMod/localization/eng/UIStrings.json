@@ -1,11 +1,11 @@
 {
   "TheCursedMod:ExhaustCurseThenActivateAction": {
     "TEXT": [
-      "Exhaust. Choosing a Curse Activates the Ritual's Effect. (",
+      "Exhaust. Choosing a Curse Activates the Rite's Effect. (",
       ")"
     ]
   },
-  "TheCursedMod:PrepareRitualAction": {
+  "TheCursedMod:PrepareRiteAction": {
     "TEXT": [
       "Exhaust. (Will Be Replaced With Dregs.)"
     ]

@@ -13,13 +13,13 @@ import thecursed.cards.CurseUtil;
 
 import java.util.ArrayList;
 
-public class PrepareRitualAction extends AbstractGameAction {
-    public static final String UI_NAME = "TheCursedMod:PrepareRitualAction";
+public class PrepareRiteAction extends AbstractGameAction {
+    public static final String UI_NAME = "TheCursedMod:PrepareRiteAction";
     public static final UIStrings uiStrings;
     public static final String[] TEXT;
     private ArrayList<AbstractCard> cannotTransform = new ArrayList();
 
-    public PrepareRitualAction() {
+    public PrepareRiteAction() {
         this.actionType = ActionType.CARD_MANIPULATION;
         this.setValues(AbstractDungeon.player, AbstractDungeon.player, -1);
         this.duration = Settings.ACTION_DUR_FAST;

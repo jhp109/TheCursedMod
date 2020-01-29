@@ -12,6 +12,7 @@ import com.megacrit.cardcrawl.localization.CardStrings;
 import com.megacrit.cardcrawl.monsters.AbstractMonster;
 import thecursed.TheCursedMod;
 import thecursed.cards.CurseUtil;
+import thecursed.cards.curse.Dregs;
 import thecursed.enums.AbstractCardEnum;
 
 public class CursedBoomerang extends CustomCard {
@@ -36,6 +37,7 @@ public class CursedBoomerang extends CustomCard {
 
         this.baseDamage = this.damage = DAMAGE;
         this.baseMagicNumber = this.magicNumber = NUM_ATTACKS;
+        this.cardsToPreview = new Dregs();
     }
 
     @Override

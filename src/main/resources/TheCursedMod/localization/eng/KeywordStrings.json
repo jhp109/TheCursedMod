@@ -28,12 +28,12 @@
     ],
     "DESCRIPTION": "Dregs are unplayable Curse cards."
   },
-  "TheCursedMod:RitualKeyword": {
-    "PROPER_NAME": "Ritual",
+  "TheCursedMod:RiteKeyword": {
+    "PROPER_NAME": "Rite",
     "NAMES": [
-      "ritual"
+      "rite"
     ],
-    "DESCRIPTION": "When using, choose 1 card to #yExhaust. Selecting a Curse card will activate the Ritual's effect."
+    "DESCRIPTION": "When using, choose 1 card to #yExhaust. Selecting a Curse card will activate the Rite's effect."
   },
   "TheCursedMod:StunKeyword": {
     "PROPER_NAME": "Stun",

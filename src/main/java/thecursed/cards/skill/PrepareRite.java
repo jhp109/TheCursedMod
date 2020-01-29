@@ -8,15 +8,15 @@ import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.localization.CardStrings;
 import com.megacrit.cardcrawl.monsters.AbstractMonster;
 import thecursed.TheCursedMod;
-import thecursed.actions.PrepareRitualAction;
+import thecursed.actions.PrepareRiteAction;
 import thecursed.enums.AbstractCardEnum;
 
-public class PrepareRitual extends CustomCard {
-    public static final String ID = "TheCursedMod:PrepareRitual";
+public class PrepareRite extends CustomCard {
+    public static final String ID = "TheCursedMod:PrepareRite";
     public static final String NAME;
     public static final String DESCRIPTION;
     public static final String UPGRADE_DESCRIPTION;
-    public static final String IMG_PATH = "cards/prepareritual.png";
+    public static final String IMG_PATH = "cards/preparerite.png";
 
     private static final CardStrings cardStrings;
 
@@ -26,19 +26,19 @@ public class PrepareRitual extends CustomCard {
 
     private static final int COST = 0;
 
-    public PrepareRitual() {
+    public PrepareRite() {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
         this.exhaust = true;
     }
 
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
-        AbstractDungeon.actionManager.addToBottom(new PrepareRitualAction());
+        AbstractDungeon.actionManager.addToBottom(new PrepareRiteAction());
     }
 
     @Override
     public AbstractCard makeCopy() {
-        return new PrepareRitual();
+        return new PrepareRite();
     }
 
     @Override

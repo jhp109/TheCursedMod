@@ -94,26 +94,26 @@
   },
   "TheCursedMod:CursedBlade": {
     "NAME": "Lame Maudite",
-    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Ajoutez un Résidus à votre main."
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Ajoutez un *Résidus à votre main."
   },
   "TheCursedMod:CursedBoomerang": {
     "NAME": "Boomerang Maudit",
-    "DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois. NL Ajoutez un Résidus à votre main."
+    "DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois. NL Ajoutez un *Résidus à votre main."
   },
   "TheCursedMod:CursedMace": {
     "NAME": "Masse Maudite",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Vulnérabilité. NL Ajoutez un Résidus à votre main."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Vulnérabilité. NL Ajoutez un *Résidus à votre main."
   },
   "TheCursedMod:CursedRelics": {
     "NAME": "Reliques Maudites",
-    "DESCRIPTION": "Infligez !M! dégât(s) par Relique que vous possédez. NL Ajoutez un Résidus à votre main.",
+    "DESCRIPTION": "Infligez !M! dégât(s) par Relique que vous possédez. NL Ajoutez un *Résidus à votre main.",
     "EXTENDED_DESCRIPTION": [
       " NL (Infligez !D! dégât(s).)"
     ]
   },
   "TheCursedMod:CursedShiv": {
     "NAME": "Poignard Maudit",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez un Résidus à votre main."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez un *Résidus à votre main."
   },
   "TheCursedMod:CursedSpellbook": {
     "NAME": "Livre de Sort Maudit",
@@ -121,11 +121,11 @@
   },
   "TheCursedMod:CursedStaff": {
     "NAME": "Bâton Maudit",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez 2 Résidus into your hand."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez 2 *Résidus into your hand."
   },
   "TheCursedMod:CursedWand": {
     "NAME": "Baguette Maudite",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégât(s). NL Ajoutez un Résidus à votre main."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégât(s). NL Ajoutez un *Résidus à votre main."
   },
   "TheCursedMod:DarkBarrier": {
     "NAME": "Barrière Sombre",
@@ -235,10 +235,10 @@
     "NAME": "Monde Parallèle",
     "DESCRIPTION": "Mélange une Copie de votre main dans votre pioche NL Épuisement."
   },
-  "TheCursedMod:PrepareRitual": {
+  "TheCursedMod:PrepareRite": {
     "NAME": "Préparer le Rituel",
-    "DESCRIPTION": "Défaussez autant de cartes non-Malédictions que vous le souhaitez, ajoutez autant de Résidus à votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Défaussez autant de cartes non-Malédictions que vous le souhaitez, ajoutez autant de Résidus à votre main."
+    "DESCRIPTION": "Défaussez autant de cartes non-Malédictions que vous le souhaitez, ajoutez autant de *Résidus à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Défaussez autant de cartes non-Malédictions que vous le souhaitez, ajoutez autant de *Résidus à votre main."
   },
   "TheCursedMod:RapidMovement": {
     "NAME": "Mouvement Rapide",
@@ -330,7 +330,7 @@
   },
   "TheCursedMod:TroublousMinions": {
     "NAME": "Sbires Agités",
-    "DESCRIPTION": "Quand vous piochez cette carte, en ajoute une copie dans votre main. NL Gagnez !B! d'Armure et ajoutez un Résidus à votre Main. Épuisement."
+    "DESCRIPTION": "Quand vous piochez cette carte, en ajoute une copie dans votre main. NL Gagnez !B! d'Armure et ajoutez un *Résidus à votre Main. Épuisement."
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "Douleur Ultime",

@@ -19,7 +19,7 @@ public class DregsPotion extends CustomPotion {
 
     public DregsPotion() {
         super(NAME, POTION_ID, PotionRarity.UNCOMMON, PotionSize.CARD, PotionColor.SMOKE);
-        this.potency = getPotency();
+        this.potency = this.getPotency();
         this.description = (DESCRIPTIONS[0] + this.potency + DESCRIPTIONS[1]);
         this.isThrown = false;
         this.targetRequired = false;
@@ -31,7 +31,7 @@ public class DregsPotion extends CustomPotion {
     }
 
     public void use(AbstractCreature target) {
-        AbstractDungeon.actionManager.addToBottom(new MakeTempCardInHandAction(CurseUtil.DREGS));
+        AbstractDungeon.actionManager.addToBottom(new MakeTempCardInHandAction(CurseUtil.DREGS, this.potency));
     }
 
 

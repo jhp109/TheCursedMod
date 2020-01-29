@@ -11,6 +11,7 @@ import com.megacrit.cardcrawl.localization.CardStrings;
 import com.megacrit.cardcrawl.monsters.AbstractMonster;
 import thecursed.TheCursedMod;
 import thecursed.cards.CurseUtil;
+import thecursed.cards.curse.Dregs;
 import thecursed.enums.AbstractCardEnum;
 
 public class TroublousMinions extends CustomCard {
@@ -33,6 +34,7 @@ public class TroublousMinions extends CustomCard {
         super(ID, NAME, TheCursedMod.getResourcePath(IMG_PATH), COST, DESCRIPTION, TYPE, AbstractCardEnum.THE_CURSED_PURPLE, RARITY, TARGET);
         this.baseBlock = this.block = BLOCK;
         this.exhaust = true;
+        this.cardsToPreview = new Dregs();
     }
 
     @Override

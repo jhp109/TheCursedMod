@@ -94,26 +94,26 @@
   },
   "TheCursedMod:CursedBlade": {
     "NAME": "被诅咒的刀刃",
-    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 增加一张 残渣 到你的手牌。"
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 增加一张 *残渣 到你的手牌。"
   },
   "TheCursedMod:CursedBoomerang": {
     "NAME": "被诅咒的回旋镖",
-    "DESCRIPTION": "对随机敌人造成 !D! 点伤害 !M! 次。 NL 增加一张 残渣 到你的手牌。"
+    "DESCRIPTION": "对随机敌人造成 !D! 点伤害 !M! 次。 NL 增加一张 *残渣 到你的手牌。"
   },
   "TheCursedMod:CursedMace": {
     "NAME": "被诅咒的锤子",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 易伤 。 NL 增加一张 残渣 到你的手牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 易伤 。 NL 增加一张 *残渣 到你的手牌。"
   },
   "TheCursedMod:CursedRelics": {
     "NAME": "被诅咒的遗物",
-    "DESCRIPTION": "造成你拥有遗物数量的伤害 !M! 次。 NL 增加一张 残渣 到你的手牌。",
+    "DESCRIPTION": "造成你拥有遗物数量的伤害 !M! 次。 NL 增加一张 *残渣 到你的手牌。",
     "EXTENDED_DESCRIPTION": [
       " NL (造成 !D! 点伤害。)"
     ]
   },
   "TheCursedMod:CursedShiv": {
     "NAME": "被诅咒的小刀",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 增加一张 残渣 到你的手牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 增加一张 *残渣 到你的手牌。"
   },
   "TheCursedMod:CursedSpellbook": {
     "NAME": "被诅咒的魔法书",
@@ -121,11 +121,11 @@
   },
   "TheCursedMod:CursedStaff": {
     "NAME": "被诅咒的权杖",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 增加2张 残渣 到你的手牌。"
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 增加2张 *残渣 到你的手牌。"
   },
   "TheCursedMod:CursedWand": {
     "NAME": "被诅咒的魔杖",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 造成 !D! 点伤害。 NL 增加一张 残渣 到你的手牌。"
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 造成 !D! 点伤害。 NL 增加一张 *残渣 到你的手牌。"
   },
   "TheCursedMod:DarkBarrier": {
     "NAME": "黑暗屏障",
@@ -235,10 +235,10 @@
     "NAME": "平行世界",
     "DESCRIPTION": "复制所有的手牌加入你的抽排堆。 NL 消耗 。"
   },
-  "TheCursedMod:PrepareRitual": {
+  "TheCursedMod:PrepareRite": {
     "NAME": "准备仪式",
-    "DESCRIPTION": "消耗 任意数量的非 诅咒 卡牌，并加入相同数量的 残渣 到你的手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION":"消耗 任意数量的非 诅咒 卡牌，并加入相同数量的 残渣 到你的手牌。"
+    "DESCRIPTION": "消耗 任意数量的非 诅咒 卡牌，并加入相同数量的 *残渣 到你的手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION":"消耗 任意数量的非 诅咒 卡牌，并加入相同数量的 *残渣 到你的手牌。"
   },
   "TheCursedMod:RapidMovement": {
     "NAME": "快速移动",
@@ -330,7 +330,7 @@
   },
   "TheCursedMod:TroublousMinions": {
     "NAME": "苦痛的爪牙",
-    "DESCRIPTION": "每抽到这张牌，增加一张它的复制品到手牌。 NL 获得 !B! 点 格挡 并增加一张 残渣 到你的手牌。 NL 消耗 。"
+    "DESCRIPTION": "每抽到这张牌，增加一张它的复制品到手牌。 NL 获得 !B! 点 格挡 并增加一张 *残渣 到你的手牌。 NL 消耗 。"
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "最终计划",

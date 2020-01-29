@@ -47,7 +47,7 @@
   },
   "TheCursedMod:MagicCandle": {
     "NAME": "Magic Candle",
-    "FLAVOR": "It collects nearby mana during ritual.",
+    "FLAVOR": "It collects nearby mana during Rite.",
     "DESCRIPTIONS": [
       "Every time you activate an effect of #yCircle #b",
       " times, gain [E]."

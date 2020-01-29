@@ -94,26 +94,26 @@
   },
   "TheCursedMod:CursedBlade": {
     "NAME": "呪われし刃",
-    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 残骸 を手札に加える。"
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL *残骸 を手札に加える。"
   },
   "TheCursedMod:CursedBoomerang": {
     "NAME": "呪われしブーメラン",
-    "DESCRIPTION": "ランダムな敵に !D! ダメージを !M! 回与える。 NL 残骸 を手札に加える。"
+    "DESCRIPTION": "ランダムな敵に !D! ダメージを !M! 回与える。 NL *残骸 を手札に加える。"
   },
   "TheCursedMod:CursedMace": {
     "NAME": "呪われしメイス",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 弱体 !M! を与える。 NL 残骸 を手札に加える。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL 弱体 !M! を与える。 NL *残骸 を手札に加える。"
   },
   "TheCursedMod:CursedRelics": {
     "NAME": "呪われしレリック",
-    "DESCRIPTION": "所持しているレリックの数の !M! 倍のダメージを与える。 NL 残骸 を手札に加える。",
+    "DESCRIPTION": "所持しているレリックの数の !M! 倍のダメージを与える。 NL *残骸 を手札に加える。",
     "EXTENDED_DESCRIPTION": [
       " NL ( !D! ダメージを与える。)"
     ]
   },
   "TheCursedMod:CursedShiv": {
     "NAME": "呪われし錐",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 残骸 を手札に加える。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL *残骸 を手札に加える。"
   },
   "TheCursedMod:CursedSpellbook": {
     "NAME": "呪われし魔法書",
@@ -121,11 +121,11 @@
   },
   "TheCursedMod:CursedStaff": {
     "NAME": "呪われしスタッフ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 残骸 を 2 枚手札に加える。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL *残骸 を 2 枚手札に加える。"
   },
   "TheCursedMod:CursedWand": {
     "NAME": "呪われし杖",
-    "DESCRIPTION": "!B! ブロック を得る。 NL !D! ダメージを与える。 NL 残骸 を手札に加える。"
+    "DESCRIPTION": "!B! ブロック を得る。 NL !D! ダメージを与える。 NL *残骸 を手札に加える。"
   },
   "TheCursedMod:DarkBarrier": {
     "NAME": "ダークバリア",
@@ -235,10 +235,10 @@
     "NAME": "平行世界",
     "DESCRIPTION": "手札すべてを複製し、山札に加えてシャッフルする。 NL 廃棄 。"
   },
-  "TheCursedMod:PrepareRitual": {
+  "TheCursedMod:PrepareRite": {
     "NAME": "儀式の準備",
-    "DESCRIPTION": " 呪い 以外を好きな枚数 廃棄 し、同じ数の 残骸 を手札に加える。 NL 廃棄 。",
-    "UPGRADE_DESCRIPTION":" 呪い 以外を好きな枚数 廃棄 し、同じ数の 残骸 を手札に加える。"
+    "DESCRIPTION": " 呪い 以外を好きな枚数 廃棄 し、同じ数の *残骸 を手札に加える。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION":" 呪い 以外を好きな枚数 廃棄 し、同じ数の *残骸 を手札に加える。"
   },
   "TheCursedMod:RapidMovement": {
     "NAME": "高速移動",
@@ -330,7 +330,7 @@
   },
   "TheCursedMod:TroublousMinions": {
     "NAME": "厄介な手下",
-    "DESCRIPTION": "このカードを引く、このカードの複製を手札に加える。 NL !B! ブロック を得て、 残骸 を手札に加える。 NL 廃棄 。"
+    "DESCRIPTION": "このカードを引く、このカードの複製を手札に加える。 NL !B! ブロック を得て、 *残骸 を手札に加える。 NL 廃棄 。"
   },
   "TheCursedMod:UltimatePain": {
     "NAME": "究極の苦痛",
