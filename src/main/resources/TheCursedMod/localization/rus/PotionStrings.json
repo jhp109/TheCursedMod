@@ -1,0 +1,15 @@
+{
+  "TheCursedMod:DregsPotion": {
+    "NAME": "Зелье Мусора",
+    "DESCRIPTIONS": [
+      "Добавляет #b",
+      " Карту #rМусора в вашу руку."
+    ]
+  },
+  "TheCursedMod:DregsPotionKeyword": {
+    "NAME": "Мусор",
+    "DESCRIPTIONS": [
+      "Мусор - неиграбельная карта #rПроклятия."
+    ]
+  }
+}

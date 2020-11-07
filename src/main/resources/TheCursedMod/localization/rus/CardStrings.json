@@ -1,0 +1,361 @@
+{
+  "TheCursedMod:AbyssShockwave": {
+    "NAME": "Ударная Волна Бездны",
+    "DESCRIPTION": "Наносит !D! Урона ВСЕМ врагам. NL Если у вас в руке есть карты Проклятия, то наносит урон снова."
+  },
+  "TheCursedMod:AntiAging": {
+    "NAME": "Против Старения",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Обряд : Увеличьте свой макс. ОЗ на !M!. NL Сжигается."
+  },
+  "TheCursedMod:AshesToAshes": {
+    "NAME": "Прах к Праху",
+    "DESCRIPTION": "Обряд : Добавьте !M! карты в руку."
+  },
+  "TheCursedMod:BlessingInDisguise": {
+    "NAME": "Нет Худа без Добра",
+    "DESCRIPTION": "Сжигает все карты Проклятий. NL Получаешь !B! Защиты за каждую сожжёную карту."
+  },
+  "TheCursedMod:BloodBarrier": {
+    "NAME": "Кровавый Барьер",
+    "DESCRIPTION": "Обряд : Получи защиту, которая равняется твоему макс. ОЗ минус текущее ОЗ. NL Сжигается.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Получаешь !B! Защиты.)"
+    ]
+  },
+  "TheCursedMod:CircleOfAbyss": {
+    "NAME": "Круг Бездны",
+    "DESCRIPTION": "Круг. NL Даёт !M! Защиты. NL Если эта карта сжигается, NL даёт [E].",
+    "UPGRADE_DESCRIPTION": "Круг. NL Даёт !M! Защиты. NL Если эта карта сжигается, NL даёт [E] [E].",
+    "EXTENDED_DESCRIPTION": [
+      "Я не могу использовать эту карту."
+    ]
+  },
+  "TheCursedMod:CircleOfAmplification": {
+    "NAME": "Круг Усиления",
+    "DESCRIPTION": "Круг. NL Когда вы разыгруете карту силы, даёт 1 карту. NL Эфирная.",
+    "UPGRADE_DESCRIPTION": "Круг. NL Когда вы разыгруете карту силы, даёт [E] и даёт 1 карту. NL Эфирная.",
+    "EXTENDED_DESCRIPTION": [
+      "Я не могу использовать эту карту."
+    ]
+  },
+  "TheCursedMod:CircleOfBlood": {
+    "NAME": "Круг Крови",
+    "DESCRIPTION": "Круг. NL Когда вы используете карту атаки, вы лечитесь на !M! ОЗ. NL Эфирная.",
+    "EXTENDED_DESCRIPTION": [
+      "Я не могу использовать эту карту."
+    ]
+  },
+  "TheCursedMod:CircleOfCorruption": {
+    "NAME": "Круг Коррупции",
+    "DESCRIPTION": "Круг. NL Когда разыгруется карта навка, Наносит !M! урона случ. врагу.",
+    "EXTENDED_DESCRIPTION": [
+      "Я не могу использовать эту карту."
+    ]
+  },
+  "TheCursedMod:CircleOfFlame": {
+    "NAME": "Круг Пламени",
+    "DESCRIPTION": "Круг. NL Когда разыгруется карта атаки, Наносит !M! урона ВСЕМ врагам.",
+    "EXTENDED_DESCRIPTION": [
+      "Я не могу использовать эту карту."
+    ]
+  },
+  "TheCursedMod:CircleOfFocus": {
+    "NAME": "Круг Фокусировки",
+    "DESCRIPTION": "Круг. NL Когда разыгруете карту стоимостью !M! или больше, получаете [E].",
+    "EXTENDED_DESCRIPTION": [
+      "Я не могу использовать эту карту."
+    ]
+  },
+  "TheCursedMod:CircleOfWindfury": {
+    "NAME": "Круг Неистового Ветра",
+    "DESCRIPTION": "Круг. NL Когда разыгруете карту стоимостью 0, Даёт 1 карту. NL Эфирная.",
+    "UPGRADE_DESCRIPTION": "Круг. NL Когда разыгруете карту стоимостью 0, Даёт 1 карту.",
+    "EXTENDED_DESCRIPTION": [
+      "Я не могу использовать эту карту."
+    ]
+  },
+  "TheCursedMod:CleanUpWorkshop": {
+    "NAME": "Убрать Мастерскую",
+    "DESCRIPTION": "Обряд : Даёт !B! Защиты, вы берёте !M! карт.",
+    "UPGRADE_DESCRIPTION": "Обряд : Даёт !B! Защиты, вы берёте !M! карт."
+  },
+  "TheCursedMod:CollectTribute": {
+    "NAME": "Собрать Дань",
+    "DESCRIPTION": "В начале вашего хода, даёт [E] и добавляет карту Проклятия в вашу руку.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL В начале вашего хода, даёт [E] и добавляет карту Проклятия в вашу руку."
+  },
+  "TheCursedMod:CursedAmulet": {
+    "NAME": "Проклятый Амулет",
+    "DESCRIPTION": "Даёт !B! защиты. NL Даёт 1 карту. NL Добавляет случ. карту Проклятия в Стопку Добора."
+  },
+  "TheCursedMod:CursedArmor": {
+    "NAME": "Проклятая Броня",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет 2 случ. карты Проклятия в Стопку Добора."
+  },
+  "TheCursedMod:CursedBlade": {
+    "NAME": "Проклятый Клинок",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Добавляет карты *Мусора в руку."
+  },
+  "TheCursedMod:CursedBoomerang": {
+    "NAME": "Проклятый бумеранг",
+    "DESCRIPTION": "Наносит !D! урона случ. врагу !M! раз. NL Добавляет карты *Мусора в руку."
+  },
+  "TheCursedMod:CursedMace": {
+    "NAME": "Проклятая Булава",
+    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Уязвимости. NL Добавляет карты *Мусора в руку ."
+  },
+  "TheCursedMod:CursedRelics": {
+    "NAME": "Проклятые реликвии",
+    "DESCRIPTION": "Наносит урон равен кол-ву ваших реликвий умноженых в !M! раза. NL Добавляет карты *Мусора в руку.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Наноситs !D! damage.)"
+    ]
+  },
+  "TheCursedMod:CursedShiv": {
+    "NAME": "Проклятая Заточка",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет карты *Мусора в руку."
+  },
+  "TheCursedMod:CursedSpellbook": {
+    "NAME": "Проклятая Книга Заклинаний",
+    "DESCRIPTION": "Даёт !M! карт. NL Добавляет случ. карту Проклятия в Стопку Добора."
+  },
+  "TheCursedMod:CursedStaff": {
+    "NAME": "Проклятый Посох",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет 2 карты *Мусора в руку."
+  },
+  "TheCursedMod:CursedWand": {
+    "NAME": "Проклятый Жезл",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Наносит !D! урона. NL Добавляет карты *Мусора в руку."
+  },
+  "TheCursedMod:DarkBarrier": {
+    "NAME": "Тёмный Барьер",
+    "DESCRIPTION": "Обряд : Даёт !M! Неосязаемости. NL Сжигается."
+  },
+  "TheCursedMod:Defend_TheCursed": {
+    "NAME": "Оборона",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+  "TheCursedMod:DemonSword": {
+    "NAME": "Демонический Меч",
+    "DESCRIPTION": "Наносит !D! урона. NL Сжигает все карты Проклятия в руке и даёт !M! силы за каждую."
+  },
+  "TheCursedMod:DemonicPact": {
+    "NAME": "Демонический Пакт",
+    "DESCRIPTION": "Когда вы разыгруете карту Обряда, даёт 1 карту."
+  },
+  "TheCursedMod:DoubleShield": {
+    "NAME": "Двойной Щит",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Обряд : В след. ходу даёт !B! Защиты."
+  },
+  "TheCursedMod:Dregs": {
+    "NAME": "Мусор",
+    "DESCRIPTION": "Неиграбельная."
+  },
+  "TheCursedMod:EmpowerCircles": {
+    "NAME": "Улучшение кругов",
+    "DESCRIPTION": "Каждый раз, когда вы берете карту Круга, даёт [E] и 1 карту."
+  },
+  "TheCursedMod:Evocation": {
+    "NAME": "Вызывание",
+    "DESCRIPTION": "Обряд : Убирает ВСЕ отриц. еффекты. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Обряд : Убирает ВСЕ отриц. еффекты. NL Если нет отриц. еффектов Даёт 1 Артефакт. NL Сжигается."
+  },
+  "TheCursedMod:FleshFromBone": {
+    "NAME": "Плоть из Костей",
+    "DESCRIPTION": "Обряд : Даёт !M! Панцирь."
+  },
+  "TheCursedMod:ForbiddenAlchemy": {
+    "NAME": "Забытая Алхимия",
+    "DESCRIPTION": "Обряд : Получите случ. зелье. NL Сжигается."
+  },
+  "TheCursedMod:FuryStrike": {
+    "NAME": "Удар Ярости",
+    "DESCRIPTION": "Наносит !D! урона. NL Уменьшает стоимость карт Удара до 0 в этом ходу."
+  },
+  "TheCursedMod:Grudge": {
+    "NAME": "Обида",
+    "DESCRIPTION": "Добавь случ. карту Обряда в вашу руку. NL Она стоит 0 в этом ходу. NL Сжигается."
+  },
+  "TheCursedMod:HellfireBreathing": {
+    "NAME": "Дыхание Ада",
+    "DESCRIPTION": "Когда вы берёте карту Проклятия, Наносит !M! урона ВСЕМ врагам."
+  },
+  "TheCursedMod:HellsGateOpen": {
+    "NAME": "Открыть Врата Ада",
+    "DESCRIPTION": "В начале вашего хода добавляет случ. Проклятую карту в вашу руку.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL В начале вашего хода добавляет случ. Проклятую карту в вашу руку."
+  },
+  "TheCursedMod:Hemoplague": {
+    "NAME": "Гемоплазия",
+    "DESCRIPTION": "В начале вашего хода накладывает !M! Кровотечения ВСЕМ врагам."
+  },
+  "TheCursedMod:LuckyCharm": {
+    "NAME": "Амулет Удачи",
+    "DESCRIPTION": "Когда карта Проклятий разыгруется или Сжигается, даёт !M! Защиты."
+  },
+  "TheCursedMod:ManaBullet": {
+    "NAME": "Пуля Маны",
+    "DESCRIPTION": "Наносит !D! Урона за каждую карту Проклятий в вашей руке.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! Урона за каждую Неиграбельные карты в вашей руке.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (У вас есть ",
+      " Карта Проклятий.)",
+      " Карт Проклятий.)",
+      " NL (У вас есть ",
+      " Неиграбельная карта.)",
+      " Неиграбельные карты.)"
+    ]
+  },
+  "TheCursedMod:ManaCirculation": {
+    "NAME": "Циркуляция Маны",
+    "DESCRIPTION": "Эфирная. NL Когда сжигается карта Проклятий, даёт [E].",
+    "UPGRADE_DESCRIPTION": "Когда сжигается карта Проклятий, даёт [E]."
+  },
+  "TheCursedMod:Mangle": {
+    "NAME": "Калечить",
+    "DESCRIPTION": "Наносит !D! Урона. NL Если у врага кровотечение, NL даёт [E] NL берёте 1 карту."
+  },
+  "TheCursedMod:Neurasthenia": {
+    "NAME": "Неврастения",
+    "DESCRIPTION": "Сжигает все карты в руке. NL Враг теряет 1 силу + число Сожжёных карт. NL Сжигается."
+  },
+  "TheCursedMod:NeowsMight": {
+    "NAME": "Могущество Ньяу",
+    "DESCRIPTION": "Даёт 2 карты. NL Уменьшает стоимость всех карт в руке на 1 в этом ходу. NL Сжигается."
+  },
+  "TheCursedMod:Obscuration": {
+    "NAME": "Затмение",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Обряд : Получи !B! еще Защиты."
+  },
+  "TheCursedMod:OutForBlood": {
+    "NAME": "Истечь кровью",
+    "DESCRIPTION": "Когда атака Наносит урон, применяет !M! Кровотечение."
+  },
+  "TheCursedMod:ParallelWorld": {
+    "NAME": "Паралельный Мир",
+    "DESCRIPTION": "Скопируйте карты из вашей руки и добавьте их в Стопку Добора. NL Сжигается."
+  },
+  "TheCursedMod:PrepareRite": {
+    "NAME": "Подготовьте Обряд",
+    "DESCRIPTION": "Сожгите свои карты не Проклятий и добавьте это-же кол-во карт мусора в руку. NL Сжигается.",
+    "UPGRADE_DESCRIPTION":"Сожгите свои карты не Проклятий и добавьте это-же кол-во карт мусора в руку."
+  },
+  "TheCursedMod:RapidMovement": {
+    "NAME": "Быстрое движение",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Обряд : Возьмите !M! Карты."
+  },
+  "TheCursedMod:RavingStaff": {
+    "NAME": "Бешеный Посох",
+    "DESCRIPTION": "Наносит !D! урона случ. врагу X раз."
+  },
+  "TheCursedMod:ReleasedKnowledge": {
+    "NAME": "Освободить Знания",
+    "DESCRIPTION": "Обряд : Даёт случ. карту Круга. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Обряд : Даёт случ. карту Круга."
+  },
+  "TheCursedMod:ReleasedStrength": {
+    "NAME": "Высвободить Енергию",
+    "DESCRIPTION": "Обряд : Даёт !M! Силы. NL Эфирная."
+  },
+  "TheCursedMod:SaltUponWound": {
+    "NAME": "Соль на Рану",
+    "DESCRIPTION": "Враг мгновенно теряет ОЗ из-за кровотечения 2 раза. NL Накладывает !M! Кровотечения."
+  },
+  "TheCursedMod:ShockAndAwe": {
+    "NAME": "Шок и Трепет",
+    "DESCRIPTION": "Наносит !D! урона 3 раза. NL Добавляет 2 случ. карты Проклятий в Стопку Добора."
+  },
+  "TheCursedMod:SmokeScreen": {
+    "NAME": "Дымовая Завеса",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Обряд : Накладывает !M! Слабости на ВСЕХ врагов."
+  },
+  "TheCursedMod:SoulCrush": {
+    "NAME": "Разрушение Души",
+    "DESCRIPTION": "Сожгите все карты Проклятий в вашей руке. NL Наносит !D! урона."
+  },
+  "TheCursedMod:SoulReap": {
+    "NAME": "Жнец Душ",
+    "DESCRIPTION": "Наносит !D! урона. Лечит ОЗ На урон нанесённый врагу. NL Сжигается."
+  },
+  "TheCursedMod:SpitefulPlan": {
+    "NAME": "Злобный план",
+    "DESCRIPTION": "Когда вы берёте карту Проклятия, даёт !M! карту.",
+    "UPGRADE_DESCRIPTION": "Когда вы берёте карту Проклятия, даёт !M! карты."
+  },
+  "TheCursedMod:SpitefulPray": {
+    "NAME": "Злобная Молитва",
+    "DESCRIPTION": "Даёт [E]. NL Если в руке есть карта Проклятия, даёт доп. [E]. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Даёт [E] [E]. NL Если в руке есть карта Проклятия, даёт доп. [E]. NL Сжигается."
+  },
+  "TheCursedMod:SpitefulStrike": {
+    "NAME": "Злобный Удар",
+    "DESCRIPTION": "Наносит !D! урона. NL Если в руке есть карта Проклятия, Даёт [E] [E]."
+  },
+  "TheCursedMod:SpreadPlague": {
+    "NAME": "Распростронение Чумы",
+    "DESCRIPTION": "Накладывает !M! Кровотечения и 3 Уязвимости на ВСЕХ врагов. NL Сжигается."
+  },
+  "TheCursedMod:Stigma": {
+    "NAME": "Стигма",
+    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Кровотечения."
+  },
+  "TheCursedMod:StingEye": {
+    "NAME": "Глаза Всемогучества",
+    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Слабости. NL Накладывает !M! Кровотечения."
+  },
+  "TheCursedMod:Stretching": {
+    "NAME": "Растяжка",
+    "DESCRIPTION": "Даёт !M! Ловкости. NL В конце хода вы теряете !M! Ловкости."
+  },
+  "TheCursedMod:Strike_TheCursed": {
+    "NAME": "Удар",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "TheCursedMod:StunningStrike": {
+    "NAME": "Ошеломляющий удар",
+    "DESCRIPTION": "Наносит !D! урона. NL Если враг планирует атаковать, накладывается !M! Оглушения. NL Сжигается."
+  },
+  "TheCursedMod:SurpriseAttack": {
+    "NAME": "Неожиданная Атака",
+    "DESCRIPTION": "Начальная. NL Наносит !D! урона. NL Даёт 1 карту. NL Сжигается."
+  },
+  "TheCursedMod:TacticalStrike": {
+    "NAME": "Тактический Удар",
+    "DESCRIPTION": "Наносит !D! Урона. NL В след. ходу даёт !M! доп. карту.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! Урона. NL В след. ходу даёт !M! доп. карты."
+  },
+  "TheCursedMod:Torture": {
+    "NAME": "Пытка",
+    "DESCRIPTION": "Накладывает !M! Кровотечения."
+  },
+  "TheCursedMod:TroublousMinions": {
+    "NAME": "Прблемные Миньоны",
+    "DESCRIPTION": "Добавляет свою копию в руку. NL Даёт !B! Защиты и добавляет карту *Мусора в вашу руку. NL Сжигается."
+  },
+  "TheCursedMod:UltimatePain": {
+    "NAME": "Абсолютная Боль",
+    "DESCRIPTION": "Все враги мгновенно теряют ОЗ из-за Кровотечения X раз.",
+    "UPGRADE_DESCRIPTION": "Все враги мгновенно теряют ОЗ из-за Кровотечения X+1 раз."
+  },
+  "TheCursedMod:VitalStrike": {
+    "NAME": "Удар Жизни",
+    "DESCRIPTION": "Наносит !D! урона. NL Если у врага Кровотечение то он получает двойной урон."
+  },
+  "TheCursedMod:VoidForm": {
+    "NAME": "Форма Пустоты",
+    "DESCRIPTION": "Добавьте 2 случ. карты Проклятий в Стопку Добора. NL Когда разыгруете Проклятие, получаете !M! Силы."
+  },
+  "TheCursedMod:WearCloak": {
+    "NAME": "Наручные Часы",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Если у вас есть карта проклятий в руке, получаете [E]."
+  },
+  "TheCursedMod:Wield": {
+    "NAME": "Владение",
+    "DESCRIPTION": "Наносит !D! урона. NL Разыгрует карты число которых равняется числу Неиграбельные карты в вашей руке.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (У вас есть ",
+      " Неиграбельная карта.)",
+      " Неиграбельные карты.)"
+    ]
+  }
+}

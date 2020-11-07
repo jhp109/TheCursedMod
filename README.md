@@ -31,3 +31,5 @@ Japanese translation by fox4foofighter
 Simplified Chinese translation by 开心
 
 Spanish translation by Minaderm
+
+Russian translation by Денис Маркин
