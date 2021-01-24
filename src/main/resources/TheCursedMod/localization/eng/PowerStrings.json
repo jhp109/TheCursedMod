@@ -64,7 +64,7 @@
   "TheCursedMod:ManaCirculationPower": {
     "NAME": "Mana Circulation",
     "DESCRIPTIONS": [
-      "Whenever a #rCurse card is #yExhausted, gain [E].",
+      "Whenever a #rCurse card is #yExhausted, gain [E] .",
       "Whenever a #rCurse card is #yExhausted, gain #b",
       " Energy."
     ]

@@ -64,7 +64,7 @@
   "TheCursedMod:ManaCirculationPower": {
     "NAME": "Circulation de Mana",
     "DESCRIPTIONS": [
-      "Quand une #rMalédiction est #yÉpuisée, gagnez [E].",
+      "Quand une #rMalédiction est #yÉpuisée, gagnez [E] .",
       "Quand une #rMalédiction est #yÉpuisée, gagnez #b",
       " Energie."
     ]

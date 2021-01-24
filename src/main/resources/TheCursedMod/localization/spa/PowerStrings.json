@@ -64,7 +64,7 @@
   "TheCursedMod:ManaCirculationPower": {
     "NAME": "Circulación de maná",
     "DESCRIPTIONS": [
-      "Cuando una #rMaldición es #yAgotada, gana [E].",
+      "Cuando una #rMaldición es #yAgotada, gana [E] .",
       "Cuando una #rMaldición es #yAgotada, gana #b",
       " Energía."
     ]
